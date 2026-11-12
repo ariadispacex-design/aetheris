@@ -1,0 +1,211 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-12T05:00:43.039Z
+you: DuneMaster (deck Astronav)   opponent: Axiom / axiom (deck Veyrani)
+result: win  "Victory! Your opponent has fallen."  turns 6  final life you 6 / opponent -2
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (45 cards): 2x Gravity Lock, 4x Reprieve, 4x Recalculate, 4x Ex-syn, The Recycler, 2x Biofuel Recycle, 4x Theta, Prism Cutter, 1x Blood Siphon, 2x Ix, The Oracle Array, 2x Synthetic Lume, 3x Omnix, Vector Sentinel, 3x Arkh, Lume Heart, 2x Factory Reset, 2x Kry, The Calibrator, 2x Decommission, 1x Archive Core, 4x Overcharge, 3x Synaxion, Path Navigator
+deck AI  Axiom (40 cards): 4x Thareq, Wormrider Elder, 4x Qarseem, Sand Warden, 4x Shaqari, Caravan Elder, 4x Blood Siphon, 4x Sqietch Resupply, 4x Veriel, Scout Leader, 4x Sqietch Device, 4x Sqietch Reservoir, 4x Veyr Beacon, 4x Grave Altar
+result: win "Victory! Your opponent has fallen." after 6 turns (3 yours, 2 AI)
+final life: you 6 / AI -2   final lume: you 0 / AI 2   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: Payday 19, Blood Siphon (cost) 3
+
+-- YOU DuneMaster --
+  Lume gained 6 (turn income 3, Synthetic Lume 3)
+  Lume lost/spent 9 (Biofuel Recycle (cost) 1, Ex-syn, The Recycler (cost) 1, Gravity Lock (cost) 1, Theta, Prism Cutter (cost) 1, Recalculate (cost) 1, Synthetic Lume (cost) 1)
+  Life gained 0 (-)
+  Life lost 14 (Payday 11, combat 3)
+  Echo Debt taken 30 (Theta, Prism Cutter (cost) 5, Overcharge (cost) 4, Factory Reset (cost) 4, Biofuel Recycle (cost) 3, Gravity Lock (cost) 3, Gravity Lock (ability) 3)  repaid/moved away 21  payday: lost Life 1
+  cards drawn 13, played 9 (Biofuel Recycle 1, Ex-syn, The Recycler 1, Gravity Lock 1, Theta, Prism Cutter 1, Recalculate 1, Synthetic Lume 1, Omnix, Vector Sentinel 1, Overcharge 1, Factory Reset 1)
+  abilities activated: Ex-syn, The Recycler 3, Gravity Lock 3, Recalculate 2
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 1 (Theta, Prism Cutter 1)
+  own turns: peak lume 4, lowest life 6, peak life 20, avg hand 7.0, avg units 0.7, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 5 (turn income 3, Shaqari, Caravan Elder 2)
+  Lume lost/spent 6 (Shaqari, Caravan Elder (cost) 2, Qarseem, Sand Warden (cost) 2, Blood Siphon (cost) 1, Veriel, Scout Leader (cost) 1)
+  Life gained 0 (-)
+  Life lost 22 (Payday 19, Blood Siphon (cost) 3)
+  Echo Debt taken 19 (Factory Reset (cost) 9, Biofuel Recycle 6, Recalculate (ability) 2, Theta, Prism Cutter 1, Omnix, Vector Sentinel 1)  repaid/moved away 19  payday: lost Life 2, skipped (first turn) 1
+  cards drawn 10, played 4 (Blood Siphon 1, Veriel, Scout Leader 1, Shaqari, Caravan Elder 1, Qarseem, Sand Warden 1)
+  abilities activated: -
+  attacked 2 times (Veriel, Scout Leader 1, Shaqari, Caravan Elder 1); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 11, peak life 20, avg hand 7.0, avg units 1.0, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 37/33
+   2 AI  | 20/20 | 0/4 | 11/3 | 5/8 | 2/0 | 2/0 | 2/0 | 36/32
+   3 YOU | 9/17 | 1/0 | 0/3 | 6/5 | 1/2 | 1/3 | 1/5 | 35/32
+   4 AI  | 9/11 | 0/2 | 0/0 | 6/6 | 1/2 | 1/3 | 1/5 | 33/31
+   5 YOU | 6/11 | 1/0 | 0/0 | 7/5 | 1/3 | 1/5 | 1/8 | 32/31
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 38  wasteland 0
+      hand: Gravity Lock(4 echo 3), Reprieve(1), Recalculate(3 echo 2), Ex-syn, The Recycler(3 echo 2), Biofuel Recycle(4 echo 3), Theta, Prism Cutter(6 echo 5), Blood Siphon(1)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Blood Siphon(1), Sqietch Resupply(1), Veriel, Scout Leader(1), Thareq, Wormrider Elder(5)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Veyrani
+[T0 YOU -] D20 roll: you 18, opponent 13
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 37  wasteland 0
+      hand: Gravity Lock(4 echo 3), Reprieve(1), Recalculate(3 echo 2), Ex-syn, The Recycler(3 echo 2), Biofuel Recycle(4 echo 3), Theta, Prism Cutter(6 echo 5), Blood Siphon(1), Ix, The Oracle Array(5 echo 4)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Blood Siphon(1), Sqietch Resupply(1), Veriel, Scout Leader(1), Thareq, Wormrider Elder(5)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Biofuel Recycle (R, cost 4 echo 3, lume 4, debt 0)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 3)
+[T1 YOU main] DuneMaster plays Biofuel Recycle
+[T1 YOU main] Biofuel Recycle — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T1 YOU main] 2 Echo Debt moves to Axiom
+[T1 YOU main] PLAY DuneMaster: Ex-syn, The Recycler (U, cost 3 echo 2, lume 3, debt 1)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 3)
+[T1 YOU main] DuneMaster plays Ex-syn, The Recycler
+[T1 YOU main] PLAY DuneMaster: Gravity Lock (R, cost 4 echo 3, lume 2, debt 3)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 6)
+[T1 YOU main] DuneMaster plays Gravity Lock
+[T1 YOU main] PLAY DuneMaster: Theta, Prism Cutter (U, cost 6 echo 5, lume 1, debt 6)
+[T1 YOU main] DuneMaster takes 5 Echo Debt (Debt 11)
+[T1 YOU main] DuneMaster plays Theta, Prism Cutter
+[T1 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T1 YOU main] ACTIVATE DuneMaster: Gravity Lock ability #1
+[T1 YOU main] Gravity Lock — Take 1 Echo Debt: send 1 card from your Wasteland to your Logistic and shuffle it
+[T1 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T1 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T1 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T1 YOU main2] Nothing left to play: moving to End
+[T2 AI main] Axiom is protected on the first turn: no Payday, 3 Echo Debt waits for the next one
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 20  lume 0  debt 11  lumeVictory 0/3  hand 5  logistic 36  wasteland 0
+      hand: Reprieve(1), Recalculate(3 echo 2), Blood Siphon(1), Ix, The Oracle Array(5 echo 4), Reprieve(1)
+      front: Ex-syn, The Recycler 1/1 (prep) | Theta, Prism Cutter 1/1 (prep)
+      vault: Biofuel Recycle, Gravity Lock
+  AI  Axiom: life 20  lume 4  debt 3  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Blood Siphon(1), Sqietch Resupply(1), Veriel, Scout Leader(1), Thareq, Wormrider Elder(5), Sqietch Device(1)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Veriel, Scout Leader 6, Shaqari, Caravan Elder 5, Veyr Beacon 5. Unit swap: 1.09 Units lost per turn (high).
+[T2 AI main] AI OBJECTIVE: primary Veriel, Scout Leader (value 9.9, cost 1, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 3, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T2 AI main] PLAY Axiom: Blood Siphon (T, cost 1, lume 4, debt 3)
+[T2 AI main] Axiom plays Blood Siphon
+[T2 AI main] Theta, Prism Cutter is destroyed
+[T2 AI main] PLAY Axiom: Veriel, Scout Leader (U, cost 1, lume 3, debt 3)
+[T2 AI main] Axiom plays Veriel, Scout Leader
+[T2 AI main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.0, cost 2, Lume 2) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Shaqari, Caravan Elder (U, cost 2, lume 2, debt 3)
+[T2 AI main] Axiom plays Shaqari, Caravan Elder
+[T2 AI main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 10.3, cost 5, Lume 0) -> nothing funds it yet: saves
+[T2 AI main2] AI ends its turn with 5 card(s) in hand and 0 Lume unspent: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1)
+[T3 YOU main] Payday! DuneMaster loses 11 Life to Echo Debt
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 9  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 35  wasteland 1
+      hand: Reprieve(1), Recalculate(3 echo 2), Blood Siphon(1), Ix, The Oracle Array(5 echo 4), Reprieve(1), Factory Reset(5 echo 4)
+      front: Ex-syn, The Recycler 1/1
+      vault: Biofuel Recycle, Gravity Lock
+  AI  Axiom: life 17  lume 0  debt 3  lumeVictory 0/3  hand 5  logistic 32  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1)
+      front: Veriel, Scout Leader 1/2 (prep) | Shaqari, Caravan Elder 2/3 (prep)
+      vault: -
+[T3 YOU main] PLAY DuneMaster: Recalculate (R, cost 3 echo 2, lume 1, debt 0)
+[T3 YOU main] DuneMaster takes 2 Echo Debt (Debt 2)
+[T3 YOU main] DuneMaster plays Recalculate
+[T3 YOU main] Biofuel Recycle — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T3 YOU main] 2 Echo Debt moves to Axiom
+[T3 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T3 YOU main] ACTIVATE DuneMaster: Gravity Lock ability #1
+[T3 YOU main] Gravity Lock — Take 1 Echo Debt: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T4 AI main] Shaqari, Caravan Elder — At Extraction: gain 1 Lume
+[T4 AI main] Payday! Axiom loses 6 Life to Echo Debt
+---- TURN 4: Axiom (AI) starts ----
+  YOU DuneMaster: life 9  lume 0  debt 0  lumeVictory 0/3  hand 6  logistic 33  wasteland 2
+      hand: Reprieve(1), Blood Siphon(1), Ix, The Oracle Array(5 echo 4), Reprieve(1), Factory Reset(5 echo 4), Overcharge(5 echo 4)
+      front: Ex-syn, The Recycler 1/1
+      vault: Biofuel Recycle, Gravity Lock, Recalculate
+  AI  Axiom: life 11  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1), Qarseem, Sand Warden(2)
+      front: Veriel, Scout Leader 1/2 | Shaqari, Caravan Elder 2/3
+      vault: -
+[T4 AI main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 10.3, cost 5, Lume 2) -> nothing funds it yet: saves
+[T4 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 11 -> safe plays exist
+[T4 AI main] PLAY Axiom: Qarseem, Sand Warden (U, cost 2, lume 2, debt 0)
+[T4 AI main] Axiom plays Qarseem, Sand Warden
+[T4 AI main] AI ATTACK PLAN: chose Veriel, Scout Leader + Shaqari, Caravan Elder (score 7.1); next best: Veriel, Scout Leader+Shaqari, Caravan Elder 7.1 ; Shaqari, Caravan Elder 4.6 ; Veriel, Scout Leader 2.5 ; none 0.0
+[T4 AI bat] ATTACK Axiom declares: Veriel, Scout Leader 1/2 | Shaqari, Caravan Elder 2/3
+[T4 AI bat] BLOCKS (DuneMaster defends): Veriel, Scout Leader <- unblocked ; Shaqari, Caravan Elder <- unblocked [DuneMaster life 9]
+[T4 AI bat] Veriel, Scout Leader hits DuneMaster for 1
+[T4 AI bat] Shaqari, Caravan Elder hits DuneMaster for 2
+[T4 AI main2] AI ends its turn with 5 card(s) in hand and 0 Lume unspent: Thareq, Wormrider Elder(5), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1), Qarseem, Sand Warden(2)
+---- TURN 5: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 6  lume 1  debt 0  lumeVictory 0/3  hand 7  logistic 32  wasteland 2
+      hand: Reprieve(1), Blood Siphon(1), Ix, The Oracle Array(5 echo 4), Reprieve(1), Factory Reset(5 echo 4), Overcharge(5 echo 4), Synthetic Lume(3 echo 2)
+      front: Ex-syn, The Recycler 1/1
+      vault: Biofuel Recycle, Gravity Lock, Recalculate
+  AI  Axiom: life 11  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 31  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1), Qarseem, Sand Warden(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Shaqari, Caravan Elder 2/3 (rest) | Qarseem, Sand Warden 2/3 (prep)
+      vault: -
+[T5 YOU main] PLAY DuneMaster: Synthetic Lume (R, cost 3 echo 2, lume 1, debt 0)
+[T5 YOU main] DuneMaster takes 2 Echo Debt (Debt 2)
+[T5 YOU main] DuneMaster plays Synthetic Lume
+[T5 YOU main] Biofuel Recycle — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T5 YOU main] 2 Echo Debt moves to Axiom
+[T5 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T5 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T5 YOU main] Synthetic Lume — When cards of your Logistic are milled: gain 3 Lume
+[T5 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T5 YOU main] ACTIVATE DuneMaster: Gravity Lock ability #1
+[T5 YOU main] Gravity Lock — Take 1 Echo Debt: send 1 card from your Wasteland to your Logistic and shuffle it
+[T5 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T5 YOU main] PLAY DuneMaster: Omnix, Vector Sentinel (U, cost 3 echo 2, lume 3, debt 1)
+[T5 YOU main] DuneMaster takes 2 Echo Debt (Debt 3)
+[T5 YOU main] DuneMaster plays Omnix, Vector Sentinel
+[T5 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T5 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T5 YOU main] Omnix, Vector Sentinel — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T5 YOU main] 1 Echo Debt moves to Axiom
+[T5 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T5 YOU main] 1 Echo Debt moves to Axiom
+[T5 YOU main] PLAY DuneMaster: Overcharge (R, cost 5 echo 4, lume 2, debt 1)
+[T5 YOU main] DuneMaster takes 4 Echo Debt (Debt 5)
+[T5 YOU main] DuneMaster plays Overcharge
+[T5 YOU main] PLAY DuneMaster: Factory Reset (T, cost 5 echo 4, lume 1, debt 5) target [object Object]
+[T5 YOU main] DuneMaster takes 4 Echo Debt (Debt 9)
+[T5 YOU main] DuneMaster plays Factory Reset
+[T5 YOU main] Axiom takes 9 Echo Debt (Debt 13)
+[T5 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T6 AI main] Shaqari, Caravan Elder — At Extraction: gain 1 Lume
+[T6 AI main] Payday! Axiom loses 13 Life to Echo Debt
+---- FINAL ----
+  YOU DuneMaster: life 6  lume 0  debt 9  lumeVictory 0/3  hand 4  logistic 30  wasteland 4
+      hand: Reprieve(1), Blood Siphon(1), Ix, The Oracle Array(5 echo 4), Reprieve(1)
+      front: Ex-syn, The Recycler 1/1 | Omnix, Vector Sentinel 1/1 (prep)
+      vault: Biofuel Recycle, Gravity Lock, Recalculate, Synthetic Lume, Overcharge
+  AI  Axiom: life -2  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 30  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Sqietch Resupply(1), Thareq, Wormrider Elder(5), Sqietch Device(1), Qarseem, Sand Warden(2), Veriel, Scout Leader(1)
+      front: Veriel, Scout Leader 1/2 | Shaqari, Caravan Elder 2/3 | Qarseem, Sand Warden 2/3
+      vault: -

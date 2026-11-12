@@ -1,0 +1,187 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-12T02:31:52.974Z
+you: DuneMaster (deck Astronav)   opponent: Axiom / axiom (deck Veyrani)
+result: win  "Victory! Your opponent has fallen."  turns 3  final life you 26 / opponent -2
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (40 cards): 3x Synthetic Lume, 3x Gravity Lock, 4x Reprieve, 2x Arkh, Lume Heart, 4x Ex-syn, The Recycler, 4x Overcharge, 2x Recalculate, 2x Decommission, 4x Omnix, Vector Sentinel, 2x Kry, The Calibrator, 2x Blood Siphon, 1x Archive Core, 2x Ix, The Oracle Array, 2x Theta, Prism Cutter, 2x Factory Reset, 1x Synaxion, Path Navigator
+deck AI  Axiom (40 cards): 4x Qarseem, Sand Warden, 4x Veriel, Scout Leader, 4x Sqietch Reservoir, 4x Thareq, Wormrider Elder, 4x Shaqari, Caravan Elder, 4x Grave Altar, 4x Veyr Beacon, 4x Sqietch Device, 4x Sqietch Resupply, 4x Blood Siphon
+result: win "Victory! Your opponent has fallen." after 3 turns (1 yours, 1 AI)
+final life: you 26 / AI -2   final lume: you 0 / AI 4   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: Payday 16, Overcharge 6
+
+-- YOU DuneMaster --
+  Lume gained 4 (Synthetic Lume (ability) 3, turn income 1)
+  Lume lost/spent 7 (Ex-syn, The Recycler (cost) 2, Gravity Lock (cost) 1, Synthetic Lume (cost) 1, Overcharge (cost) 1, Reprieve (cost) 1, Arkh, Lume Heart (cost) 1)
+  Life gained 6 (Overcharge 6)
+  Life lost 0 (-)
+  Echo Debt taken 18 (Arkh, Lume Heart (cost) 5, Ex-syn, The Recycler (cost) 4, Overcharge (cost) 4, Gravity Lock (cost) 3, Synthetic Lume (cost) 2)  repaid/moved away 18  payday: -
+  cards drawn 9, played 7 (Ex-syn, The Recycler 2, Gravity Lock 1, Synthetic Lume 1, Overcharge 1, Reprieve 1, Arkh, Lume Heart 1)
+  abilities activated: Ex-syn, The Recycler 6, Synthetic Lume 3
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 20, peak life 20, avg hand 8.0, avg units 0.0, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 8 (Grave Altar (ability) 5, turn income 2, Shaqari, Caravan Elder 1)
+  Lume lost/spent 7 (Grave Altar (cost) 2, Shaqari, Caravan Elder (cost) 2, Qarseem, Sand Warden (cost) 2, Veriel, Scout Leader (cost) 1)
+  Life gained 0 (-)
+  Life lost 22 (Payday 16, Overcharge 6)
+  Echo Debt taken 16 (Gravity Lock 11, Ex-syn, The Recycler (ability) 5)  repaid/moved away 16  payday: lost Life 1
+  cards drawn 9, played 4 (Grave Altar 1, Veriel, Scout Leader 1, Shaqari, Caravan Elder 1, Qarseem, Sand Warden 1)
+  abilities activated: Grave Altar 1
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 20, peak life 20, avg hand 8.0, avg units 0.0, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 AI  | 20/20 | 3/4 | 0/0 | 7/8 | 0/0 | 0/0 | 0/0 | 33/32
+   2 YOU | 20/20 | 4/2 | 0/0 | 8/4 | 0/3 | 0/5 | 0/8 | 32/32
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Synthetic Lume(3 echo 2), Gravity Lock(4 echo 3), Reprieve(1), Arkh, Lume Heart(6 echo 5), Ex-syn, The Recycler(3 echo 2), Overcharge(5 echo 4), Ex-syn, The Recycler(3 echo 2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Qarseem, Sand Warden(2), Veriel, Scout Leader(1), Qarseem, Sand Warden(2), Sqietch Reservoir(2), Thareq, Wormrider Elder(5), Shaqari, Caravan Elder(2), Sqietch Reservoir(2)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Veyrani
+[T0 YOU -] D20 roll: you 6, opponent 14
+---- TURN 1: Axiom (AI) starts ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Synthetic Lume(3 echo 2), Gravity Lock(4 echo 3), Reprieve(1), Arkh, Lume Heart(6 echo 5), Ex-syn, The Recycler(3 echo 2), Overcharge(5 echo 4), Ex-syn, The Recycler(3 echo 2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Qarseem, Sand Warden(2), Veriel, Scout Leader(1), Qarseem, Sand Warden(2), Sqietch Reservoir(2), Thareq, Wormrider Elder(5), Shaqari, Caravan Elder(2), Sqietch Reservoir(2), Grave Altar(2)
+      front: -
+      vault: -
+[T1 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Veriel, Scout Leader 6, Shaqari, Caravan Elder 5, Veyr Beacon 5. Unit swap: 1.09 Units lost per turn (high).
+[T1 AI main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T1 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T1 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 4, debt 0)
+[T1 AI main] Axiom plays Grave Altar
+[T1 AI main] AI OBJECTIVE: primary Veriel, Scout Leader (value 9.6, cost 1, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T1 AI main] PLAY Axiom: Veriel, Scout Leader (U, cost 1, lume 2, debt 0)
+[T1 AI main] Axiom plays Veriel, Scout Leader
+[T1 AI main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 8.9, cost 2, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T1 AI main] AI SAVES Lume for Shaqari, Caravan Elder (value 8.9, cost 2) instead of playing for 0.0
+[T1 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T1 AI main] Grave Altar is destroyed
+[T1 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T1 AI main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.7, cost 2, Lume 6) -> it can be played now: plays it first
+[T1 AI main] PLAY Axiom: Shaqari, Caravan Elder (U, cost 2, lume 6, debt 0)
+[T1 AI main] Axiom plays Shaqari, Caravan Elder
+[T1 AI main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 10.3, cost 5, Lume 4) -> nothing funds it yet: saves
+[T1 AI main] PLAY Axiom: Qarseem, Sand Warden (U, cost 2, lume 4, debt 0)
+[T1 AI main] Axiom plays Qarseem, Sand Warden
+[T1 AI main] AI SAVES Lume for Thareq, Wormrider Elder (value 14.1, cost 5) instead of playing for 9.1
+[T1 AI main2] AI SAVES Lume for Thareq, Wormrider Elder (value 14.1, cost 5) instead of playing for 9.1
+[T1 AI main2] AI ends its turn with 4 card(s) in hand and 2 Lume unspent: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Thareq, Wormrider Elder(5), Sqietch Reservoir(2)
+---- TURN 2: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Synthetic Lume(3 echo 2), Gravity Lock(4 echo 3), Reprieve(1), Arkh, Lume Heart(6 echo 5), Ex-syn, The Recycler(3 echo 2), Overcharge(5 echo 4), Ex-syn, The Recycler(3 echo 2), Overcharge(5 echo 4)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 2  debt 0  lumeVictory 0/3  hand 4  logistic 32  wasteland 1
+      hand: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Thareq, Wormrider Elder(5), Sqietch Reservoir(2)
+      front: Veriel, Scout Leader 1/2 (prep) | Shaqari, Caravan Elder 2/3 (prep) | Qarseem, Sand Warden 2/3 (prep)
+      vault: -
+[T2 YOU main] PLAY DuneMaster: Gravity Lock (R, cost 4 echo 3, lume 4, debt 0)
+[T2 YOU main] DuneMaster takes 3 Echo Debt (Debt 3)
+[T2 YOU main] DuneMaster plays Gravity Lock
+[T2 YOU main] PLAY DuneMaster: Synthetic Lume (R, cost 3 echo 2, lume 3, debt 3)
+[T2 YOU main] DuneMaster takes 2 Echo Debt (Debt 5)
+[T2 YOU main] DuneMaster plays Synthetic Lume
+[T2 YOU main] PLAY DuneMaster: Ex-syn, The Recycler (U, cost 3 echo 2, lume 2, debt 5)
+[T2 YOU main] DuneMaster takes 2 Echo Debt (Debt 7)
+[T2 YOU main] DuneMaster plays Ex-syn, The Recycler
+[T2 YOU main] PLAY DuneMaster: Overcharge (R, cost 5 echo 4, lume 1, debt 7)
+[T2 YOU main] DuneMaster takes 4 Echo Debt (Debt 11)
+[T2 YOU main] DuneMaster plays Overcharge
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 2 Echo Debt moves to Axiom
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 2 Echo Debt moves to Axiom
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 2 Echo Debt moves to Axiom
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T2 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T2 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T2 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T2 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T2 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T2 YOU main] PLAY DuneMaster: Reprieve (T, cost 1, lume 3, debt 2) target [object Object]
+[T2 YOU main] DuneMaster plays Reprieve
+[T2 YOU main] PLAY DuneMaster: Arkh, Lume Heart (U, cost 6 echo 5, lume 2, debt 0)
+[T2 YOU main] DuneMaster takes 5 Echo Debt (Debt 5)
+[T2 YOU main] DuneMaster plays Arkh, Lume Heart
+[T2 YOU main] PLAY DuneMaster: Ex-syn, The Recycler (U, cost 3 echo 2, lume 1, debt 5)
+[T2 YOU main] DuneMaster takes 2 Echo Debt (Debt 7)
+[T2 YOU main] DuneMaster plays Ex-syn, The Recycler
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 2 Echo Debt moves to Axiom
+[T2 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T2 YOU main] DuneMaster sends 2 cards from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 2 Echo Debt moves to Axiom
+[T2 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T2 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T2 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T2 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T2 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T2 YOU main] 1 Echo Debt moves to Axiom
+[T2 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T2 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T2 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T2 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T2 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T2 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T2 YOU main2] Nothing left to play: moving to End
+[T3 AI main] Shaqari, Caravan Elder — At Extraction: gain 1 Lume
+[T3 AI main] Payday! Axiom loses 16 Life to Echo Debt
+---- FINAL ----
+  YOU DuneMaster: life 26  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 32  wasteland 0
+      hand: Overcharge(5 echo 4), Overcharge(5 echo 4)
+      front: Ex-syn, The Recycler 1/1 (prep) | Arkh, Lume Heart 1/1 (prep) | Ex-syn, The Recycler 1/1 (prep)
+      vault: Gravity Lock, Synthetic Lume, Overcharge
+  AI  Axiom: life -2  lume 4  debt 0  lumeVictory 0/3  hand 5  logistic 31  wasteland 1
+      hand: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Thareq, Wormrider Elder(5), Sqietch Reservoir(2), Grave Altar(2)
+      front: Veriel, Scout Leader 1/2 | Shaqari, Caravan Elder 2/3 | Qarseem, Sand Warden 2/3
+      vault: -

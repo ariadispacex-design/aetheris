@@ -1,0 +1,238 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T05:48:55.176Z
+mode: SPECTATE (AI vs AI)
+seat 1 (S1): Axiom A / axiom (deck Vulkar)   seat 2 (S2): Axiom B / axiom (deck Astronav)
+result: S1 wins  "Axiom A wins by Life."  turns 7  final life S1 11 / S2 -4
+
+==== BALANCE SUMMARY ====
+deck S1  Axiom A (40 cards): 4x Dune Skirmisher, 4x Solar Flare, 2x Ossuary, 4x Ember Lancer, 4x Reprieve, 4x Sahri Raider, 4x Grave Altar, 4x Glasshide Brute, 4x Dust Colossus, 4x Burn Forward, 2x Factory Reset
+deck S2  Axiom B (40 cards): 3x Biofuel Recycle, 2x Overcharge, 2x Recalculate, 1x Arkh, Lume Heart, 1x Decommission, 4x Blood Siphon, 3x Factory Reset, 4x Archive Core, 2x Ex-syn, The Recycler, 3x Gravity Lock, 2x Synthetic Lume, 4x Reprieve, 1x Ix, The Oracle Array, 3x Kry, The Calibrator, 2x Synaxion, Path Navigator, 2x Omnix, Vector Sentinel, 1x Theta, Prism Cutter
+result: S1 wins "Axiom A wins by Life." after 7 turns (4 seat 1, 3 seat 2)
+final life: S1 11 / S2 -4   final lume: S1 0 / S2 0   Lume Victory progress: S1 0/3 / S2 0/3
+what hurt the loser most: S2 Axiom B lost Life to: combat 16, Blood Siphon (cost) 3, Decommission 3
+
+-- S1  Axiom A --
+  Lume gained 11 (Grave Altar (ability) 5, turn income 4, Reprieve (cost) 2)
+  Lume lost/spent 14 (Ember Lancer (cost) 4, Grave Altar (cost) 2, Glasshide Brute (cost) 2, Ossuary (cost) 2, Dune Skirmisher (cost) 1, Sahri Raider (cost) 1)
+  Life gained 0 (-)
+  Life lost 9 (Payday 9)
+  Echo Debt taken 9 (Decommission 6, Recalculate 2, Glasshide Brute (cost) 1)  repaid/moved away 9  payday: lost Life 3
+  cards drawn 12, played 9 (Ember Lancer 2, Dune Skirmisher 1, Sahri Raider 1, Grave Altar 1, Reprieve 1, Glasshide Brute 1, Ossuary 1, Solar Flare 1)
+  abilities activated: Grave Altar 1
+  attacked 10 times (Dune Skirmisher 4, Sahri Raider 4, Glasshide Brute 1, Ember Lancer 1); blocked 0 times (-)
+  units destroyed 1 (Ember Lancer 1)
+  own turns: peak lume 4, lowest life 11, peak life 20, avg hand 6.3, avg units 2.0, turns with 0 units 1
+
+-- S2  Axiom B --
+  Lume gained 3 (turn income 3)
+  Lume lost/spent 6 (Recalculate (cost) 2, Blood Siphon (cost) 1, Decommission (cost) 1, Archive Core (cost) 1, Ex-syn, The Recycler (cost) 1)
+  Life gained 0 (-)
+  Life lost 24 (combat 16, Blood Siphon (cost) 3, Decommission 3, Ember Lancer 2)
+  Echo Debt taken 9 (Archive Core (cost) 4, Decommission (cost) 3, Ex-syn, The Recycler (cost) 2)  repaid/moved away 9  payday: -
+  cards drawn 10, played 6 (Recalculate 2, Blood Siphon 1, Decommission 1, Archive Core 1, Ex-syn, The Recycler 1)
+  abilities activated: -
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 1 (Ex-syn, The Recycler 1)
+  own turns: peak lume 4, lowest life 8, peak life 20, avg hand 6.0, avg units 0.0, turns with 0 units 3
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life S1/S2 | lume S1/S2 | debt S1/S2 | hand | units | ATK on board | HP on board | logistic
+   1 S1  | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 S2  | 20/18 | 0/4 | 0/0 | 5/8 | 3/0 | 4/0 | 3/0 | 32/32
+   3 S1  | 18/14 | 1/0 | 0/0 | 6/4 | 2/0 | 2/0 | 2/0 | 31/32
+   4 S2  | 18/12 | 1/1 | 0/0 | 6/5 | 2/0 | 2/0 | 2/0 | 31/31
+   5 S1  | 14/11 | 2/0 | 0/0 | 7/4 | 2/0 | 2/0 | 2/0 | 30/31
+   6 S2  | 14/9 | 0/1 | 1/0 | 3/5 | 4/0 | 6/0 | 5/0 | 29/30
+   7 S1  | 11/8 | 1/0 | 0/0 | 4/4 | 4/1 | 6/1 | 5/1 | 28/30
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 S1 -] match start
+---- OPENING HANDS ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Dune Skirmisher(1), Solar Flare(1), Ossuary(2), Solar Flare(1), Ember Lancer(2), Solar Flare(1), Reprieve(1)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Recalculate(1), Arkh, Lume Heart(6 echo 5), Decommission(4 echo 3), Blood Siphon(1), Recalculate(1)
+      front: -
+      vault: -
+[T0 S1 -] Axiom A plays Vulkar, Axiom B plays Astronav
+[T0 S1 -] D20 roll: Axiom A 11, Axiom B 1
+---- TURN 1: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Dune Skirmisher(1), Solar Flare(1), Ossuary(2), Solar Flare(1), Ember Lancer(2), Solar Flare(1), Reprieve(1), Sahri Raider(1)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Recalculate(1), Arkh, Lume Heart(6 echo 5), Decommission(4 echo 3), Blood Siphon(1), Recalculate(1)
+      front: -
+      vault: -
+[T1 S1 main] AI DECK PLAN (Axiom A): reads its own Logistic. Engine cards: Grave Altar 31, Ossuary 4. Unit swap: 0.40 Units lost per turn (low).
+[T1 S1 main] Axiom A studies its Logistic. Main engine: Grave Altar, Ossuary
+[T1 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T1 S1 main] PLAY Axiom A: Dune Skirmisher (U, cost 1, lume 4, debt 0)
+[T1 S1 main] Axiom A plays Dune Skirmisher
+[T1 S1 main] PLAY Axiom A: Sahri Raider (U, cost 1, lume 3, debt 0)
+[T1 S1 main] Axiom A plays Sahri Raider
+[T1 S1 main] PLAY Axiom A: Ember Lancer (U, cost 2, lume 2, debt 0)
+[T1 S1 main] Axiom A plays Ember Lancer
+[T1 S1 main] AI ATTACK PLAN: chose Dune Skirmisher + Sahri Raider (score 1.4); next best: Dune Skirmisher+Sahri Raider 1.4 ; Dune Skirmisher 0.7 ; Sahri Raider 0.7 ; none 0.0
+[T1 S1 bat] ATTACK Axiom A declares: Dune Skirmisher 1/1 | Sahri Raider 1/1
+[T1 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T1 S1 bat] BLOCKS (Axiom B defends): Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked [Axiom B life 20]
+[T1 S1 bat] Dune Skirmisher hits Axiom B for 1
+[T1 S1 bat] Sahri Raider hits Axiom B for 1
+[T1 S1 main2] Axiom A ends its turn with 5 card(s) in hand and 0 Lume unspent: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1)
+---- TURN 2: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 20  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 32  wasteland 0
+      hand: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1)
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Ember Lancer 2/1 (prep)
+      vault: -
+  S2  Axiom B: life 18  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Recalculate(1), Arkh, Lume Heart(6 echo 5), Decommission(4 echo 3), Blood Siphon(1), Recalculate(1), Factory Reset(5 echo 4)
+      front: -
+      vault: -
+[T2 S2 main] AI DECK PLAN (Axiom B): reads its own Logistic. Engine cards: Archive Core 10, Arkh, Lume Heart 10, Gravity Lock 7, Decommission 7. Unit swap: 0.22 Units lost per turn (low).
+[T2 S2 main] Axiom B studies its Logistic. Main engine: Archive Core, Arkh, Lume Heart, Gravity Lock
+[T2 S2 main] AI OBJECTIVE: primary Decommission (value 10.1, cost 1, Lume 4) -> it can be played now: plays it first
+[T2 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T2 S2 main] PLAY Axiom B: Blood Siphon (T, cost 1, lume 4, debt 0)
+[T2 S2 main] Axiom B plays Blood Siphon
+[T2 S2 main] Ember Lancer is destroyed
+[T2 S2 main] PLAY Axiom B: Decommission (R, cost 4 echo 3, lume 3, debt 0)
+[T2 S2 main] Axiom B takes 3 Echo Debt (Debt 3)
+[T2 S2 main] Axiom B plays Decommission
+[T2 S2 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T2 S2 main] 2 Echo Debt moves to Axiom A
+[T2 S2 main] PLAY Axiom B: Recalculate (R, cost 1, lume 2, debt 0)
+[T2 S2 main] Axiom B plays Recalculate
+[T2 S2 main] PLAY Axiom B: Recalculate (R, cost 1, lume 1, debt 0)
+[T2 S2 main] Axiom B plays Recalculate
+[T2 S2 main2] Axiom B ends its turn with 4 card(s) in hand and 0 Lume unspent: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+[T3 S1 main] Payday! Axiom A loses 2 Life to Echo Debt
+---- TURN 3: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 18  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 1
+      hand: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1), Grave Altar(2)
+      front: Dune Skirmisher 1/1 | Sahri Raider 1/1
+      vault: -
+  S2  Axiom B: life 14  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 32  wasteland 1
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+      front: -
+      vault: Decommission, Recalculate, Recalculate
+[T3 S1 main] AI OBJECTIVE: primary Grave Altar (value 16.7, cost 2, Lume 1) -> nothing funds it yet: saves
+[T3 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T3 S1 main] AI SAVES Lume for Grave Altar (value 16.7, cost 2) instead of playing for 4.5
+[T3 S1 main] AI ATTACK PLAN: chose Dune Skirmisher + Sahri Raider (score 1.8); next best: Dune Skirmisher+Sahri Raider 1.8 ; Dune Skirmisher 0.9 ; Sahri Raider 0.9 ; none 0.0
+[T3 S1 bat] ATTACK Axiom A declares: Dune Skirmisher 1/1 | Sahri Raider 1/1
+[T3 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T3 S1 bat] BLOCKS (Axiom B defends): Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked [Axiom B life 14]
+[T3 S1 bat] Dune Skirmisher hits Axiom B for 1
+[T3 S1 bat] Sahri Raider hits Axiom B for 1
+[T3 S1 main2] AI SAVES Lume for Grave Altar (value 16.7, cost 2) instead of playing for 4.5
+[T3 S1 main2] Axiom A ends its turn with 6 card(s) in hand and 1 Lume unspent: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1), Grave Altar(2)
+---- TURN 4: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 18  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 1
+      hand: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1), Grave Altar(2)
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest)
+      vault: -
+  S2  Axiom B: life 12  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 31  wasteland 1
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4), Archive Core(5 echo 4)
+      front: -
+      vault: Decommission, Recalculate, Recalculate
+[T4 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 12 -> safe plays exist
+[T4 S2 main] PLAY Axiom B: Archive Core (R, cost 5 echo 4, lume 1, debt 0)
+[T4 S2 main] Axiom B takes 4 Echo Debt (Debt 4)
+[T4 S2 main] Axiom B plays Archive Core
+[T4 S2 main] Recalculate — Whenever you play another card: transfer up to 1 Echo Debt to the opponent
+[T4 S2 main] 1 Echo Debt moves to Axiom A
+[T4 S2 main] Recalculate — Whenever you play another card: transfer up to 1 Echo Debt to the opponent
+[T4 S2 main] 1 Echo Debt moves to Axiom A
+[T4 S2 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T4 S2 main] 2 Echo Debt moves to Axiom A
+[T4 S2 main2] Axiom B ends its turn with 4 card(s) in hand and 0 Lume unspent: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+[T5 S1 main] Payday! Axiom A loses 4 Life to Echo Debt
+[T5 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+---- TURN 5: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 14  lume 2  debt 0  lumeVictory 0/3  hand 7  logistic 30  wasteland 1
+      hand: Solar Flare(1), Ossuary(2), Solar Flare(1), Solar Flare(1), Reprieve(1), Grave Altar(2), Glasshide Brute(3 echo 1)
+      front: Dune Skirmisher 1/1 | Sahri Raider 1/1
+      vault: -
+  S2  Axiom B: life 11  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 31  wasteland 1
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+      front: -
+      vault: Decommission, Recalculate, Recalculate, Archive Core
+[T5 S1 main] AI OBJECTIVE: primary Grave Altar (value 17.7, cost 2, Lume 2) -> it can be played now: plays it first
+[T5 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 14 -> safe plays exist
+[T5 S1 main] PLAY Axiom A: Grave Altar (R, cost 2, lume 2, debt 0)
+[T5 S1 main] Axiom A plays Grave Altar
+[T5 S1 main] ACTIVATE Axiom A: Grave Altar ability #1
+[T5 S1 main] Grave Altar is destroyed
+[T5 S1 main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T5 S1 main] PLAY Axiom A: Reprieve (T, cost 1, lume 5, debt 0)
+[T5 S1 main] Axiom A plays Reprieve
+[T5 S1 main] PLAY Axiom A: Glasshide Brute (U, cost 3 echo 1, lume 6, debt 0)
+[T5 S1 main] Axiom A takes 1 Echo Debt (Debt 1)
+[T5 S1 main] Axiom A plays Glasshide Brute
+[T5 S1 main] PLAY Axiom A: Ember Lancer (U, cost 2, lume 4, debt 1)
+[T5 S1 main] Axiom A plays Ember Lancer
+[T5 S1 main] PLAY Axiom A: Ossuary (R, cost 2, lume 2, debt 1)
+[T5 S1 main] Axiom A plays Ossuary
+[T5 S1 main] AI ATTACK PLAN: chose Dune Skirmisher + Sahri Raider (score 2.8); next best: Dune Skirmisher+Sahri Raider 2.8 ; Dune Skirmisher 1.4 ; Sahri Raider 1.4 ; none 0.0
+[T5 S1 bat] ATTACK Axiom A declares: Dune Skirmisher 1/1 | Sahri Raider 1/1
+[T5 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T5 S1 bat] BLOCKS (Axiom B defends): Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked [Axiom B life 11]
+[T5 S1 bat] Dune Skirmisher hits Axiom B for 1
+[T5 S1 bat] Sahri Raider hits Axiom B for 1
+[T5 S1 main2] Axiom A ends its turn with 3 card(s) in hand and 0 Lume unspent: Solar Flare(1), Solar Flare(1), Solar Flare(1)
+---- TURN 6: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 14  lume 0  debt 1  lumeVictory 0/3  hand 3  logistic 29  wasteland 3
+      hand: Solar Flare(1), Solar Flare(1), Solar Flare(1)
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Glasshide Brute 2/2 (prep) | Ember Lancer 2/1 (prep)
+      vault: Ossuary
+  S2  Axiom B: life 9  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 1
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4), Ex-syn, The Recycler(3 echo 2)
+      front: -
+      vault: Decommission, Recalculate, Recalculate, Archive Core
+[T6 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 9 -> safe plays exist
+[T6 S2 main] PLAY Axiom B: Ex-syn, The Recycler (U, cost 3 echo 2, lume 1, debt 0)
+[T6 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T6 S2 main] Axiom B plays Ex-syn, The Recycler
+[T6 S2 main] Ossuary — When an enemy Unit enters: steal 1 Lume from the opponent
+[T6 S2 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T6 S2 main] 2 Echo Debt moves to Axiom A
+[T6 S2 main2] Axiom B ends its turn with 4 card(s) in hand and 0 Lume unspent: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+[T7 S1 main] Payday! Axiom A loses 3 Life to Echo Debt
+[T7 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+---- TURN 7: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 11  lume 1  debt 0  lumeVictory 0/3  hand 4  logistic 28  wasteland 3
+      hand: Solar Flare(1), Solar Flare(1), Solar Flare(1), Dune Skirmisher(1)
+      front: Dune Skirmisher 1/1 | Sahri Raider 1/1 | Glasshide Brute 2/2 | Ember Lancer 2/1
+      vault: Ossuary
+  S2  Axiom B: life 8  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 30  wasteland 1
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+      front: Ex-syn, The Recycler 1/1 (prep)
+      vault: Decommission, Recalculate, Recalculate, Archive Core
+[T7 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 11 -> safe plays exist
+[T7 S1 main] PLAY Axiom A: Solar Flare (T, cost 1, lume 1, debt 0)
+[T7 S1 main] Axiom A plays Solar Flare
+[T7 S1 main] Ex-syn, The Recycler is destroyed
+[T7 S1 main] AI ATTACK PLAN: chose Glasshide Brute + Ember Lancer + Dune Skirmisher + Sahri Raider (score 23.5); next best: Glasshide Brute+Ember Lancer+Dune Skirmisher+Sahri Raider 23.5 ; Glasshide Brute+Ember Lancer+Dune Skirmisher 18.8 ; Glasshide Brute+Ember Lancer+Sahri Raider 18.8 ; Glasshide Brute+Ember Lancer 15.1
+[T7 S1 bat] ATTACK Axiom A declares: Glasshide Brute 2/2 | Ember Lancer 2/1 | Dune Skirmisher 1/1 | Sahri Raider 1/1
+[T7 S1 bat] Glasshide Brute — When attacking: your Units get +1 ATK this turn
+[T7 S1 bat] Ember Lancer — When attacking: deal 2 damage to the opponent
+[T7 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 S1 bat] BLOCKS (Axiom B defends): Glasshide Brute <- unblocked ; Ember Lancer <- unblocked ; Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked [Axiom B life 6]
+[T7 S1 bat] Dune Skirmisher hits Axiom B for 2
+[T7 S1 bat] Sahri Raider hits Axiom B for 2
+[T7 S1 bat] Glasshide Brute hits Axiom B for 3
+[T7 S1 bat] Ember Lancer hits Axiom B for 3
+---- FINAL ----
+  S1  Axiom A: life 11  lume 0  debt 0  lumeVictory 0/3  hand 3  logistic 28  wasteland 4
+      hand: Solar Flare(1), Solar Flare(1), Dune Skirmisher(1)
+      front: Dune Skirmisher 2/1 (rest) | Sahri Raider 2/1 (rest) | Glasshide Brute 3/2 (rest) | Ember Lancer 3/1 (rest)
+      vault: Ossuary
+  S2  Axiom B: life -4  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 30  wasteland 2
+      hand: Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Arkh, Lume Heart(6 echo 5), Factory Reset(5 echo 4)
+      front: -
+      vault: Decommission, Recalculate, Recalculate, Archive Core

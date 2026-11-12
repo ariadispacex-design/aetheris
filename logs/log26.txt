@@ -1,0 +1,1030 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-11T04:17:05.786Z
+you: DuneMaster (deck Veyrani)   opponent: Axiom / axiom (deck Caelor)
+result: win  "Lume Victory! Three turns in a row: 30, 90 and 180 Lume."  turns 21  final life you 8 / opponent 183
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (40 cards): 4x Veyr Beacon, 4x Veriel, Scout Leader, 4x Sqietch Device, 4x Sqietch Resupply, 4x Shaqari, Caravan Elder, 4x Grave Altar, 4x Blood Siphon, 4x Sqietch Reservoir, 4x Qarseem, Sand Warden, 4x Thareq, Wormrider Elder
+deck AI  Axiom (40 cards): 4x Grave Altar, 3x Rector Auresol, 2x Phalanx Legate, 4x Reprieve, 3x Vitagladium, The Lifeblade, 2x Senatum Revisio, 4x Oasiacustod, The Guard, 4x Praetorum, Aurelion Titan, 2x Aqualacum, 2x Aurastelar, 3x Blood Siphon, 2x Mobil the flota, 2x Praedicolum, 3x Sinner
+result: win "Lume Victory! Three turns in a row: 30, 90 and 180 Lume." after 21 turns (11 yours, 10 AI)
+final life: you 8 / AI 183   final lume: you 252 / AI 7   Lume Victory progress: you 3/3 / AI 0/3
+what hurt the loser most: AI lost Life to: combat 20, Blood Siphon (cost) 3
+
+-- YOU DuneMaster --
+  Lume gained 287 (Grave Altar 132, Qarseem, Sand Warden 95, Sqietch Reservoir 38, Grave Altar (ability) 10, Veyr Walker 7, turn income 4)
+  Lume lost/spent 38 (Sqietch Device (ability) 12, Grave Altar (cost) 8, Qarseem, Sand Warden (cost) 4, Veyr Beacon (cost) 2, Veriel, Scout Leader (cost) 2, Sqietch Device (cost) 2)
+  Life gained 0 (-)
+  Life lost 12 (combat 6, Blood Siphon (cost) 6)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 18, played 18 (Grave Altar 4, Veyr Beacon 2, Veriel, Scout Leader 2, Sqietch Device 2, Blood Siphon 2, Sqietch Resupply 2, Qarseem, Sand Warden 2, Shaqari, Caravan Elder 1, Sqietch Reservoir 1)
+  abilities activated: Veriel, Scout Leader 14, Sqietch Device 12, Grave Altar 2, Sqietch Resupply 2
+  attacked 32 times (Veyr Walker 31, Shaqari, Caravan Elder 1); blocked 111 times (Veyr Walker 110, Qarseem, Sand Warden 1)
+  units destroyed 43 (Veyr Walker 42, Shaqari, Caravan Elder 1)
+  own turns: peak lume 247, lowest life 8, peak life 20, avg hand 2.9, avg units 17.0, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 44 (Oasiacustod, The Guard (ability) 20, turn income 10, Grave Altar (ability) 10, Reprieve (cost) 4)
+  Lume lost/spent 40 (Rector Auresol (cost) 12, Grave Altar (cost) 4, Senatum Revisio (cost) 4, Praetorum, Aurelion Titan (cost) 4, Aurastelar (cost) 4, Oasiacustod, The Guard (cost) 3)
+  Life gained 186 (Vitagladium, The Lifeblade (ability) 186)
+  Life lost 23 (combat 20, Blood Siphon (cost) 3)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 19, played 19 (Rector Auresol 3, Oasiacustod, The Guard 3, Grave Altar 2, Reprieve 2, Senatum Revisio 2, Aurastelar 2, Vitagladium, The Lifeblade 1, Phalanx Legate 1, Praetorum, Aurelion Titan 1, Aqualacum 1, Blood Siphon 1)
+  abilities activated: Oasiacustod, The Guard 20, Rector Auresol 8, Phalanx Legate 8, Vitagladium, The Lifeblade 8, Praetorum, Aurelion Titan 4, Grave Altar 2
+  attacked 43 times (Oasiacustod, The Guard 17, Vitagladium, The Lifeblade 8, Phalanx Legate 8, Rector Auresol 6, Praetorum, Aurelion Titan 4); blocked 2 times (Vitagladium, The Lifeblade 1, Rector Auresol 1)
+  units destroyed 2 (Rector Auresol 2)
+  own turns: peak lume 6, lowest life 14, peak life 183, avg hand 3.3, avg units 4.6, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 AI  | 20/20 | 0/4 | 0/0 | 5/8 | 2/0 | 2/0 | 3/0 | 32/32
+   3 YOU | 20/20 | 1/0 | 0/0 | 6/4 | 2/3 | 2/4 | 3/13 | 31/31
+   4 AI  | 20/18 | 0/1 | 0/0 | 6/5 | 4/3 | 4/4 | 5/13 | 31/30
+   5 YOU | 19/18 | 2/1 | 0/0 | 7/5 | 4/3 | 4/4 | 5/12 | 30/30
+   6 AI  | 16/14 | 2/3 | 0/0 | 2/6 | 7/2 | 8/2 | 10/7 | 30/28
+   7 YOU | 16/16 | 4/0 | 0/0 | 3/2 | 7/4 | 1/5 | 10/14 | 29/28
+   8 AI  | 16/15 | 2/1 | 0/0 | 1/3 | 9/4 | 3/5 | 10/13 | 29/27
+   9 YOU | 14/23 | 11/2 | 0/0 | 2/2 | 9/5 | 2/6 | 10/15 | 28/27
+  10 AI  | 11/18 | 8/3 | 0/0 | 0/3 | 13/4 | 6/4 | 14/10 | 26/26
+  11 YOU | 8/33 | 13/1 | 0/0 | 1/2 | 13/5 | 1/6 | 14/15 | 25/26
+  12 AI  | 8/32 | 10/2 | 0/0 | 0/3 | 15/5 | 3/6 | 16/15 | 25/25
+  13 YOU | 8/59 | 40/0 | 0/0 | 1/1 | 15/7 | 6/9 | 16/21 | 24/25
+  14 AI  | 8/52 | 37/1 | 0/0 | 0/2 | 18/7 | 10/9 | 21/21 | 24/24
+  15 YOU | 8/106 | 81/0 | 0/0 | 1/0 | 18/7 | 8/9 | 21/83 | 23/24
+  16 AI  | 8/106 | 81/1 | 0/0 | 0/1 | 20/7 | 10/9 | 23/83 | 23/23
+  17 YOU | 8/133 | 138/2 | 0/0 | 1/0 | 28/7 | 16/9 | 31/104 | 22/23
+  18 AI  | 8/133 | 139/3 | 0/0 | 0/1 | 31/7 | 19/9 | 35/104 | 22/22
+  19 YOU | 8/154 | 180/5 | 0/0 | 1/0 | 39/7 | 16/9 | 43/139 | 21/22
+  20 AI  | 8/154 | 184/6 | 0/0 | 0/1 | 43/7 | 21/9 | 49/139 | 21/21
+  21 YOU | 8/183 | 247/7 | 0/0 | 1/0 | 52/7 | 18/9 | 58/181 | 20/21
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Veyr Beacon(1), Veriel, Scout Leader(1), Sqietch Device(1), Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Grave Altar(2), Rector Auresol(4), Phalanx Legate(2), Reprieve(1), Rector Auresol(4), Vitagladium, The Lifeblade(2), Rector Auresol(4)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Caelor
+[T0 YOU -] D20 roll: you 20, opponent 12
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Veyr Beacon(1), Veriel, Scout Leader(1), Sqietch Device(1), Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1), Grave Altar(2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Grave Altar(2), Rector Auresol(4), Phalanx Legate(2), Reprieve(1), Rector Auresol(4), Vitagladium, The Lifeblade(2), Rector Auresol(4)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Veyr Beacon (R, cost 1, lume 4, debt 0)
+[T1 YOU main] DuneMaster plays Veyr Beacon
+[T1 YOU main] PLAY DuneMaster: Veriel, Scout Leader (U, cost 1, lume 3, debt 0)
+[T1 YOU main] DuneMaster plays Veriel, Scout Leader
+[T1 YOU main] PLAY DuneMaster: Sqietch Device (R, cost 1, lume 2, debt 0)
+[T1 YOU main] DuneMaster plays Sqietch Device
+[T1 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T1 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T1 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T1 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T1 YOU main2] Nothing left to play: moving to End
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 20  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 32  wasteland 0
+      hand: Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1), Grave Altar(2)
+      front: Veriel, Scout Leader 1/2 (prep) | Veyr Walker 1/1 (prep) token
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Grave Altar(2), Rector Auresol(4), Phalanx Legate(2), Reprieve(1), Rector Auresol(4), Vitagladium, The Lifeblade(2), Rector Auresol(4), Reprieve(1)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Oasiacustod, The Guard 10, Sinner 7, Senatum Revisio 7. Chain: 13 counter makers + 10 cash-ins. Unit swap: 0.37 Units lost per turn (low).
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T2 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 4, debt 0)
+[T2 AI main] Axiom plays Grave Altar
+[T2 AI main] AI OBJECTIVE: primary Rector Auresol (value 8.6, cost 4, Lume 2) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 AI main] PLAY Axiom: Vitagladium, The Lifeblade (U, cost 2, lume 2, debt 0)
+[T2 AI main] Axiom plays Vitagladium, The Lifeblade
+[T2 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T2 AI main] Grave Altar is destroyed
+[T2 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 AI main] AI OBJECTIVE: primary Rector Auresol (value 8.6, cost 4, Lume 5) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Reprieve (T, cost 1, lume 5, debt 0)
+[T2 AI main] Axiom plays Reprieve
+[T2 AI main] PLAY Axiom: Phalanx Legate (U, cost 2, lume 6, debt 0)
+[T2 AI main] Axiom plays Phalanx Legate
+[T2 AI main] PLAY Axiom: Rector Auresol (U, cost 4, lume 4, debt 0)
+[T2 AI main] Axiom plays Rector Auresol
+[T2 AI main] AI OBJECTIVE: primary Rector Auresol (value 9.4, cost 4, Lume 0) -> nothing funds it yet: saves
+[T2 AI main2] AI ends its turn with 4 card(s) in hand and 0 Lume unspent: Rector Auresol(4), Rector Auresol(4), Reprieve(1), Senatum Revisio(2)
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 0
+      hand: Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1), Grave Altar(2), Sqietch Resupply(1)
+      front: Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 31  wasteland 2
+      hand: Rector Auresol(4), Rector Auresol(4), Reprieve(1), Senatum Revisio(2)
+      front: Vitagladium, The Lifeblade 1/4 (prep) | Phalanx Legate 1/4 (prep) | Rector Auresol 2/5 (prep)
+      vault: -
+[T3 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T3 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T3 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T3 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T3 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T3 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 20]
+[T3 YOU bat] Veyr Walker hits Axiom for 1
+[T3 YOU bat] Veyr Walker hits Axiom for 1
+[T3 YOU main2] Nothing left to play: moving to End
+---- TURN 4: Axiom (AI) starts ----
+  YOU DuneMaster: life 20  lume 0  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 0
+      hand: Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1), Grave Altar(2), Sqietch Resupply(1)
+      front: Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 18  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 2
+      hand: Rector Auresol(4), Rector Auresol(4), Reprieve(1), Senatum Revisio(2), Grave Altar(2)
+      front: Vitagladium, The Lifeblade 1/4 | Phalanx Legate 1/4 | Rector Auresol 2/5
+      vault: -
+[T4 AI main] AI OBJECTIVE: primary Grave Altar (value 17.7, cost 2, Lume 1) -> nothing funds it yet: saves
+[T4 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T4 AI main] AI SAVES Lume for Grave Altar (value 17.7, cost 2) instead of playing for 4.5
+[T4 AI main] AI ATTACK PLAN: chose Vitagladium, The Lifeblade + Phalanx Legate (score -1.1); next best: Vitagladium, The Lifeblade+Phalanx Legate -1.1 ; Rector Auresol+Vitagladium, The Lifeblade+Phalanx Legate -1.2 ; none -1.3 ; Vitagladium, The Lifeblade -1.8
+[T4 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/4 | Phalanx Legate 1/4
+[T4 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- Veyr Walker 1/1 (prep) token ; Phalanx Legate <- unblocked [DuneMaster life 20]
+[T4 AI bat] Phalanx Legate hits DuneMaster for 1
+[T4 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker
+[T4 AI bat] Veyr Walker is destroyed
+[T4 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T4 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T4 AI main2] AI SAVES Lume for Grave Altar (value 17.7, cost 2) instead of playing for 4.5
+[T4 AI main2] AI ends its turn with 5 card(s) in hand and 1 Lume unspent: Rector Auresol(4), Rector Auresol(4), Reprieve(1), Senatum Revisio(2), Grave Altar(2)
+---- TURN 5: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 19  lume 2  debt 0  lumeVictory 0/3  hand 7  logistic 30  wasteland 0
+      hand: Sqietch Resupply(1), Shaqari, Caravan Elder(2), Grave Altar(2), Blood Siphon(1), Grave Altar(2), Sqietch Resupply(1), Grave Altar(2)
+      front: Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 18  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 2
+      hand: Rector Auresol(4), Rector Auresol(4), Reprieve(1), Senatum Revisio(2), Grave Altar(2)
+      front: Vitagladium, The Lifeblade 1/3 (rest) | Phalanx Legate 1/4 (rest) | Rector Auresol 2/5
+      vault: -
+[T5 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 2, debt 0)
+[T5 YOU main] DuneMaster plays Grave Altar
+[T5 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T5 YOU main] Grave Altar is destroyed
+[T5 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T5 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T5 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T5 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T5 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T5 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 4, debt 0)
+[T5 YOU main] DuneMaster plays Grave Altar
+[T5 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T5 YOU main] Grave Altar is destroyed
+[T5 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T5 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 7, debt 0)
+[T5 YOU main] DuneMaster plays Grave Altar
+[T5 YOU main] PLAY DuneMaster: Blood Siphon (T, cost 1, lume 5, debt 0)
+[T5 YOU main] DuneMaster plays Blood Siphon
+[T5 YOU main] Rector Auresol is destroyed
+[T5 YOU main] PLAY DuneMaster: Shaqari, Caravan Elder (U, cost 2, lume 4, debt 0) target [object Object]
+[T5 YOU main] DuneMaster plays Shaqari, Caravan Elder
+[T5 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T5 YOU bat] PLAY Axiom: Reprieve (T, cost 1, lume 1, debt 0)
+[T5 YOU bat] Axiom plays Reprieve
+[T5 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 18]
+[T5 YOU bat] Veyr Walker hits Axiom for 1
+[T5 YOU bat] Veyr Walker hits Axiom for 1
+[T5 YOU bat] Veyr Walker hits Axiom for 1
+[T5 YOU bat] Veyr Walker hits Axiom for 1
+---- TURN 6: Axiom (AI) starts ----
+  YOU DuneMaster: life 16  lume 2  debt 0  lumeVictory 0/3  hand 2  logistic 30  wasteland 3
+      hand: Sqietch Resupply(1), Sqietch Resupply(1)
+      front: Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (prep) token | Shaqari, Caravan Elder 2/3 (prep)
+      vault: Veyr Beacon, Sqietch Device, Grave Altar
+  AI  Axiom: life 14  lume 3  debt 0  lumeVictory 0/3  hand 6  logistic 28  wasteland 4
+      hand: Rector Auresol(4), Rector Auresol(4), Senatum Revisio(2), Grave Altar(2), Oasiacustod, The Guard(1), Praetorum, Aurelion Titan(4)
+      front: Vitagladium, The Lifeblade 1/3 | Phalanx Legate 1/4
+      vault: -
+[T6 AI main] AI OBJECTIVE: primary Grave Altar (value 18.6, cost 2, Lume 3) -> it can be played now: plays it first
+[T6 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 14 -> safe plays exist
+[T6 AI main] PLAY Axiom: Oasiacustod, The Guard (U, cost 1, lume 3, debt 0)
+[T6 AI main] Axiom plays Oasiacustod, The Guard
+[T6 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 2, debt 0)
+[T6 AI main] Axiom plays Grave Altar
+[T6 AI main] AI OBJECTIVE: primary Rector Auresol (value 16.1, cost 4, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T6 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T6 AI main] Grave Altar is destroyed
+[T6 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T6 AI main] AI OBJECTIVE: primary Rector Auresol (value 16.1, cost 4, Lume 5) -> it can be played now: plays it first; engine in play: loop focus
+[T6 AI main] PLAY Axiom: Rector Auresol (U, cost 4, lume 5, debt 0)
+[T6 AI main] Axiom plays Rector Auresol
+[T6 AI main] AI OBJECTIVE: primary Senatum Revisio (value 18.0, cost 2, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T6 AI main] AI SAVES Lume for Senatum Revisio (value 18.0, cost 2) instead of playing for 0.0
+[T6 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T6 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T6 AI main] AI OBJECTIVE: primary Senatum Revisio (value 15.5, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T6 AI main] PLAY Axiom: Senatum Revisio (R, cost 2, lume 2, debt 0)
+[T6 AI main] Axiom plays Senatum Revisio
+[T6 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 12.8, cost 4, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T6 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T6 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T6 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T6 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T6 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T6 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T6 AI main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Vitagladium, The Lifeblade+Phalanx Legate -1.1 ; Vitagladium, The Lifeblade -1.2 ; Phalanx Legate -1.2
+[T6 AI main2] AI ends its turn with 2 card(s) in hand and 0 Lume unspent: Rector Auresol(4), Praetorum, Aurelion Titan(4)
+[T7 YOU main] Shaqari, Caravan Elder — At Extraction: gain 1 Lume
+---- TURN 7: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 16  lume 4  debt 0  lumeVictory 0/3  hand 3  logistic 29  wasteland 3
+      hand: Sqietch Resupply(1), Sqietch Resupply(1), Grave Altar(2)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Shaqari, Caravan Elder 1/3
+      vault: Veyr Beacon, Sqietch Device, Grave Altar
+  AI  Axiom: life 16  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 28  wasteland 5
+      hand: Rector Auresol(4), Praetorum, Aurelion Titan(4)
+      front: Vitagladium, The Lifeblade 1/3 | Phalanx Legate 1/4 | Oasiacustod, The Guard 1/2 (prep) | Rector Auresol 2/5 (prep)
+      vault: Senatum Revisio
+[T7 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T7 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T7 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T7 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU main] PLAY DuneMaster: Sqietch Resupply (R, cost 1, lume 3, debt 0)
+[T7 YOU main] DuneMaster plays Sqietch Resupply
+[T7 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T7 YOU bat] ATTACK DuneMaster declares: Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Shaqari, Caravan Elder 1/3 | Veyr Walker 1/1 token
+[T7 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Shaqari, Caravan Elder <- Vitagladium, The Lifeblade 1/3 politicx1 + Rector Auresol 2/5 (prep) politicx1 ; Veyr Walker <- unblocked [Axiom life 16]
+[T7 YOU bat] Veyr Walker hits Axiom for 0
+[T7 YOU bat] Veyr Walker hits Axiom for 0
+[T7 YOU bat] Veyr Walker hits Axiom for 0
+[T7 YOU bat] Veyr Walker hits Axiom for 0
+[T7 YOU bat] Veyr Walker hits Axiom for 0
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Shaqari, Caravan Elder clashes with Vitagladium, The Lifeblade + Rector Auresol
+[T7 YOU bat] Shaqari, Caravan Elder is destroyed
+[T7 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T7 YOU main2] PLAY DuneMaster: Grave Altar (R, cost 2, lume 4, debt 0) target [object Object]
+[T7 YOU main2] DuneMaster plays Grave Altar
+[T7 YOU main2] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+---- TURN 8: Axiom (AI) starts ----
+  YOU DuneMaster: life 16  lume 2  debt 0  lumeVictory 0/3  hand 1  logistic 29  wasteland 4
+      hand: Sqietch Resupply(1)
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar
+  AI  Axiom: life 15  lume 1  debt 0  lumeVictory 0/3  hand 3  logistic 27  wasteland 5
+      hand: Rector Auresol(4), Praetorum, Aurelion Titan(4), Oasiacustod, The Guard(1)
+      front: Vitagladium, The Lifeblade 1/2 politicx2 | Phalanx Legate 1/4 politicx2 | Oasiacustod, The Guard 1/2 politicx2 | Rector Auresol 2/5 politicx2
+      vault: Senatum Revisio
+[T8 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 13.3, cost 4, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T8 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 15 -> safe plays exist
+[T8 AI main] PLAY Axiom: Oasiacustod, The Guard (U, cost 1, lume 1, debt 0)
+[T8 AI main] Axiom plays Oasiacustod, The Guard
+[T8 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T8 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T8 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T8 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T8 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T8 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T8 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T8 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T8 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T8 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T8 AI main] AI SAVES Lume for Praetorum, Aurelion Titan (value 13.3, cost 4) instead of playing for 0.0
+[T8 AI main] AI ATTACK PLAN: chose Rector Auresol + Vitagladium, The Lifeblade + Phalanx Legate + Oasiacustod, The Guard (score 0.6); next best: Rector Auresol+Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard 0.6 ; none 0.0 ; Rector Auresol+Vitagladium, The Lifeblade+Phalanx Legate -0.4 ; Rector Auresol+Phalanx Legate+Oasiacustod, The Guard -0.4
+[T8 AI bat] ATTACK Axiom declares: Rector Auresol 2/5 politicx1 | Vitagladium, The Lifeblade 1/2 politicx2 | Phalanx Legate 1/4 politicx1 | Oasiacustod, The Guard 1/2 politicx2
+[T8 AI bat] BLOCKS (DuneMaster defends): Rector Auresol <- Veyr Walker 0/1 token ; Vitagladium, The Lifeblade <- Veyr Walker 0/1 (prep) token ; Phalanx Legate <- unblocked ; Oasiacustod, The Guard <- unblocked [DuneMaster life 16]
+[T8 AI bat] Phalanx Legate hits DuneMaster for 1
+[T8 AI bat] Oasiacustod, The Guard hits DuneMaster for 1
+[T8 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker
+[T8 AI bat] Veyr Walker is destroyed
+[T8 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T8 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T8 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T8 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T8 AI bat] Rector Auresol clashes with Veyr Walker
+[T8 AI bat] Veyr Walker is destroyed
+[T8 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T8 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T8 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T8 AI main2] AI SAVES Lume for Praetorum, Aurelion Titan (value 13.3, cost 4) instead of playing for 0.0
+[T8 AI main2] AI ends its turn with 2 card(s) in hand and 2 Lume unspent: Rector Auresol(4), Praetorum, Aurelion Titan(4)
+---- TURN 9: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 11  debt 0  lumeVictory 0/3  hand 2  logistic 28  wasteland 4
+      hand: Sqietch Resupply(1), Blood Siphon(1)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar
+  AI  Axiom: life 23  lume 2  debt 0  lumeVictory 0/3  hand 2  logistic 27  wasteland 5
+      hand: Rector Auresol(4), Praetorum, Aurelion Titan(4)
+      front: Vitagladium, The Lifeblade 1/2 (rest) politicx2 | Phalanx Legate 1/4 (rest) politicx1 | Oasiacustod, The Guard 1/2 (rest) politicx2 | Rector Auresol 2/5 (rest) politicx1 | Oasiacustod, The Guard 1/2 (prep) politicx2
+      vault: Senatum Revisio
+[T9 YOU main] PLAY DuneMaster: Blood Siphon (T, cost 1, lume 11, debt 0)
+[T9 YOU main] DuneMaster plays Blood Siphon
+[T9 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T9 YOU main] Rector Auresol is destroyed
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T9 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T9 YOU main] ACTIVATE DuneMaster: Sqietch Resupply ability #1
+[T9 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T9 YOU main] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU main] PLAY DuneMaster: Sqietch Resupply (R, cost 1, lume 9, debt 0)
+[T9 YOU main] DuneMaster plays Sqietch Resupply
+[T9 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T9 YOU main] ACTIVATE DuneMaster: Sqietch Resupply ability #1
+[T9 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T9 YOU main] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU bat] ATTACK DuneMaster declares: Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T9 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 23]
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 0
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+---- TURN 10: Axiom (AI) starts ----
+  YOU DuneMaster: life 11  lume 8  debt 0  lumeVictory 0/3  hand 0  logistic 26  wasteland 7
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 0/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply
+  AI  Axiom: life 18  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 26  wasteland 6
+      hand: Rector Auresol(4), Praetorum, Aurelion Titan(4), Aqualacum(2)
+      front: Vitagladium, The Lifeblade 1/2 politicx4 | Phalanx Legate 1/4 politicx3 | Oasiacustod, The Guard 1/2 politicx4 | Oasiacustod, The Guard 1/2 politicx4
+      vault: Senatum Revisio
+[T10 AI main] AI OBJECTIVE: primary Rector Auresol (value 18.4, cost 4, Lume 3) -> nothing funds it yet: saves; engine in play: loop focus
+[T10 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T10 AI main] AI SAVES Lume for Rector Auresol (value 18.4, cost 4) instead of playing for 10.3
+[T10 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T10 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T10 AI main] AI SAVES Lume for Rector Auresol (value 15.1, cost 4) instead of playing for 0.0
+[T10 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T10 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T10 AI main] AI OBJECTIVE: primary Rector Auresol (value 16.0, cost 4, Lume 4) -> it can be played now: plays it first; engine in play: loop focus
+[T10 AI main] PLAY Axiom: Rector Auresol (U, cost 4, lume 4, debt 0)
+[T10 AI main] Axiom plays Rector Auresol
+[T10 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 12.1, cost 4, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T10 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T10 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T10 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T10 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T10 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T10 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T10 AI main] AI ATTACK PLAN: chose Vitagladium, The Lifeblade + Phalanx Legate + Oasiacustod, The Guard + Oasiacustod, The Guard (score 6.2); next best: Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard+Oasiacustod, The Guard 6.2 ; Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard 4.5 ; Phalanx Legate+Oasiacustod, The Guard+Oasiacustod, The Guard 4.5 ; Vitagladium, The Lifeblade+Oasiacustod, The Guard+Oasiacustod, The Guard 4.5
+[T10 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/2 politicx2 | Phalanx Legate 1/4 | Oasiacustod, The Guard 1/2 politicx2 | Oasiacustod, The Guard 1/2 politicx2
+[T10 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- unblocked ; Phalanx Legate <- Veyr Walker 0/1 (prep) token ; Oasiacustod, The Guard <- unblocked ; Oasiacustod, The Guard <- unblocked [DuneMaster life 11]
+[T10 AI bat] Vitagladium, The Lifeblade hits DuneMaster for 1
+[T10 AI bat] Oasiacustod, The Guard hits DuneMaster for 1
+[T10 AI bat] Oasiacustod, The Guard hits DuneMaster for 1
+[T10 AI bat] Phalanx Legate clashes with Veyr Walker
+[T10 AI bat] Veyr Walker is destroyed
+[T10 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T10 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T10 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T10 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T10 AI main2] AI ends its turn with 2 card(s) in hand and 1 Lume unspent: Praetorum, Aurelion Titan(4), Aqualacum(2)
+---- TURN 11: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 13  debt 0  lumeVictory 0/3  hand 1  logistic 25  wasteland 7
+      hand: Sqietch Reservoir(2)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply
+  AI  Axiom: life 33  lume 1  debt 0  lumeVictory 0/3  hand 2  logistic 26  wasteland 6
+      hand: Praetorum, Aurelion Titan(4), Aqualacum(2)
+      front: Vitagladium, The Lifeblade 1/2 (rest) politicx2 | Phalanx Legate 1/4 (rest) | Oasiacustod, The Guard 1/2 (rest) politicx2 | Oasiacustod, The Guard 1/2 (rest) politicx2 | Rector Auresol 2/5 (prep)
+      vault: Senatum Revisio
+[T11 YOU main] PLAY DuneMaster: Sqietch Reservoir (R, cost 2, lume 13, debt 0) target [object Object]
+[T11 YOU main] DuneMaster plays Sqietch Reservoir
+[T11 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T11 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T11 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T11 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T11 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token
+[T11 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked [Axiom life 33]
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+---- TURN 12: Axiom (AI) starts ----
+  YOU DuneMaster: life 8  lume 10  debt 0  lumeVictory 0/3  hand 0  logistic 25  wasteland 7
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir
+  AI  Axiom: life 32  lume 2  debt 0  lumeVictory 0/3  hand 3  logistic 25  wasteland 6
+      hand: Praetorum, Aurelion Titan(4), Aqualacum(2), Oasiacustod, The Guard(1)
+      front: Vitagladium, The Lifeblade 1/2 politicx3 | Phalanx Legate 1/4 politicx1 | Oasiacustod, The Guard 1/2 politicx3 | Oasiacustod, The Guard 1/2 politicx3 | Rector Auresol 2/5 politicx1
+      vault: Senatum Revisio
+[T12 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 12.0, cost 4, Lume 2) -> nothing funds it yet: saves; engine in play: loop focus
+[T12 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 32 -> safe plays exist
+[T12 AI main] AI SAVES Lume for Praetorum, Aurelion Titan (value 12.0, cost 4) instead of playing for 9.2
+[T12 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T12 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T12 AI main] AI SAVES Lume for Praetorum, Aurelion Titan (value 11.9, cost 4) instead of playing for 9.2
+[T12 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T12 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T12 AI main] PLAY Axiom: Oasiacustod, The Guard (U, cost 1, lume 2, debt 0)
+[T12 AI main] Axiom plays Oasiacustod, The Guard
+[T12 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T12 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T12 AI main] AI SAVES Lume for Praetorum, Aurelion Titan (value 12.4, cost 4) instead of playing for 7.5
+[T12 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T12 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T12 AI main] AI SAVES Lume for Praetorum, Aurelion Titan (value 13.0, cost 4) instead of playing for 7.5
+[T12 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T12 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T12 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 13.6, cost 4, Lume 4) -> it can be played now: plays it first; engine in play: loop focus
+[T12 AI main] PLAY Axiom: Praetorum, Aurelion Titan (U, cost 4, lume 4, debt 0)
+[T12 AI main] Axiom plays Praetorum, Aurelion Titan
+[T12 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T12 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T12 AI main] AI ATTACK PLAN: chose Rector Auresol + Vitagladium, The Lifeblade + Phalanx Legate + Oasiacustod, The Guard + Oasiacustod, The Guard (score 8.7); next best: Rector Auresol+Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard+Oasiacustod, The Guard 8.7 ; Rector Auresol+Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard 5.6 ; Vitagladium, The Lifeblade+Phalanx Legate+Oasiacustod, The Guard+Oasiacustod, The Guard 5.6 ; Rector Auresol+Phalanx Legate+Oasiacustod, The Guard+Oasiacustod, The Guard 5.6
+[T12 AI bat] ATTACK Axiom declares: Rector Auresol 2/5 | Vitagladium, The Lifeblade 1/2 | Phalanx Legate 1/4 | Oasiacustod, The Guard 1/2 | Oasiacustod, The Guard 1/2
+[T12 AI bat] BLOCKS (DuneMaster defends): Rector Auresol <- Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Vitagladium, The Lifeblade <- Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Phalanx Legate <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 (prep) token [DuneMaster life 8]
+[T12 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker + Veyr Walker
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI bat] Phalanx Legate clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI bat] Rector Auresol clashes with Veyr Walker + Veyr Walker
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI bat] Veyr Walker is destroyed
+[T12 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T12 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T12 AI main2] AI ends its turn with 1 card(s) in hand and 0 Lume unspent: Aqualacum(2)
+---- TURN 13: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 40  debt 0  lumeVictory 0/3  hand 1  logistic 24  wasteland 7
+      hand: Qarseem, Sand Warden(2)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir
+  AI  Axiom: life 59  lume 0  debt 0  lumeVictory 0/3  hand 1  logistic 25  wasteland 6
+      hand: Aqualacum(2)
+      front: Vitagladium, The Lifeblade 1/2 (rest) | Phalanx Legate 1/4 (rest) | Oasiacustod, The Guard 1/2 (rest) | Oasiacustod, The Guard 1/2 (rest) | Rector Auresol 2/5 (rest) | Oasiacustod, The Guard 1/2 (prep) | Praetorum, Aurelion Titan 2/4 (prep)
+      vault: Senatum Revisio
+[T13 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T13 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T13 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T13 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU main] PLAY DuneMaster: Qarseem, Sand Warden (U, cost 2, lume 39, debt 0)
+[T13 YOU main] DuneMaster plays Qarseem, Sand Warden
+[T13 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T13 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T13 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 59]
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU main2] DuneMaster has 37 Lume (goal 30): Lume Victory 1/3, next turn needs 90
+---- TURN 14: Axiom (AI) starts ----
+  YOU DuneMaster: life 8  lume 37  debt 0  lumeVictory 1/3  hand 0  logistic 24  wasteland 7
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token | Qarseem, Sand Warden 2/3 (prep)
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir
+  AI  Axiom: life 52  lume 1  debt 0  lumeVictory 0/3  hand 2  logistic 24  wasteland 6
+      hand: Aqualacum(2), Aurastelar(2)
+      front: Vitagladium, The Lifeblade 1/2 politicx1 | Phalanx Legate 1/4 politicx1 | Oasiacustod, The Guard 1/2 politicx1 | Oasiacustod, The Guard 1/2 politicx1 | Rector Auresol 2/5 politicx1 | Oasiacustod, The Guard 1/2 politicx1 | Praetorum, Aurelion Titan 2/4 politicx1
+      vault: Senatum Revisio
+[T14 AI main] AI OBJECTIVE: primary Aurastelar (value 11.7, cost 2, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T14 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 52 -> no safe play: survival mode
+[T14 AI main] AI SAVES Lume for Aurastelar (value 11.7, cost 2) instead of playing for 0.0
+[T14 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T14 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T14 AI main] AI OBJECTIVE: primary Aurastelar (value 11.5, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T14 AI main] PLAY Axiom: Aqualacum (T, cost 2, lume 2, debt 0)
+[T14 AI main] Axiom plays Aqualacum
+[T14 AI main] AI OBJECTIVE: primary Aurastelar (value 11.7, cost 2, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T14 AI main] ACTIVATE Axiom: Praetorum, Aurelion Titan ability #1
+[T14 AI main] Praetorum, Aurelion Titan — Activate: remove all Politic counters from this Unit then your Units get +X HP, where X is the number of counters removed
+[T14 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T14 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T14 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T14 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T14 AI main] AI SAVES Lume for Aurastelar (value 7.5, cost 2) instead of playing for 0.0
+[T14 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T14 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T14 AI main] AI SAVES Lume for Aurastelar (value 6.7, cost 2) instead of playing for 0.0
+[T14 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T14 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T14 AI main] AI OBJECTIVE: primary Aurastelar (value 7.2, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T14 AI main] PLAY Axiom: Aurastelar (R, cost 2, lume 2, debt 0)
+[T14 AI main] Axiom plays Aurastelar
+[T14 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T14 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T14 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/11 politicx2 | Phalanx Legate 1/13 | Oasiacustod, The Guard 1/11 politicx2 | Oasiacustod, The Guard 1/11 politicx2 | Rector Auresol 2/14 politicx1 | Oasiacustod, The Guard 1/11 politicx2 | Praetorum, Aurelion Titan 2/13 politicx2
+[T14 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Phalanx Legate <- Veyr Walker 0/1 token + Veyr Walker 0/1 (prep) token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Qarseem, Sand Warden 1/3 (prep) ; Oasiacustod, The Guard <- Veyr Walker 0/1 token ; Rector Auresol <- Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token ; Praetorum, Aurelion Titan <- Veyr Walker 0/1 token [DuneMaster life 8]
+[T14 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker + Veyr Walker
+[T14 AI bat] Phalanx Legate clashes with Veyr Walker + Veyr Walker
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Qarseem, Sand Warden
+[T14 AI bat] Oasiacustod, The Guard clashes with Veyr Walker
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Rector Auresol clashes with Veyr Walker
+[T14 AI bat] Oasiacustod, The Guard clashes with Veyr Walker
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI bat] Praetorum, Aurelion Titan clashes with Veyr Walker
+[T14 AI bat] Veyr Walker is destroyed
+[T14 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T14 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T14 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T14 AI main2] AI ends its turn with 0 card(s) in hand and 0 Lume unspent
+---- TURN 15: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 81  debt 0  lumeVictory 1/3  hand 1  logistic 23  wasteland 7
+      hand: Veyr Beacon(1)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 1/3 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir
+  AI  Axiom: life 106  lume 0  debt 0  lumeVictory 0/3  hand 0  logistic 24  wasteland 7
+      hand: -
+      front: Vitagladium, The Lifeblade 1/11 (rest) politicx2 | Phalanx Legate 1/13 (rest) | Oasiacustod, The Guard 1/10 (rest) politicx2 | Oasiacustod, The Guard 1/11 (rest) politicx2 | Rector Auresol 2/14 (rest) politicx1 | Oasiacustod, The Guard 1/11 (rest) politicx2 | Praetorum, Aurelion Titan 2/13 (rest) politicx2
+      vault: Senatum Revisio, Aurastelar
+[T15 YOU main] PLAY DuneMaster: Veyr Beacon (R, cost 1, lume 81, debt 0) target [object Object]
+[T15 YOU main] DuneMaster plays Veyr Beacon
+[T15 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T15 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T15 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T15 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T15 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T15 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T15 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T15 YOU main2] DuneMaster missed the goal of 90 Lume: the Lume Victory starts again at 30
+---- TURN 16: Axiom (AI) starts ----
+  YOU DuneMaster: life 8  lume 81  debt 0  lumeVictory 0/3  hand 0  logistic 23  wasteland 7
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 1/3 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 106  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 23  wasteland 7
+      hand: Senatum Revisio(2)
+      front: Vitagladium, The Lifeblade 1/11 politicx3 | Phalanx Legate 1/13 politicx1 | Oasiacustod, The Guard 1/10 politicx3 | Oasiacustod, The Guard 1/11 politicx3 | Rector Auresol 2/14 politicx2 | Oasiacustod, The Guard 1/11 politicx3 | Praetorum, Aurelion Titan 2/13 politicx3
+      vault: Senatum Revisio, Aurastelar
+[T16 AI main] AI OBJECTIVE: primary Senatum Revisio (value 12.7, cost 2, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T16 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 106 -> no safe play: survival mode
+[T16 AI main] AI SAVES Lume for Senatum Revisio (value 12.7, cost 2) instead of playing for 0.0
+[T16 AI main] ACTIVATE Axiom: Praetorum, Aurelion Titan ability #1
+[T16 AI main] Praetorum, Aurelion Titan — Activate: remove all Politic counters from this Unit then your Units get +X HP, where X is the number of counters removed
+[T16 AI main] AI SAVES Lume for Senatum Revisio (value 6.4, cost 2) instead of playing for 0.0
+[T16 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T16 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T16 AI main] AI SAVES Lume for Senatum Revisio (value 6.3, cost 2) instead of playing for 0.0
+[T16 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T16 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T16 AI main] AI OBJECTIVE: primary Senatum Revisio (value 6.7, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T16 AI main] PLAY Axiom: Senatum Revisio (R, cost 2, lume 2, debt 0)
+[T16 AI main] Axiom plays Senatum Revisio
+[T16 AI main] Aurastelar — Whenever you play another card: put 1 Politic counter on your Units
+[T16 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T16 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T16 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T16 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T16 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T16 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T16 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T16 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T16 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/14 politicx2 | Phalanx Legate 1/16 politicx1 | Oasiacustod, The Guard 1/13 politicx2 | Oasiacustod, The Guard 1/14 politicx2 | Rector Auresol 2/17 politicx2 | Oasiacustod, The Guard 1/14 politicx2 | Praetorum, Aurelion Titan 2/16 politicx2
+[T16 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 (prep) token ; Phalanx Legate <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Rector Auresol <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token ; Praetorum, Aurelion Titan <- Veyr Walker 0/1 token [DuneMaster life 8]
+[T16 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T16 AI bat] Phalanx Legate clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T16 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Rector Auresol clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T16 AI bat] Oasiacustod, The Guard clashes with Veyr Walker
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Praetorum, Aurelion Titan clashes with Veyr Walker
+[T16 AI bat] Veyr Walker is destroyed
+[T16 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T16 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T16 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T16 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T16 AI main2] AI ends its turn with 0 card(s) in hand and 2 Lume unspent
+[T17 YOU main] Veriel, Scout Leader (in DuneMaster's hand) loses its keywords
+---- TURN 17: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 138  debt 0  lumeVictory 0/3  hand 1  logistic 22  wasteland 7
+      hand: Veriel, Scout Leader(1)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 133  lume 2  debt 0  lumeVictory 0/3  hand 0  logistic 23  wasteland 7
+      hand: -
+      front: Vitagladium, The Lifeblade 1/14 (rest) politicx2 | Phalanx Legate 1/16 (rest) politicx1 | Oasiacustod, The Guard 1/13 (rest) politicx2 | Oasiacustod, The Guard 1/14 (rest) politicx2 | Rector Auresol 2/17 (rest) politicx2 | Oasiacustod, The Guard 1/14 (rest) politicx2 | Praetorum, Aurelion Titan 2/16 (rest) politicx2
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio
+[T17 YOU main] PLAY DuneMaster: Veriel, Scout Leader (U, cost 1, lume 138, debt 0)
+[T17 YOU main] DuneMaster plays Veriel, Scout Leader
+[T17 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T17 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T17 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T17 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T17 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T17 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T17 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T17 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T17 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T17 YOU main2] DuneMaster has 139 Lume (goal 30): Lume Victory 1/3, next turn needs 90
+---- TURN 18: Axiom (AI) starts ----
+  YOU DuneMaster: life 8  lume 139  debt 0  lumeVictory 1/3  hand 0  logistic 22  wasteland 7
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veriel, Scout Leader 1/2 (prep) | Veyr Walker 1/1 token | Veyr Walker 1/1 (prep) token
+      vault: Veyr Beacon, Sqietch Device, Grave Altar, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 133  lume 3  debt 0  lumeVictory 0/3  hand 1  logistic 22  wasteland 7
+      hand: Blood Siphon(1)
+      front: Vitagladium, The Lifeblade 1/14 politicx4 | Phalanx Legate 1/16 politicx3 | Oasiacustod, The Guard 1/13 politicx4 | Oasiacustod, The Guard 1/14 politicx4 | Rector Auresol 2/17 politicx4 | Oasiacustod, The Guard 1/14 politicx4 | Praetorum, Aurelion Titan 2/16 politicx4
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio
+[T18 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 133 -> safe plays exist
+[T18 AI main] PLAY Axiom: Blood Siphon (T, cost 1, lume 3, debt 0)
+[T18 AI main] Axiom plays Blood Siphon
+[T18 AI main] Grave Altar is destroyed
+[T18 AI main] Aurastelar — Whenever you play another card: put 1 Politic counter on your Units
+[T18 AI main] ACTIVATE Axiom: Praetorum, Aurelion Titan ability #1
+[T18 AI main] Praetorum, Aurelion Titan — Activate: remove all Politic counters from this Unit then your Units get +X HP, where X is the number of counters removed
+[T18 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T18 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T18 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T18 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T18 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T18 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T18 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T18 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T18 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T18 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T18 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T18 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T18 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/19 politicx3 | Phalanx Legate 1/21 politicx2 | Oasiacustod, The Guard 1/18 politicx3 | Oasiacustod, The Guard 1/19 politicx3 | Rector Auresol 2/22 politicx3 | Oasiacustod, The Guard 1/19 politicx3 | Praetorum, Aurelion Titan 2/21 politicx3
+[T18 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Phalanx Legate <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Rector Auresol <- Veyr Walker 0/1 (prep) token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Praetorum, Aurelion Titan <- Veyr Walker 0/1 token [DuneMaster life 8]
+[T18 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Phalanx Legate clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Rector Auresol clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Walker — When destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Praetorum, Aurelion Titan clashes with Veyr Walker
+[T18 AI bat] Veyr Walker is destroyed
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T18 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T18 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T18 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T18 AI main2] AI ends its turn with 0 card(s) in hand and 5 Lume unspent
+---- TURN 19: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 180  debt 0  lumeVictory 1/3  hand 1  logistic 21  wasteland 8
+      hand: Qarseem, Sand Warden(2)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veriel, Scout Leader 0/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 154  lume 5  debt 0  lumeVictory 0/3  hand 0  logistic 22  wasteland 8
+      hand: -
+      front: Vitagladium, The Lifeblade 1/19 (rest) politicx3 | Phalanx Legate 1/21 (rest) politicx2 | Oasiacustod, The Guard 1/18 (rest) politicx3 | Oasiacustod, The Guard 1/19 (rest) politicx3 | Rector Auresol 2/22 (rest) politicx3 | Oasiacustod, The Guard 1/19 (rest) politicx3 | Praetorum, Aurelion Titan 2/21 (rest) politicx3
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio
+[T19 YOU main] PLAY DuneMaster: Qarseem, Sand Warden (U, cost 2, lume 180, debt 0) target [object Object]
+[T19 YOU main] DuneMaster plays Qarseem, Sand Warden
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T19 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T19 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T19 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T19 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T19 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T19 YOU main2] DuneMaster has 184 Lume (goal 90): Lume Victory 2/3, next turn needs 180
+---- TURN 20: Axiom (AI) starts ----
+  YOU DuneMaster: life 8  lume 184  debt 0  lumeVictory 2/3  hand 0  logistic 21  wasteland 8
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veriel, Scout Leader 0/2 (rest) | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Qarseem, Sand Warden 2/3 (prep) | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 154  lume 6  debt 0  lumeVictory 0/3  hand 1  logistic 21  wasteland 8
+      hand: Aurastelar(2)
+      front: Vitagladium, The Lifeblade 1/19 politicx5 | Phalanx Legate 1/21 politicx4 | Oasiacustod, The Guard 1/18 politicx5 | Oasiacustod, The Guard 1/19 politicx5 | Rector Auresol 2/22 politicx5 | Oasiacustod, The Guard 1/19 politicx5 | Praetorum, Aurelion Titan 2/21 politicx5
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio
+[T20 AI main] AI OBJECTIVE: primary Aurastelar (value 11.2, cost 2, Lume 6) -> it can be played now: plays it first; engine in play: loop focus
+[T20 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 154 -> safe plays exist
+[T20 AI main] PLAY Axiom: Aurastelar (R, cost 2, lume 6, debt 0)
+[T20 AI main] Axiom plays Aurastelar
+[T20 AI main] Aurastelar — Whenever you play another card: put 1 Politic counter on your Units
+[T20 AI main] ACTIVATE Axiom: Praetorum, Aurelion Titan ability #1
+[T20 AI main] Praetorum, Aurelion Titan — Activate: remove all Politic counters from this Unit then your Units get +X HP, where X is the number of counters removed
+[T20 AI main] ACTIVATE Axiom: Rector Auresol ability #1
+[T20 AI main] Rector Auresol — Activate: remove all Politic counters from this Unit then all enemy Units get -X ATK, where X is the number of counters removed
+[T20 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T20 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T20 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T20 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T20 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T20 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T20 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T20 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T20 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T20 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T20 AI bat] ATTACK Axiom declares: Vitagladium, The Lifeblade 1/25 politicx3 | Phalanx Legate 1/27 politicx2 | Oasiacustod, The Guard 1/24 politicx3 | Oasiacustod, The Guard 1/25 politicx3 | Rector Auresol 2/28 politicx3 | Oasiacustod, The Guard 1/25 politicx3 | Praetorum, Aurelion Titan 2/27 politicx3
+[T20 AI bat] BLOCKS (DuneMaster defends): Vitagladium, The Lifeblade <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Phalanx Legate <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Rector Auresol <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Oasiacustod, The Guard <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token ; Praetorum, Aurelion Titan <- Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token + Veyr Walker 0/1 token [DuneMaster life 8]
+[T20 AI bat] Vitagladium, The Lifeblade clashes with Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Phalanx Legate clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Rector Auresol clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Oasiacustod, The Guard clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Praetorum, Aurelion Titan clashes with Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker + Veyr Walker
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Veyr Walker is destroyed
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Grave Altar — Whenever your Unit is destroyed: gain 2 Lume
+[T20 AI bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T20 AI bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI bat] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T20 AI main2] AI ends its turn with 0 card(s) in hand and 7 Lume unspent
+---- TURN 21: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 8  lume 247  debt 0  lumeVictory 2/3  hand 1  logistic 20  wasteland 8
+      hand: Sqietch Device(1)
+      front: Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veriel, Scout Leader 0/2 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon
+  AI  Axiom: life 183  lume 7  debt 0  lumeVictory 0/3  hand 0  logistic 21  wasteland 8
+      hand: -
+      front: Vitagladium, The Lifeblade 1/25 (rest) politicx3 | Phalanx Legate 1/27 (rest) politicx2 | Oasiacustod, The Guard 1/24 (rest) politicx3 | Oasiacustod, The Guard 1/25 (rest) politicx3 | Rector Auresol 2/28 (rest) politicx3 | Oasiacustod, The Guard 1/25 (rest) politicx3 | Praetorum, Aurelion Titan 2/27 (rest) politicx3
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio, Aurastelar
+[T21 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T21 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] PLAY DuneMaster: Sqietch Device (R, cost 1, lume 248, debt 0)
+[T21 YOU main] DuneMaster plays Sqietch Device
+[T21 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T21 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T21 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T21 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T21 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T21 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T21 YOU main2] DuneMaster has 252 Lume (goal 180): Lume Victory 3/3
+---- FINAL ----
+  YOU DuneMaster: life 8  lume 252  debt 0  lumeVictory 3/3  hand 0  logistic 20  wasteland 8
+      hand: -
+      front: Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veriel, Scout Leader 0/2 (rest) | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Qarseem, Sand Warden 0/3 | Veyr Walker 0/1 token | Veyr Walker 0/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Grave Altar, Sqietch Resupply, Sqietch Reservoir, Veyr Beacon, Sqietch Device
+  AI  Axiom: life 183  lume 7  debt 0  lumeVictory 0/3  hand 0  logistic 21  wasteland 8
+      hand: -
+      front: Vitagladium, The Lifeblade 1/25 (rest) politicx5 | Phalanx Legate 1/27 (rest) politicx4 | Oasiacustod, The Guard 1/24 (rest) politicx5 | Oasiacustod, The Guard 1/25 (rest) politicx5 | Rector Auresol 2/28 (rest) politicx5 | Oasiacustod, The Guard 1/25 (rest) politicx5 | Praetorum, Aurelion Titan 2/27 (rest) politicx5
+      vault: Senatum Revisio, Aurastelar, Senatum Revisio, Aurastelar

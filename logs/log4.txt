@@ -1,0 +1,357 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T05:42:44.087Z
+mode: SPECTATE (AI vs AI)
+seat 1 (S1): Axiom A / axiom (deck Veyrani)   seat 2 (S2): Axiom B / axiom (deck Vulkar)
+result: S2 wins  "Axiom B wins by Life."  turns 11  final life S1 -3 / S2 11
+
+==== BALANCE SUMMARY ====
+deck S1  Axiom A (40 cards): 4x Qarseem, Sand Warden, 4x Sqietch Reservoir, 4x Grave Altar, 4x Blood Siphon, 4x Thareq, Wormrider Elder, 4x Sqietch Resupply, 4x Shaqari, Caravan Elder, 4x Sqietch Device, 4x Veyr Beacon, 4x Veriel, Scout Leader
+deck S2  Axiom B (40 cards): 4x Glasshide Brute, 4x Ember Lancer, 4x Solar Flare, 4x Reprieve, 4x Dust Colossus, 4x Sahri Raider, 4x Dune Skirmisher, 2x Ossuary, 4x Grave Altar, 4x Burn Forward, 2x Factory Reset
+result: S2 wins "Axiom B wins by Life." after 11 turns (5 seat 1, 6 seat 2)
+final life: S1 -3 / S2 11   final lume: S1 4 / S2 1   Lume Victory progress: S1 0/3 / S2 0/3
+what hurt the loser most: S1 Axiom A lost Life to: combat 14, Ember Lancer 6, Blood Siphon (cost) 3
+
+-- S1  Axiom A --
+  Lume gained 25 (Grave Altar (ability) 10, Sqietch Reservoir 9, turn income 5, Qarseem, Sand Warden 1)
+  Lume lost/spent 24 (Sqietch Reservoir (cost) 6, Thareq, Wormrider Elder (cost) 5, Grave Altar (cost) 4, Qarseem, Sand Warden (cost) 4, Shaqari, Caravan Elder (cost) 2, Sqietch Resupply (cost) 2)
+  Life gained 0 (-)
+  Life lost 23 (combat 14, Ember Lancer 6, Blood Siphon (cost) 3)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 12, played 12 (Sqietch Reservoir 3, Grave Altar 2, Qarseem, Sand Warden 2, Sqietch Resupply 2, Blood Siphon 1, Thareq, Wormrider Elder 1, Shaqari, Caravan Elder 1)
+  abilities activated: Grave Altar 2, Sqietch Resupply 1
+  attacked 2 times (Qarseem, Sand Warden 1, Shaqari, Caravan Elder 1); blocked 4 times (Qarseem, Sand Warden 2, Thareq, Wormrider Elder 1, Shaqari, Caravan Elder 1)
+  units destroyed 4 (Qarseem, Sand Warden 2, Thareq, Wormrider Elder 1, Shaqari, Caravan Elder 1)
+  own turns: peak lume 6, lowest life 7, peak life 20, avg hand 4.0, avg units 1.0, turns with 0 units 2
+
+-- S2  Axiom B --
+  Lume gained 20 (Grave Altar (ability) 10, turn income 6, Reprieve (cost) 4)
+  Lume lost/spent 22 (Dust Colossus (cost) 6, Ember Lancer (cost) 4, Grave Altar (cost) 4, Reprieve (cost) 2, Glasshide Brute (cost) 2, Sahri Raider (cost) 1)
+  Life gained 0 (-)
+  Life lost 9 (combat 4, Burn Forward (cost) 3, Payday 2)
+  Echo Debt taken 7 (Dust Colossus (cost) 6, Glasshide Brute (cost) 1)  repaid/moved away 2  payday: lost Life 1
+  cards drawn 15, played 14 (Dust Colossus 3, Reprieve 2, Ember Lancer 2, Grave Altar 2, Sahri Raider 1, Solar Flare 1, Burn Forward 1, Dune Skirmisher 1, Glasshide Brute 1)
+  abilities activated: Grave Altar 2
+  attacked 11 times (Sahri Raider 4, Dust Colossus 3, Ember Lancer 3, Dune Skirmisher 1); blocked 0 times (-)
+  units destroyed 1 (Ember Lancer 1)
+  own turns: peak lume 4, lowest life 14, peak life 20, avg hand 7.2, avg units 2.2, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life S1/S2 | lume S1/S2 | debt S1/S2 | hand | units | ATK on board | HP on board | logistic
+   1 S2  | 20/20 | 3/4 | 0/0 | 7/8 | 0/0 | 0/0 | 0/0 | 33/32
+   2 S1  | 19/20 | 4/0 | 0/0 | 8/5 | 0/3 | 0/5 | 0/3 | 32/31
+   3 S2  | 16/20 | 1/1 | 0/0 | 2/6 | 2/2 | 3/3 | 6/2 | 32/30
+   4 S1  | 16/20 | 2/1 | 0/0 | 3/6 | 2/2 | 3/3 | 6/2 | 31/30
+   5 S2  | 16/18 | 0/2 | 0/0 | 2/7 | 2/2 | 3/3 | 6/2 | 31/29
+   6 S1  | 16/18 | 1/0 | 0/2 | 3/6 | 2/3 | 3/6 | 6/4 | 30/29
+   7 S2  | 16/16 | 1/1 | 0/0 | 3/7 | 2/3 | 3/6 | 6/4 | 30/28
+   8 S1  | 12/16 | 6/0 | 0/0 | 4/6 | 0/3 | 0/6 | 0/4 | 29/28
+   9 S2  | 12/14 | 1/1 | 0/0 | 1/7 | 2/3 | 4/6 | 6/4 | 28/27
+  10 S1  | 7/14 | 4/1 | 0/0 | 2/7 | 1/3 | 2/6 | 2/4 | 27/27
+  11 S2  | 7/14 | 1/2 | 0/0 | 0/8 | 1/3 | 2/6 | 2/4 | 27/26
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 S1 -] match start
+---- OPENING HANDS ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Grave Altar(2), Sqietch Reservoir(2), Sqietch Reservoir(2), Blood Siphon(1), Thareq, Wormrider Elder(5)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Glasshide Brute(3 echo 1), Ember Lancer(2), Ember Lancer(2), Solar Flare(1), Reprieve(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2)
+      front: -
+      vault: -
+[T0 S1 -] Axiom A plays Veyrani, Axiom B plays Vulkar
+[T0 S1 -] D20 roll: Axiom A 8, Axiom B 14
+---- TURN 1: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Grave Altar(2), Sqietch Reservoir(2), Sqietch Reservoir(2), Blood Siphon(1), Thareq, Wormrider Elder(5)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Glasshide Brute(3 echo 1), Ember Lancer(2), Ember Lancer(2), Solar Flare(1), Reprieve(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Sahri Raider(1)
+      front: -
+      vault: -
+[T1 S2 main] AI DECK PLAN (Axiom B): reads its own Logistic. Engine cards: Grave Altar 31, Ossuary 4. Unit swap: 0.40 Units lost per turn (low).
+[T1 S2 main] Axiom B studies its Logistic. Main engine: Grave Altar, Ossuary
+[T1 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T1 S2 main] PLAY Axiom B: Reprieve (T, cost 1, lume 4, debt 0)
+[T1 S2 main] Axiom B plays Reprieve
+[T1 S2 main] PLAY Axiom B: Sahri Raider (U, cost 1, lume 5, debt 0)
+[T1 S2 main] Axiom B plays Sahri Raider
+[T1 S2 main] PLAY Axiom B: Ember Lancer (U, cost 2, lume 4, debt 0)
+[T1 S2 main] Axiom B plays Ember Lancer
+[T1 S2 main] PLAY Axiom B: Ember Lancer (U, cost 2, lume 2, debt 0)
+[T1 S2 main] Axiom B plays Ember Lancer
+[T1 S2 main] AI ATTACK PLAN: chose Sahri Raider (score 0.7); next best: Sahri Raider 0.7 ; none 0.0
+[T1 S2 bat] ATTACK Axiom B declares: Sahri Raider 1/1
+[T1 S2 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T1 S2 bat] BLOCKS (Axiom A defends): Sahri Raider <- unblocked [Axiom A life 20]
+[T1 S2 bat] Sahri Raider hits Axiom A for 1
+[T1 S2 main2] Axiom B ends its turn with 5 card(s) in hand and 0 Lume unspent: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2)
+---- TURN 2: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 19  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Qarseem, Sand Warden(2), Sqietch Reservoir(2), Grave Altar(2), Sqietch Reservoir(2), Sqietch Reservoir(2), Blood Siphon(1), Thareq, Wormrider Elder(5), Grave Altar(2)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 31  wasteland 1
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2)
+      front: Sahri Raider 1/1 (rest) | Ember Lancer 2/1 (prep) | Ember Lancer 2/1 (prep)
+      vault: -
+[T2 S1 main] AI DECK PLAN (Axiom A): reads its own Logistic. Engine cards: Grave Altar 31, Veriel, Scout Leader 6, Shaqari, Caravan Elder 5, Veyr Beacon 5. Unit swap: 1.09 Units lost per turn (high).
+[T2 S1 main] Axiom A studies its Logistic. Main engine: Grave Altar, Veriel, Scout Leader, Shaqari, Caravan Elder
+[T2 S1 main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T2 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 19 -> safe plays exist
+[T2 S1 main] PLAY Axiom A: Grave Altar (R, cost 2, lume 4, debt 0)
+[T2 S1 main] Axiom A plays Grave Altar
+[T2 S1 main] AI OBJECTIVE: primary Grave Altar (value 13.4, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T2 S1 main] PLAY Axiom A: Grave Altar (R, cost 2, lume 2, debt 0)
+[T2 S1 main] Axiom A plays Grave Altar
+[T2 S1 main] AI OBJECTIVE: primary Qarseem, Sand Warden (value 7.7, cost 2, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 S1 main] ACTIVATE Axiom A: Grave Altar ability #1
+[T2 S1 main] Grave Altar is destroyed
+[T2 S1 main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 S1 main] AI OBJECTIVE: primary Qarseem, Sand Warden (value 8.3, cost 2, Lume 5) -> it can be played now: plays it first; engine in play: loop focus
+[T2 S1 main] PLAY Axiom A: Blood Siphon (T, cost 1, lume 5, debt 0)
+[T2 S1 main] Axiom A plays Blood Siphon
+[T2 S1 main] Ember Lancer is destroyed
+[T2 S1 main] PLAY Axiom A: Qarseem, Sand Warden (U, cost 2, lume 4, debt 0)
+[T2 S1 main] Axiom A plays Qarseem, Sand Warden
+[T2 S1 main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 8.6, cost 5, Lume 2) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 S1 main] PLAY Axiom A: Sqietch Reservoir (R, cost 2, lume 2, debt 0)
+[T2 S1 main] Axiom A plays Sqietch Reservoir
+[T2 S1 main] ACTIVATE Axiom A: Grave Altar ability #1
+[T2 S1 main] Grave Altar is destroyed
+[T2 S1 main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 S1 main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 8.6, cost 5, Lume 5) -> it can be played now: plays it first
+[T2 S1 main] PLAY Axiom A: Thareq, Wormrider Elder (U, cost 5, lume 5, debt 0)
+[T2 S1 main] Axiom A plays Thareq, Wormrider Elder
+[T2 S1 main] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T2 S1 main2] Axiom A ends its turn with 2 card(s) in hand and 1 Lume unspent: Sqietch Reservoir(2), Sqietch Reservoir(2)
+---- TURN 3: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 16  lume 1  debt 0  lumeVictory 0/3  hand 2  logistic 32  wasteland 3
+      hand: Sqietch Reservoir(2), Sqietch Reservoir(2)
+      front: Qarseem, Sand Warden 2/3 (prep) | Thareq, Wormrider Elder 1/3 (prep)
+      vault: Sqietch Reservoir
+  S2  Axiom B: life 20  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 30  wasteland 2
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1
+      vault: -
+[T3 S2 main] AI OBJECTIVE: primary Dust Colossus (value 8.3, cost 2, Lume 1) -> nothing funds it yet: saves
+[T3 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T3 S2 main] AI SAVES Lume for Dust Colossus (value 8.3, cost 4 echo 2) instead of playing for 3.6
+[T3 S2 main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Sahri Raider -3.7 ; Ember Lancer -4.0 ; Ember Lancer+Sahri Raider -6.5
+[T3 S2 main2] AI SAVES Lume for Dust Colossus (value 8.3, cost 4 echo 2) instead of playing for 3.6
+[T3 S2 main2] Axiom B ends its turn with 6 card(s) in hand and 1 Lume unspent: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1)
+---- TURN 4: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 16  lume 2  debt 0  lumeVictory 0/3  hand 3  logistic 31  wasteland 3
+      hand: Sqietch Reservoir(2), Sqietch Reservoir(2), Sqietch Resupply(1)
+      front: Qarseem, Sand Warden 2/3 | Thareq, Wormrider Elder 1/3
+      vault: Sqietch Reservoir
+  S2  Axiom B: life 20  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 30  wasteland 2
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1
+      vault: -
+[T4 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 16 -> safe plays exist
+[T4 S1 main] PLAY Axiom A: Sqietch Reservoir (R, cost 2, lume 2, debt 0)
+[T4 S1 main] Axiom A plays Sqietch Reservoir
+[T4 S1 main] AI ATTACK PLAN: chose Qarseem, Sand Warden (score 1.2); next best: Qarseem, Sand Warden 1.2 ; none 0.0 ; Thareq, Wormrider Elder -0.2 ; Thareq, Wormrider Elder+Qarseem, Sand Warden -0.6
+[T4 S1 bat] ATTACK Axiom A declares: Qarseem, Sand Warden 2/3
+[T4 S1 bat] BLOCKS (Axiom B defends): Qarseem, Sand Warden <- unblocked [Axiom B life 20]
+[T4 S1 bat] Qarseem, Sand Warden hits Axiom B for 2
+[T4 S1 main2] Axiom A ends its turn with 2 card(s) in hand and 0 Lume unspent: Sqietch Reservoir(2), Sqietch Resupply(1)
+---- TURN 5: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 16  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 31  wasteland 3
+      hand: Sqietch Reservoir(2), Sqietch Resupply(1)
+      front: Qarseem, Sand Warden 2/3 (rest) | Thareq, Wormrider Elder 1/3
+      vault: Sqietch Reservoir, Sqietch Reservoir
+  S2  Axiom B: life 18  lume 2  debt 0  lumeVictory 0/3  hand 7  logistic 29  wasteland 2
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1
+      vault: -
+[T5 S2 main] AI OBJECTIVE: primary Dust Colossus (value 7.3, cost 2, Lume 2) -> it can be played now: plays it first
+[T5 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T5 S2 main] PLAY Axiom B: Dust Colossus (U, cost 4 echo 2, lume 2, debt 0)
+[T5 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T5 S2 main] Axiom B plays Dust Colossus
+[T5 S2 main] AI OBJECTIVE: primary Dust Colossus (value 7.2, cost 2, Lume 0) -> nothing funds it yet: saves
+[T5 S2 main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Ember Lancer+Sahri Raider -1.1 ; Sahri Raider -2.4 ; Ember Lancer -2.7
+[T5 S2 main2] Axiom B ends its turn with 6 card(s) in hand and 0 Lume unspent: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1)
+---- TURN 6: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 16  lume 1  debt 0  lumeVictory 0/3  hand 3  logistic 30  wasteland 3
+      hand: Sqietch Reservoir(2), Sqietch Resupply(1), Shaqari, Caravan Elder(2)
+      front: Qarseem, Sand Warden 2/3 | Thareq, Wormrider Elder 1/3
+      vault: Sqietch Reservoir, Sqietch Reservoir
+  S2  Axiom B: life 18  lume 0  debt 2  lumeVictory 0/3  hand 6  logistic 29  wasteland 2
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1 | Dust Colossus 3/2 (prep)
+      vault: -
+[T6 S1 main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.9, cost 2, Lume 1) -> nothing funds it yet: saves
+[T6 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 16 -> safe plays exist
+[T6 S1 main] AI SAVES Lume for Shaqari, Caravan Elder (value 9.9, cost 2) instead of playing for 1.3
+[T6 S1 main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Qarseem, Sand Warden -2.5 ; Thareq, Wormrider Elder -4.5 ; Thareq, Wormrider Elder+Qarseem, Sand Warden -6.4
+[T6 S1 main2] AI SAVES Lume for Shaqari, Caravan Elder (value 9.9, cost 2) instead of playing for 1.3
+[T6 S1 main2] Axiom A ends its turn with 3 card(s) in hand and 1 Lume unspent: Sqietch Reservoir(2), Sqietch Resupply(1), Shaqari, Caravan Elder(2)
+[T7 S2 main] Payday! Axiom B loses 2 Life to Echo Debt
+---- TURN 7: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 16  lume 1  debt 0  lumeVictory 0/3  hand 3  logistic 30  wasteland 3
+      hand: Sqietch Reservoir(2), Sqietch Resupply(1), Shaqari, Caravan Elder(2)
+      front: Qarseem, Sand Warden 2/3 | Thareq, Wormrider Elder 1/3
+      vault: Sqietch Reservoir, Sqietch Reservoir
+  S2  Axiom B: life 16  lume 1  debt 0  lumeVictory 0/3  hand 7  logistic 28  wasteland 2
+      hand: Glasshide Brute(3 echo 1), Solar Flare(1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1 | Dust Colossus 3/2
+      vault: -
+[T7 S2 main] AI OBJECTIVE: primary Dust Colossus (value 8.1, cost 2, Lume 1) -> nothing funds it yet: saves
+[T7 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 16 -> safe plays exist
+[T7 S2 main] AI SAVES Lume for Dust Colossus (value 8.1, cost 4 echo 2) instead of playing for 3.6
+[T7 S2 main] AI ATTACK PLAN: chose Dust Colossus + Ember Lancer + Sahri Raider (score 3.4); next best: Dust Colossus+Ember Lancer+Sahri Raider 3.4 ; Dust Colossus+Ember Lancer 1.6 ; Dust Colossus+Sahri Raider 0.1 ; none 0.0
+[T7 S2 bat] ATTACK Axiom B declares: Dust Colossus 3/2 | Ember Lancer 2/1 | Sahri Raider 1/1
+[T7 S2 bat] Dust Colossus — When attacking: all enemy Units get -2 ATK this turn
+[T7 S2 bat] Ember Lancer — When attacking: deal 2 damage to the opponent
+[T7 S2 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 S2 bat] BLOCKS (Axiom A defends): Dust Colossus <- Thareq, Wormrider Elder 0/2 ; Ember Lancer <- unblocked ; Sahri Raider <- Qarseem, Sand Warden 0/2 [Axiom A life 14]
+[T7 S2 bat] Ember Lancer hits Axiom A for 2
+[T7 S2 bat] Sahri Raider clashes with Qarseem, Sand Warden
+[T7 S2 bat] Dust Colossus clashes with Thareq, Wormrider Elder
+[T7 S2 bat] Thareq, Wormrider Elder is destroyed
+[T7 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T7 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T7 S2 main2] PLAY Axiom B: Solar Flare (T, cost 1, lume 1, debt 0)
+[T7 S2 main2] Axiom B plays Solar Flare
+[T7 S2 main2] Qarseem, Sand Warden is destroyed
+[T7 S2 main2] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T7 S2 main2] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T7 S2 main2] Axiom B ends its turn with 6 card(s) in hand and 0 Lume unspent: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2)
+---- TURN 8: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 12  lume 6  debt 0  lumeVictory 0/3  hand 4  logistic 29  wasteland 5
+      hand: Sqietch Reservoir(2), Sqietch Resupply(1), Shaqari, Caravan Elder(2), Qarseem, Sand Warden(2)
+      front: -
+      vault: Sqietch Reservoir, Sqietch Reservoir
+  S2  Axiom B: life 16  lume 0  debt 0  lumeVictory 0/3  hand 6  logistic 28  wasteland 3
+      hand: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2)
+      front: Sahri Raider 1/1 (rest) | Ember Lancer 2/1 (rest) | Dust Colossus 3/2 (rest)
+      vault: -
+[T8 S1 main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.7, cost 2, Lume 6) -> it can be played now: plays it first
+[T8 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 12 -> safe plays exist
+[T8 S1 main] PLAY Axiom A: Shaqari, Caravan Elder (U, cost 2, lume 6, debt 0)
+[T8 S1 main] Axiom A plays Shaqari, Caravan Elder
+[T8 S1 main] AI OBJECTIVE: primary Qarseem, Sand Warden (value 8.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T8 S1 main] PLAY Axiom A: Qarseem, Sand Warden (U, cost 2, lume 4, debt 0)
+[T8 S1 main] Axiom A plays Qarseem, Sand Warden
+[T8 S1 main] PLAY Axiom A: Sqietch Resupply (R, cost 1, lume 2, debt 0)
+[T8 S1 main] Axiom A plays Sqietch Resupply
+[T8 S1 main] ACTIVATE Axiom A: Sqietch Resupply ability #1
+[T8 S1 main] 1 card from Axiom A's Logistic go to the Wasteland
+[T8 S1 main] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T8 S1 main] AI ATTACK PLAN: chose Shaqari, Caravan Elder (score 0.1); next best: Shaqari, Caravan Elder 0.1 ; none 0.0
+[T8 S1 bat] ATTACK Axiom A declares: Shaqari, Caravan Elder 2/3
+[T8 S1 bat] BLOCKS (Axiom B defends): Shaqari, Caravan Elder <- unblocked [Axiom B life 16]
+[T8 S1 bat] Shaqari, Caravan Elder hits Axiom B for 2
+[T8 S1 main2] Axiom A ends its turn with 1 card(s) in hand and 1 Lume unspent: Sqietch Reservoir(2)
+---- TURN 9: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 12  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 28  wasteland 6
+      hand: Sqietch Reservoir(2)
+      front: Shaqari, Caravan Elder 2/3 (rest) | Qarseem, Sand Warden 2/3 (prep)
+      vault: Sqietch Reservoir, Sqietch Reservoir, Sqietch Resupply
+  S2  Axiom B: life 14  lume 1  debt 0  lumeVictory 0/3  hand 7  logistic 27  wasteland 3
+      hand: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2), Grave Altar(2)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1 | Dust Colossus 3/2
+      vault: -
+[T9 S2 main] AI OBJECTIVE: primary Grave Altar (value 17.0, cost 2, Lume 1) -> nothing funds it yet: saves
+[T9 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 14 -> safe plays exist
+[T9 S2 main] AI SAVES Lume for Grave Altar (value 17.0, cost 2) instead of playing for 3.6
+[T9 S2 main] AI ATTACK PLAN: chose Dust Colossus + Ember Lancer + Sahri Raider (score 5.0); next best: Dust Colossus+Ember Lancer+Sahri Raider 5.0 ; Dust Colossus+Ember Lancer 2.8 ; Dust Colossus+Sahri Raider 0.9 ; none 0.0
+[T9 S2 bat] ATTACK Axiom B declares: Dust Colossus 3/2 | Ember Lancer 2/1 | Sahri Raider 1/1
+[T9 S2 bat] Dust Colossus — When attacking: all enemy Units get -2 ATK this turn
+[T9 S2 bat] Ember Lancer — When attacking: deal 2 damage to the opponent
+[T9 S2 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T9 S2 bat] BLOCKS (Axiom A defends): Dust Colossus <- Qarseem, Sand Warden 0/2 (prep) ; Ember Lancer <- unblocked ; Sahri Raider <- unblocked [Axiom A life 10]
+[T9 S2 bat] Sahri Raider hits Axiom A for 1
+[T9 S2 bat] Ember Lancer hits Axiom A for 2
+[T9 S2 bat] Dust Colossus clashes with Qarseem, Sand Warden
+[T9 S2 bat] Qarseem, Sand Warden is destroyed
+[T9 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T9 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T9 S2 main2] AI SAVES Lume for Grave Altar (value 17.0, cost 2) instead of playing for 3.6
+[T9 S2 main2] Axiom B ends its turn with 7 card(s) in hand and 1 Lume unspent: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2), Grave Altar(2)
+---- TURN 10: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 7  lume 4  debt 0  lumeVictory 0/3  hand 2  logistic 27  wasteland 7
+      hand: Sqietch Reservoir(2), Sqietch Resupply(1)
+      front: Shaqari, Caravan Elder 2/2
+      vault: Sqietch Reservoir, Sqietch Reservoir, Sqietch Resupply
+  S2  Axiom B: life 14  lume 1  debt 0  lumeVictory 0/3  hand 7  logistic 27  wasteland 3
+      hand: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2), Grave Altar(2)
+      front: Sahri Raider 1/1 (rest) | Ember Lancer 2/1 (rest) | Dust Colossus 3/2 (rest)
+      vault: -
+[T10 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 7 -> safe plays exist
+[T10 S1 main] PLAY Axiom A: Sqietch Resupply (R, cost 1, lume 4, debt 0)
+[T10 S1 main] Axiom A plays Sqietch Resupply
+[T10 S1 main] PLAY Axiom A: Sqietch Reservoir (R, cost 2, lume 3, debt 0)
+[T10 S1 main] Axiom A plays Sqietch Reservoir
+[T10 S1 main] AI ATTACK PLAN: chose no attack (score -5.2); next best: none -5.2 ; Shaqari, Caravan Elder -16.9
+[T10 S1 main2] Axiom A ends its turn with 0 card(s) in hand and 1 Lume unspent
+---- TURN 11: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 7  lume 1  debt 0  lumeVictory 0/3  hand 0  logistic 27  wasteland 7
+      hand: -
+      front: Shaqari, Caravan Elder 2/2
+      vault: Sqietch Reservoir, Sqietch Reservoir, Sqietch Resupply, Sqietch Resupply, Sqietch Reservoir
+  S2  Axiom B: life 14  lume 2  debt 0  lumeVictory 0/3  hand 8  logistic 26  wasteland 3
+      hand: Glasshide Brute(3 echo 1), Dust Colossus(4 echo 2), Dust Colossus(4 echo 2), Dune Skirmisher(1), Reprieve(1), Ossuary(2), Grave Altar(2), Grave Altar(2)
+      front: Sahri Raider 1/1 | Ember Lancer 2/1 | Dust Colossus 3/2
+      vault: -
+[T11 S2 main] AI OBJECTIVE: primary Grave Altar (value 16.2, cost 2, Lume 2) -> it can be played now: plays it first
+[T11 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 14 -> safe plays exist
+[T11 S2 main] PLAY Axiom B: Grave Altar (R, cost 2, lume 2, debt 0)
+[T11 S2 main] Axiom B plays Grave Altar
+[T11 S2 main] AI OBJECTIVE: primary Grave Altar (value 12.4, cost 2, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T11 S2 main] ACTIVATE Axiom B: Grave Altar ability #1
+[T11 S2 main] Grave Altar is destroyed
+[T11 S2 main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T11 S2 main] AI OBJECTIVE: primary Grave Altar (value 18.6, cost 2, Lume 5) -> it can be played now: plays it first
+[T11 S2 main] PLAY Axiom B: Grave Altar (R, cost 2, lume 5, debt 0)
+[T11 S2 main] Axiom B plays Grave Altar
+[T11 S2 main] AI OBJECTIVE: primary Dust Colossus (value 7.3, cost 2, Lume 3) -> it can be played now: plays it first; engine in play: loop focus
+[T11 S2 main] PLAY Axiom B: Reprieve (T, cost 1, lume 3, debt 0)
+[T11 S2 main] Axiom B plays Reprieve
+[T11 S2 main] PLAY Axiom B: Burn Forward (T, cost 1, lume 4, debt 0)
+[T11 S2 main] Axiom B plays Burn Forward
+[T11 S2 main] PLAY Axiom B: Dune Skirmisher (U, cost 1, lume 3, debt 0)
+[T11 S2 main] Axiom B plays Dune Skirmisher
+[T11 S2 main] PLAY Axiom B: Dust Colossus (U, cost 4 echo 2, lume 2, debt 0)
+[T11 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T11 S2 main] Axiom B plays Dust Colossus
+[T11 S2 main] AI OBJECTIVE: primary Dust Colossus (value 7.2, cost 2, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T11 S2 main] ACTIVATE Axiom B: Grave Altar ability #1
+[T11 S2 main] Grave Altar is destroyed
+[T11 S2 main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T11 S2 main] AI OBJECTIVE: primary Dust Colossus (value 7.2, cost 2, Lume 5) -> it can be played now: plays it first
+[T11 S2 main] PLAY Axiom B: Dust Colossus (U, cost 4 echo 2, lume 5, debt 2)
+[T11 S2 main] Axiom B takes 2 Echo Debt (Debt 4)
+[T11 S2 main] Axiom B plays Dust Colossus
+[T11 S2 main] AI OBJECTIVE: primary Glasshide Brute (value 7.1, cost 2, Lume 3) -> it can be played now: plays it first
+[T11 S2 main] PLAY Axiom B: Glasshide Brute (U, cost 3 echo 1, lume 3, debt 4)
+[T11 S2 main] Axiom B takes 1 Echo Debt (Debt 5)
+[T11 S2 main] Axiom B plays Glasshide Brute
+[T11 S2 bat] ATTACK Axiom B declares: Sahri Raider 3/1 | Ember Lancer 4/1 | Dust Colossus 5/2 | Dune Skirmisher 1/1
+[T11 S2 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T11 S2 bat] Ember Lancer — When attacking: deal 2 damage to the opponent
+[T11 S2 bat] Dust Colossus — When attacking: all enemy Units get -2 ATK this turn
+[T11 S2 bat] BLOCKS (Axiom A defends): Sahri Raider <- unblocked ; Ember Lancer <- unblocked ; Dust Colossus <- Shaqari, Caravan Elder 0/1 ; Dune Skirmisher <- unblocked [Axiom A life 5]
+[T11 S2 bat] Sahri Raider hits Axiom A for 3
+[T11 S2 bat] Ember Lancer hits Axiom A for 4
+[T11 S2 bat] Dune Skirmisher hits Axiom A for 1
+[T11 S2 bat] Dust Colossus clashes with Shaqari, Caravan Elder
+[T11 S2 bat] Shaqari, Caravan Elder is destroyed
+[T11 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T11 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+[T11 S2 bat] Sqietch Reservoir — Whenever your Unit is destroyed: gain 1 Lume
+---- FINAL ----
+  S1  Axiom A: life -3  lume 4  debt 0  lumeVictory 0/3  hand 0  logistic 27  wasteland 8
+      hand: -
+      front: -
+      vault: Sqietch Reservoir, Sqietch Reservoir, Sqietch Resupply, Sqietch Resupply, Sqietch Reservoir
+  S2  Axiom B: life 11  lume 1  debt 5  lumeVictory 0/3  hand 1  logistic 25  wasteland 7
+      hand: Ossuary(2)
+      front: Sahri Raider 3/1 (rest) | Ember Lancer 4/1 (rest) | Dust Colossus 5/2 (rest) | Dune Skirmisher 1/1 (rest) | Dust Colossus 3/2 (prep) | Dust Colossus 3/2 (prep) | Glasshide Brute 2/2 (prep)
+      vault: -

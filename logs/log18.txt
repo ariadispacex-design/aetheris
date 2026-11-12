@@ -1,0 +1,437 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T11:19:08.797Z
+you: DuneMaster (deck Veyrani)   opponent: Axiom / axiom (deck Caelor)
+result: win  "Victory! Your opponent has fallen."  turns 13  final life you 14 / opponent -13
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (40 cards): 4x Blood Siphon, 4x Veriel, Scout Leader, 4x Grave Altar, 4x Veyr Beacon, 4x Sqietch Device, 4x Sqietch Reservoir, 4x Shaqari, Caravan Elder, 4x Sqietch Resupply, 4x Thareq, Wormrider Elder, 4x Qarseem, Sand Warden
+deck AI  Axiom (40 cards): 3x Sinner, 3x Vitagladium, The Lifeblade, 2x Phalanx Legate, 2x Aqualacum, 3x Rector Auresol, 4x Reprieve, 2x Praedicolum, 4x Grave Altar, 4x Praetorum, Aurelion Titan, 4x Oasiacustod, The Guard, 2x Senatum Revisio, 2x Aurastelar, 3x Blood Siphon, 2x Mobil the flota
+result: win "Victory! Your opponent has fallen." after 13 turns (7 yours, 6 AI)
+final life: you 14 / AI -13   final lume: you 0 / AI 1   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: combat 39
+
+-- YOU DuneMaster --
+  Lume gained 18 (Grave Altar (ability) 10, turn income 7, Veyr Walker 1)
+  Lume lost/spent 21 (Thareq, Wormrider Elder (cost) 5, Grave Altar (cost) 4, Veyr Beacon (cost) 2, Sqietch Device (ability) 2, Veriel, Scout Leader (cost) 2, Blood Siphon (cost) 2)
+  Life gained 0 (-)
+  Life lost 6 (Blood Siphon (cost) 6)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 14, played 12 (Veyr Beacon 2, Veriel, Scout Leader 2, Blood Siphon 2, Grave Altar 2, Sqietch Device 1, Sqietch Resupply 1, Thareq, Wormrider Elder 1, Shaqari, Caravan Elder 1)
+  abilities activated: Veriel, Scout Leader 13, Sqietch Resupply 3, Sqietch Device 2, Grave Altar 2
+  attacked 50 times (Veyr Walker 50); blocked 0 times (-)
+  units destroyed 11 (Veyr Walker 11)
+  own turns: peak lume 4, lowest life 14, peak life 20, avg hand 5.7, avg units 7.1, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 18 (turn income 6, Grave Altar (ability) 5, Reprieve (cost) 4, Oasiacustod, The Guard (ability) 3)
+  Lume lost/spent 20 (Vitagladium, The Lifeblade (cost) 4, Rector Auresol (cost) 4, Phalanx Legate (cost) 4, Praedicolum (cost) 3, Grave Altar (cost) 2, Reprieve (cost) 2)
+  Life gained 6 (Vitagladium, The Lifeblade (ability) 6)
+  Life lost 39 (combat 39)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 15, played 10 (Vitagladium, The Lifeblade 2, Reprieve 2, Phalanx Legate 2, Grave Altar 1, Rector Auresol 1, Oasiacustod, The Guard 1, Praedicolum 1)
+  abilities activated: Oasiacustod, The Guard 3, Vitagladium, The Lifeblade 2, Grave Altar 1, Phalanx Legate 1
+  attacked 0 times (-); blocked 11 times (Vitagladium, The Lifeblade 8, Oasiacustod, The Guard 2, Phalanx Legate 1)
+  units destroyed 5 (Vitagladium, The Lifeblade 2, Rector Auresol 1, Phalanx Legate 1, Oasiacustod, The Guard 1)
+  own turns: peak lume 4, lowest life 2, peak life 20, avg hand 6.2, avg units 1.7, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 AI  | 20/20 | 0/4 | 0/0 | 5/8 | 2/0 | 2/0 | 3/0 | 32/32
+   3 YOU | 20/20 | 1/0 | 0/0 | 6/4 | 2/3 | 2/4 | 3/13 | 31/31
+   4 AI  | 17/20 | 0/1 | 0/0 | 4/5 | 4/2 | 4/2 | 6/6 | 31/30
+   5 YOU | 17/20 | 1/1 | 0/0 | 5/5 | 4/2 | 4/2 | 6/6 | 30/30
+   6 AI  | 17/20 | 0/2 | 0/0 | 4/6 | 6/2 | 6/2 | 8/4 | 29/29
+   7 YOU | 17/20 | 1/0 | 0/0 | 5/5 | 6/3 | 6/3 | 8/8 | 28/29
+   8 AI  | 14/15 | 0/1 | 0/0 | 4/6 | 9/2 | 9/2 | 11/2 | 27/28
+   9 YOU | 14/18 | 1/1 | 0/0 | 5/5 | 9/3 | 9/3 | 11/4 | 26/28
+  10 AI  | 14/8 | 0/3 | 0/0 | 4/6 | 12/3 | 12/3 | 14/4 | 25/26
+  11 YOU | 14/11 | 1/1 | 0/0 | 5/5 | 12/3 | 12/3 | 14/4 | 24/26
+  12 AI  | 14/2 | 1/2 | 0/0 | 5/6 | 17/1 | 17/1 | 19/1 | 24/25
+  13 YOU | 14/2 | 2/1 | 0/0 | 6/5 | 17/2 | 17/2 | 19/5 | 23/25
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Blood Siphon(1), Veriel, Scout Leader(1), Grave Altar(2), Veyr Beacon(1), Sqietch Device(1), Sqietch Reservoir(2), Grave Altar(2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sinner(3), Vitagladium, The Lifeblade(2), Phalanx Legate(2), Aqualacum(2), Rector Auresol(4), Reprieve(1), Praedicolum(3)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Caelor
+[T0 YOU -] D20 roll: you 19, opponent 11
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Blood Siphon(1), Veriel, Scout Leader(1), Grave Altar(2), Veyr Beacon(1), Sqietch Device(1), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sinner(3), Vitagladium, The Lifeblade(2), Phalanx Legate(2), Aqualacum(2), Rector Auresol(4), Reprieve(1), Praedicolum(3)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Veyr Beacon (R, cost 1, lume 4, debt 0)
+[T1 YOU main] DuneMaster plays Veyr Beacon
+[T1 YOU main] PLAY DuneMaster: Sqietch Device (R, cost 1, lume 3, debt 0)
+[T1 YOU main] DuneMaster plays Sqietch Device
+[T1 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T1 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T1 YOU main] PLAY DuneMaster: Veriel, Scout Leader (U, cost 1, lume 1, debt 0)
+[T1 YOU main] DuneMaster plays Veriel, Scout Leader
+[T1 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T1 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T1 YOU main2] Nothing left to play: moving to End
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 20  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 32  wasteland 0
+      hand: Blood Siphon(1), Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: Veyr Walker 1/1 (prep) token | Veriel, Scout Leader 1/2 (prep)
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Sinner(3), Vitagladium, The Lifeblade(2), Phalanx Legate(2), Aqualacum(2), Rector Auresol(4), Reprieve(1), Praedicolum(3), Grave Altar(2)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Oasiacustod, The Guard 10, Sinner 7, Senatum Revisio 7. Chain: 13 counter makers + 10 cash-ins. Unit swap: 0.37 Units lost per turn (low).
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T2 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 4, debt 0)
+[T2 AI main] Axiom plays Grave Altar
+[T2 AI main] AI OBJECTIVE: primary Rector Auresol (value 10.1, cost 4, Lume 2) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 AI main] PLAY Axiom: Vitagladium, The Lifeblade (U, cost 2, lume 2, debt 0)
+[T2 AI main] Axiom plays Vitagladium, The Lifeblade
+[T2 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T2 AI main] Grave Altar is destroyed
+[T2 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 AI main] AI OBJECTIVE: primary Rector Auresol (value 10.1, cost 4, Lume 5) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Reprieve (T, cost 1, lume 5, debt 0)
+[T2 AI main] Axiom plays Reprieve
+[T2 AI main] PLAY Axiom: Vitagladium, The Lifeblade (U, cost 2, lume 6, debt 0)
+[T2 AI main] Axiom plays Vitagladium, The Lifeblade
+[T2 AI main] PLAY Axiom: Rector Auresol (U, cost 4, lume 4, debt 0)
+[T2 AI main] Axiom plays Rector Auresol
+[T2 AI main] AI OBJECTIVE: primary Praedicolum (value 6.5, cost 3, Lume 0) -> nothing funds it yet: saves
+[T2 AI main2] AI ends its turn with 4 card(s) in hand and 0 Lume unspent: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3)
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 0
+      hand: Blood Siphon(1), Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Veriel, Scout Leader(1)
+      front: Veyr Walker 1/1 token | Veriel, Scout Leader 1/2
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 31  wasteland 2
+      hand: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3)
+      front: Vitagladium, The Lifeblade 1/4 (prep) | Vitagladium, The Lifeblade 1/4 (prep) | Rector Auresol 2/5 (prep)
+      vault: -
+[T3 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T3 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T3 YOU main] PLAY DuneMaster: Blood Siphon (T, cost 1, lume 1, debt 0)
+[T3 YOU main] DuneMaster plays Blood Siphon
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T3 YOU bat] Rector Auresol is destroyed
+[T3 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T3 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- Vitagladium, The Lifeblade 1/4 (prep) ; Veyr Walker <- Vitagladium, The Lifeblade 1/4 (prep) [Axiom life 20]
+[T3 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T3 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T3 YOU bat] Veyr Walker is destroyed
+[T3 YOU bat] Veyr Walker — When destroyed: gain 1 Lume
+[T3 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T3 YOU bat] Veyr Walker is destroyed
+[T3 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T3 YOU main2] PLAY DuneMaster: Veriel, Scout Leader (U, cost 1, lume 1, debt 0)
+[T3 YOU main2] DuneMaster plays Veriel, Scout Leader
+[T3 YOU main2] Nothing left to play: moving to End
+---- TURN 4: Axiom (AI) starts ----
+  YOU DuneMaster: life 17  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 31  wasteland 1
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veriel, Scout Leader 1/2 (prep)
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 3
+      hand: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4)
+      front: Vitagladium, The Lifeblade 1/3 | Vitagladium, The Lifeblade 1/3
+      vault: -
+[T4 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 9.3, cost 4, Lume 1) -> nothing funds it yet: saves
+[T4 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> no safe play: survival mode
+[T4 AI main] AI SAVES Lume for Phalanx Legate (value 8.1, cost 2) instead of playing for 0.0
+[T4 AI main] AI ATTACK PLAN: chose no attack (score -1.0); next best: none -1.0 ; Vitagladium, The Lifeblade -4.7 ; Vitagladium, The Lifeblade -4.7 ; Vitagladium, The Lifeblade+Vitagladium, The Lifeblade -5.0
+[T4 AI main2] AI SAVES Lume for Phalanx Legate (value 8.1, cost 2) instead of playing for 0.0
+[T4 AI main2] AI ends its turn with 5 card(s) in hand and 1 Lume unspent: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4)
+---- TURN 5: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 17  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 1
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Sqietch Resupply(1)
+      front: Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veriel, Scout Leader 1/2
+      vault: Veyr Beacon, Sqietch Device
+  AI  Axiom: life 20  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 30  wasteland 3
+      hand: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4)
+      front: Vitagladium, The Lifeblade 1/3 | Vitagladium, The Lifeblade 1/3
+      vault: -
+[T5 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T5 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T5 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T5 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- Vitagladium, The Lifeblade 1/3 ; Veyr Walker <- Vitagladium, The Lifeblade 1/3 [Axiom life 20]
+[T5 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T5 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T5 YOU bat] Veyr Walker is destroyed
+[T5 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T5 YOU bat] Veyr Walker is destroyed
+[T5 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T5 YOU main2] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T5 YOU main2] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T5 YOU main2] PLAY DuneMaster: Sqietch Resupply (R, cost 1, lume 1, debt 0)
+[T5 YOU main2] DuneMaster plays Sqietch Resupply
+[T5 YOU main2] ACTIVATE DuneMaster: Sqietch Resupply ability #1
+[T5 YOU main2] 1 card from DuneMaster's Logistic go to the Wasteland
+[T5 YOU main2] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T5 YOU main2] Nothing left to play: moving to End
+---- TURN 6: Axiom (AI) starts ----
+  YOU DuneMaster: life 17  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 29  wasteland 2
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply
+  AI  Axiom: life 20  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 29  wasteland 3
+      hand: Sinner(3), Phalanx Legate(2), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1)
+      front: Vitagladium, The Lifeblade 1/2 | Vitagladium, The Lifeblade 1/2
+      vault: -
+[T6 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 9.3, cost 4, Lume 2) -> nothing funds it yet: saves
+[T6 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T6 AI main] PLAY Axiom: Phalanx Legate (U, cost 2, lume 2, debt 0)
+[T6 AI main] Axiom plays Phalanx Legate
+[T6 AI main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Vitagladium, The Lifeblade -4.0 ; Vitagladium, The Lifeblade -4.0 ; Vitagladium, The Lifeblade+Vitagladium, The Lifeblade -7.5
+[T6 AI main2] AI ends its turn with 5 card(s) in hand and 0 Lume unspent: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1)
+---- TURN 7: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 17  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 28  wasteland 2
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Blood Siphon(1)
+      front: Veriel, Scout Leader 1/2 | Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply
+  AI  Axiom: life 20  lume 0  debt 0  lumeVictory 0/3  hand 5  logistic 29  wasteland 3
+      hand: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1)
+      front: Vitagladium, The Lifeblade 1/2 | Vitagladium, The Lifeblade 1/2 | Phalanx Legate 1/4 (prep)
+      vault: -
+[T7 YOU main] PLAY DuneMaster: Blood Siphon (T, cost 1, lume 1, debt 0)
+[T7 YOU main] DuneMaster plays Blood Siphon
+[T7 YOU main] Phalanx Legate is destroyed
+[T7 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T7 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T7 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU main] ACTIVATE DuneMaster: Sqietch Resupply ability #1
+[T7 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T7 YOU main] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T7 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T7 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T7 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T7 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- Vitagladium, The Lifeblade 1/2 ; Veyr Walker <- Vitagladium, The Lifeblade 1/2 ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 20]
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Veyr Walker hits Axiom for 1
+[T7 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T7 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T7 YOU bat] Veyr Walker is destroyed
+[T7 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU bat] Veyr Walker is destroyed
+[T7 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T7 YOU main2] Nothing left to play: moving to End
+---- TURN 8: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 27  wasteland 4
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply
+  AI  Axiom: life 15  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 28  wasteland 4
+      hand: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1), Oasiacustod, The Guard(1)
+      front: Vitagladium, The Lifeblade 1/1 | Vitagladium, The Lifeblade 1/1
+      vault: -
+[T8 AI main] AI OBJECTIVE: primary Oasiacustod, The Guard (value 10.0, cost 1, Lume 1) -> it can be played now: plays it first
+[T8 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 15 -> safe plays exist
+[T8 AI main] PLAY Axiom: Oasiacustod, The Guard (U, cost 1, lume 1, debt 0)
+[T8 AI main] Axiom plays Oasiacustod, The Guard
+[T8 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 12.3, cost 4, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T8 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T8 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T8 AI main] AI OBJECTIVE: primary Praedicolum (value 12.9, cost 3, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T8 AI main] AI SAVES Lume for Praedicolum (value 12.9, cost 3) instead of playing for 4.5
+[T8 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T8 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T8 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 12.3, cost 4, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T8 AI main] AI SAVES Lume for Praedicolum (value 12.1, cost 3) instead of playing for 4.5
+[T8 AI main] AI ATTACK PLAN: chose no attack (score -1.6); next best: none -1.6 ; Vitagladium, The Lifeblade -8.0 ; Vitagladium, The Lifeblade -8.0 ; Vitagladium, The Lifeblade+Vitagladium, The Lifeblade -8.7
+[T8 AI main2] AI SAVES Lume for Praedicolum (value 12.1, cost 3) instead of playing for 4.5
+[T8 AI main2] AI ends its turn with 5 card(s) in hand and 1 Lume unspent: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1)
+---- TURN 9: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 26  wasteland 4
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Veyr Beacon(1)
+      front: Veriel, Scout Leader 1/2 | Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply
+  AI  Axiom: life 18  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 28  wasteland 4
+      hand: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Reprieve(1)
+      front: Vitagladium, The Lifeblade 1/1 | Vitagladium, The Lifeblade 1/1 | Oasiacustod, The Guard 1/2 (prep)
+      vault: -
+[T9 YOU main] PLAY DuneMaster: Veyr Beacon (R, cost 1, lume 1, debt 0)
+[T9 YOU main] DuneMaster plays Veyr Beacon
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU main] ACTIVATE DuneMaster: Sqietch Resupply ability #1
+[T9 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T9 YOU main] Sqietch Resupply — Send the top 1 card of your Logistic to the Wasteland: set target Unit you control to Standby
+[T9 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T9 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T9 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T9 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T9 YOU bat] PLAY Axiom: Reprieve (T, cost 1, lume 1, debt 0)
+[T9 YOU bat] Axiom plays Reprieve
+[T9 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 18]
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU bat] Veyr Walker hits Axiom for 1
+[T9 YOU main2] Nothing left to play: moving to End
+---- TURN 10: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 25  wasteland 5
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Veyr Beacon
+  AI  Axiom: life 8  lume 3  debt 0  lumeVictory 0/3  hand 6  logistic 26  wasteland 5
+      hand: Sinner(3), Aqualacum(2), Praedicolum(3), Praetorum, Aurelion Titan(4), Praedicolum(3), Phalanx Legate(2)
+      front: Vitagladium, The Lifeblade 1/1 | Vitagladium, The Lifeblade 1/1 | Oasiacustod, The Guard 1/2
+      vault: -
+[T10 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 11.6, cost 4, Lume 3) -> nothing funds it yet: saves; engine in play: loop focus
+[T10 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 8 -> safe plays exist
+[T10 AI main] PLAY Axiom: Praedicolum (R, cost 3, lume 3, debt 0)
+[T10 AI main] Axiom plays Praedicolum
+[T10 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T10 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T10 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T10 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T10 AI main] AI ATTACK PLAN: chose no attack (score -31.2); next best: none -31.2 ; Vitagladium, The Lifeblade -31.8 ; Vitagladium, The Lifeblade -31.8 ; Oasiacustod, The Guard -8034.0
+[T10 AI main2] AI ends its turn with 5 card(s) in hand and 1 Lume unspent: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Phalanx Legate(2)
+---- TURN 11: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 24  wasteland 5
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5)
+      front: Veriel, Scout Leader 1/2 | Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Veyr Beacon
+  AI  Axiom: life 11  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 26  wasteland 5
+      hand: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Phalanx Legate(2)
+      front: Vitagladium, The Lifeblade 1/1 | Vitagladium, The Lifeblade 1/1 | Oasiacustod, The Guard 1/2
+      vault: Praedicolum
+[T11 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T11 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T11 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T11 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- Oasiacustod, The Guard 1/2 ; Veyr Walker <- Vitagladium, The Lifeblade 1/1 ; Veyr Walker <- Vitagladium, The Lifeblade 1/1 ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 11]
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker hits Axiom for 1
+[T11 YOU bat] Veyr Walker clashes with Oasiacustod, The Guard
+[T11 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T11 YOU bat] Veyr Walker clashes with Vitagladium, The Lifeblade
+[T11 YOU bat] Veyr Walker is destroyed
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Veyr Walker is destroyed
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Veyr Walker is destroyed
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T11 YOU bat] Vitagladium, The Lifeblade is destroyed
+[T11 YOU bat] Vitagladium, The Lifeblade is destroyed
+---- TURN 12: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 24  wasteland 5
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5)
+      front: Veriel, Scout Leader 1/2 (rest) | Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Veyr Beacon
+  AI  Axiom: life 2  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 25  wasteland 7
+      hand: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Phalanx Legate(2), Senatum Revisio(2)
+      front: Oasiacustod, The Guard 1/1
+      vault: Praedicolum
+[T12 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 8.6, cost 4, Lume 2) -> nothing funds it yet: saves
+[T12 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 2 -> safe plays exist
+[T12 AI main] PLAY Axiom: Phalanx Legate (U, cost 2, lume 2, debt 0)
+[T12 AI main] Axiom plays Phalanx Legate
+[T12 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T12 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T12 AI main] ACTIVATE Axiom: Phalanx Legate ability #1
+[T12 AI main] Phalanx Legate — Activate: remove all Politic counters from this Unit then disable all keywords on cards in the enemy hand and all enemy Units until your next turn
+[T12 AI main] Thareq, Wormrider Elder (in DuneMaster's hand) loses its keywords
+[T12 AI main] AI ATTACK PLAN: chose no attack (score -8245.0); next best: none -8245.0 ; Oasiacustod, The Guard -8254.7
+[T12 AI main2] AI ends its turn with 5 card(s) in hand and 1 Lume unspent: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Senatum Revisio(2)
+---- TURN 13: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 23  wasteland 5
+      hand: Grave Altar(2), Sqietch Reservoir(2), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 | Veriel, Scout Leader 1/2 | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Veyr Beacon
+  AI  Axiom: life 2  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 25  wasteland 7
+      hand: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Senatum Revisio(2)
+      front: Oasiacustod, The Guard 1/1 politicx1 | Phalanx Legate 1/4 (prep)
+      vault: Praedicolum
+[T13 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 2, debt 0) target [object Object]
+[T13 YOU main] DuneMaster plays Grave Altar
+[T13 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T13 YOU main] Grave Altar is destroyed
+[T13 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T13 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 5, debt 0)
+[T13 YOU main] DuneMaster plays Grave Altar
+[T13 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T13 YOU main] Grave Altar is destroyed
+[T13 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T13 YOU main] PLAY DuneMaster: Thareq, Wormrider Elder (U, cost 5, lume 8, debt 0)
+[T13 YOU main] DuneMaster plays Thareq, Wormrider Elder
+[T13 YOU main] PLAY DuneMaster: Shaqari, Caravan Elder (U, cost 2, lume 3, debt 0)
+[T13 YOU main] DuneMaster plays Shaqari, Caravan Elder
+[T13 YOU main] ACTIVATE DuneMaster: Sqietch Device ability #1
+[T13 YOU main] Sqietch Device — Pay 1 Lume: recruit a 1/1 Veyrani Scout Veyr Walker with “When destroyed, gain 1 Lume.”
+[T13 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T13 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU main] ACTIVATE DuneMaster: Veriel, Scout Leader ability #1
+[T13 YOU main] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU bat] ATTACK DuneMaster declares: Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+[T13 YOU bat] BLOCKS (Axiom defends): Veyr Walker <- Phalanx Legate 1/4 (prep) ; Veyr Walker <- Oasiacustod, The Guard 1/1 politicx1 ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked ; Veyr Walker <- unblocked [Axiom life 2]
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker hits Axiom for 1
+[T13 YOU bat] Veyr Walker clashes with Phalanx Legate
+[T13 YOU bat] Veyr Walker clashes with Oasiacustod, The Guard
+[T13 YOU bat] Veyr Walker is destroyed
+[T13 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU bat] Veyr Walker is destroyed
+[T13 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU bat] Veyr Beacon — Whenever your Unit is destroyed: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T13 YOU bat] Oasiacustod, The Guard is destroyed
+---- FINAL ----
+  YOU DuneMaster: life 14  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 23  wasteland 7
+      hand: Sqietch Reservoir(2), Shaqari, Caravan Elder(2)
+      front: Veriel, Scout Leader 1/2 (rest) | Veriel, Scout Leader 1/2 (rest) | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Thareq, Wormrider Elder 23/3 (prep) | Shaqari, Caravan Elder 2/3 (prep) | Veyr Walker 1/1 (prep) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 (rest) token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token | Veyr Walker 1/1 token
+      vault: Veyr Beacon, Sqietch Device, Sqietch Resupply, Veyr Beacon
+  AI  Axiom: life -13  lume 1  debt 0  lumeVictory 0/3  hand 5  logistic 25  wasteland 8
+      hand: Sinner(3), Aqualacum(2), Praetorum, Aurelion Titan(4), Praedicolum(3), Senatum Revisio(2)
+      front: Phalanx Legate 1/3 (prep)
+      vault: Praedicolum

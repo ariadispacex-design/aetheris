@@ -1,0 +1,258 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T06:13:24.277Z
+you: DuneMaster (deck Vulkar)   opponent: Axiom / axiom (deck Caelor)
+result: win  "Victory! Your opponent has fallen."  turns 7  final life you 14 / opponent 0
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (40 cards): 4x Grave Altar, 4x Sahri Raider, 4x Dune Skirmisher, 4x Burn Forward, 2x Factory Reset, 4x Solar Flare, 4x Reprieve, 4x Dust Colossus, 4x Glasshide Brute, 4x Ember Lancer, 2x Ossuary
+deck AI  Axiom (40 cards): 4x Praetorum, Aurelion Titan, 4x Grave Altar, 2x Aqualacum, 2x Aurastelar, 4x Oasiacustod, The Guard, 2x Mobil the flota, 2x Senatum Revisio, 3x Vitagladium, The Lifeblade, 4x Reprieve, 2x Phalanx Legate, 3x Blood Siphon, 3x Rector Auresol, 3x Sinner, 2x Praedicolum
+result: win "Victory! Your opponent has fallen." after 7 turns (4 yours, 3 AI)
+final life: you 14 / AI 0   final lume: you 5 / AI 0   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: combat 24
+
+-- YOU DuneMaster --
+  Lume gained 14 (Grave Altar (ability) 10, turn income 4)
+  Lume lost/spent 12 (Grave Altar (cost) 4, Sahri Raider (cost) 4, Dune Skirmisher (cost) 2, Burn Forward (cost) 2)
+  Life gained 0 (-)
+  Life lost 6 (Burn Forward (cost) 6)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 11, played 10 (Sahri Raider 4, Dune Skirmisher 2, Grave Altar 2, Burn Forward 2)
+  abilities activated: Grave Altar 2
+  attacked 21 times (Sahri Raider 15, Dune Skirmisher 6); blocked 0 times (-)
+  units destroyed 1 (Dune Skirmisher 1)
+  own turns: peak lume 4, lowest life 14, peak life 20, avg hand 3.0, avg units 3.8, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 14 (Grave Altar (ability) 10, turn income 3, Oasiacustod, The Guard (ability) 1)
+  Lume lost/spent 17 (Grave Altar (cost) 4, Praetorum, Aurelion Titan (cost) 4, Senatum Revisio (cost) 2, Aurastelar (cost) 2, Vitagladium, The Lifeblade (cost) 2, Mobil the flota (cost) 2)
+  Life gained 4 (Vitagladium, The Lifeblade (ability) 4)
+  Life lost 24 (combat 24)
+  Echo Debt taken 0 (-)  repaid/moved away 0  payday: -
+  cards drawn 10, played 8 (Grave Altar 2, Oasiacustod, The Guard 1, Senatum Revisio 1, Praetorum, Aurelion Titan 1, Aurastelar 1, Vitagladium, The Lifeblade 1, Mobil the flota 1)
+  abilities activated: Grave Altar 2, Oasiacustod, The Guard 1, Praetorum, Aurelion Titan 1, Vitagladium, The Lifeblade 1
+  attacked 0 times (-); blocked 1 times (Praetorum, Aurelion Titan 1)
+  units destroyed 3 (Oasiacustod, The Guard 1, Praetorum, Aurelion Titan 1, Vitagladium, The Lifeblade 1)
+  own turns: peak lume 4, lowest life 1, peak life 20, avg hand 5.7, avg units 0.0, turns with 0 units 3
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 AI  | 14/11 | 0/4 | 0/0 | 0/8 | 5/0 | 9/0 | 5/0 | 32/32
+   3 YOU | 14/11 | 1/1 | 0/0 | 1/4 | 5/2 | 9/3 | 5/8 | 31/32
+   4 AI  | 14/6 | 0/2 | 0/0 | 0/5 | 5/0 | 5/0 | 5/0 | 31/31
+   5 YOU | 14/6 | 1/3 | 0/0 | 1/3 | 5/0 | 5/0 | 5/0 | 30/31
+   6 AI  | 14/1 | 1/4 | 0/0 | 1/4 | 5/0 | 5/0 | 5/0 | 30/30
+   7 YOU | 14/5 | 2/0 | 0/0 | 2/2 | 5/1 | 5/1 | 5/4 | 29/30
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Grave Altar(2), Sahri Raider(1), Dune Skirmisher(1), Sahri Raider(1), Burn Forward(1), Dune Skirmisher(1), Sahri Raider(1)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Praetorum, Aurelion Titan(4), Grave Altar(2), Aqualacum(2), Aurastelar(2), Oasiacustod, The Guard(1), Aqualacum(2), Mobil the flota(2)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Caelor
+[T0 YOU -] D20 roll: you 14, opponent 3
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Grave Altar(2), Sahri Raider(1), Dune Skirmisher(1), Sahri Raider(1), Burn Forward(1), Dune Skirmisher(1), Sahri Raider(1), Burn Forward(1)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Praetorum, Aurelion Titan(4), Grave Altar(2), Aqualacum(2), Aurastelar(2), Oasiacustod, The Guard(1), Aqualacum(2), Mobil the flota(2)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Dune Skirmisher (U, cost 1, lume 4, debt 0)
+[T1 YOU main] DuneMaster plays Dune Skirmisher
+[T1 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 3, debt 0)
+[T1 YOU main] DuneMaster plays Grave Altar
+[T1 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T1 YOU main] Grave Altar is destroyed
+[T1 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T1 YOU main] PLAY DuneMaster: Burn Forward (T, cost 1, lume 6, debt 0)
+[T1 YOU main] DuneMaster plays Burn Forward
+[T1 YOU main] PLAY DuneMaster: Burn Forward (T, cost 1, lume 5, debt 0)
+[T1 YOU main] DuneMaster plays Burn Forward
+[T1 YOU main] PLAY DuneMaster: Dune Skirmisher (U, cost 1, lume 4, debt 0)
+[T1 YOU main] DuneMaster plays Dune Skirmisher
+[T1 YOU main] PLAY DuneMaster: Sahri Raider (U, cost 1, lume 3, debt 0)
+[T1 YOU main] DuneMaster plays Sahri Raider
+[T1 YOU main] PLAY DuneMaster: Sahri Raider (U, cost 1, lume 2, debt 0)
+[T1 YOU main] DuneMaster plays Sahri Raider
+[T1 YOU main] PLAY DuneMaster: Sahri Raider (U, cost 1, lume 1, debt 0)
+[T1 YOU main] DuneMaster plays Sahri Raider
+[T1 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T1 YOU bat] ATTACK DuneMaster declares: Dune Skirmisher 5/1 | Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+[T1 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T1 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T1 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T1 YOU bat] BLOCKS (Axiom defends): Dune Skirmisher <- unblocked ; Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked [Axiom life 20]
+[T1 YOU bat] Dune Skirmisher hits Axiom for 5
+[T1 YOU bat] Dune Skirmisher hits Axiom for 1
+[T1 YOU bat] Sahri Raider hits Axiom for 1
+[T1 YOU bat] Sahri Raider hits Axiom for 1
+[T1 YOU bat] Sahri Raider hits Axiom for 1
+[T1 YOU main2] Nothing left to play: moving to End
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 0  debt 0  lumeVictory 0/3  hand 0  logistic 32  wasteland 3
+      hand: -
+      front: Dune Skirmisher 5/1 (rest) | Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest)
+      vault: -
+  AI  Axiom: life 11  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Praetorum, Aurelion Titan(4), Grave Altar(2), Aqualacum(2), Aurastelar(2), Oasiacustod, The Guard(1), Aqualacum(2), Mobil the flota(2), Senatum Revisio(2)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Oasiacustod, The Guard 10, Sinner 7, Senatum Revisio 7. Chain: 13 counter makers + 10 cash-ins. Unit swap: 0.37 Units lost per turn (low).
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 11 -> safe plays exist
+[T2 AI main] PLAY Axiom: Oasiacustod, The Guard (U, cost 1, lume 4, debt 0)
+[T2 AI main] Axiom plays Oasiacustod, The Guard
+[T2 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 3, debt 0)
+[T2 AI main] Axiom plays Grave Altar
+[T2 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 9.3, cost 4, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T2 AI main] Grave Altar is destroyed
+[T2 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 AI main] AI OBJECTIVE: primary Praetorum, Aurelion Titan (value 9.3, cost 4, Lume 6) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Senatum Revisio (R, cost 2, lume 6, debt 0)
+[T2 AI main] Axiom plays Senatum Revisio
+[T2 AI main] PLAY Axiom: Praetorum, Aurelion Titan (U, cost 4, lume 4, debt 0)
+[T2 AI main] Axiom plays Praetorum, Aurelion Titan
+[T2 AI main] AI OBJECTIVE: primary Aurastelar (value 9.1, cost 2, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 AI main] ACTIVATE Axiom: Oasiacustod, The Guard ability #1
+[T2 AI main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T2 AI main] ACTIVATE Axiom: Praetorum, Aurelion Titan ability #1
+[T2 AI main] Praetorum, Aurelion Titan — Activate: remove all Politic counters from this Unit then your Units get +X HP, where X is the number of counters removed
+[T2 AI main2] AI ends its turn with 4 card(s) in hand and 1 Lume unspent: Aqualacum(2), Aurastelar(2), Aqualacum(2), Mobil the flota(2)
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 31  wasteland 3
+      hand: Sahri Raider(1)
+      front: Dune Skirmisher 5/1 | Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+      vault: -
+  AI  Axiom: life 11  lume 1  debt 0  lumeVictory 0/3  hand 4  logistic 32  wasteland 1
+      hand: Aqualacum(2), Aurastelar(2), Aqualacum(2), Mobil the flota(2)
+      front: Oasiacustod, The Guard 1/3 (prep) politicx1 | Praetorum, Aurelion Titan 2/5 (prep)
+      vault: Senatum Revisio
+[T3 YOU main] PLAY DuneMaster: Sahri Raider (U, cost 1, lume 1, debt 0)
+[T3 YOU main] DuneMaster plays Sahri Raider
+[T3 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T3 YOU bat] ATTACK DuneMaster declares: Dune Skirmisher 5/1 | Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+[T3 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T3 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T3 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T3 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T3 YOU bat] Oasiacustod, The Guard is destroyed
+[T3 YOU bat] BLOCKS (Axiom defends): Dune Skirmisher <- Praetorum, Aurelion Titan 2/1 (prep) politicx1 ; Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked [Axiom life 11]
+[T3 YOU bat] Dune Skirmisher hits Axiom for 1
+[T3 YOU bat] Sahri Raider hits Axiom for 1
+[T3 YOU bat] Sahri Raider hits Axiom for 1
+[T3 YOU bat] Sahri Raider hits Axiom for 1
+[T3 YOU bat] Sahri Raider hits Axiom for 1
+[T3 YOU bat] Dune Skirmisher clashes with Praetorum, Aurelion Titan
+[T3 YOU bat] Dune Skirmisher is destroyed
+[T3 YOU bat] Praetorum, Aurelion Titan is destroyed
+[T3 YOU main2] Nothing left to play: moving to End
+---- TURN 4: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 0  debt 0  lumeVictory 0/3  hand 0  logistic 31  wasteland 4
+      hand: -
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest)
+      vault: -
+  AI  Axiom: life 6  lume 2  debt 0  lumeVictory 0/3  hand 5  logistic 31  wasteland 3
+      hand: Aqualacum(2), Aurastelar(2), Aqualacum(2), Mobil the flota(2), Grave Altar(2)
+      front: -
+      vault: Senatum Revisio
+[T4 AI main] AI OBJECTIVE: primary Grave Altar (value 16.5, cost 2, Lume 2) -> it can be played now: plays it first
+[T4 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 6 -> safe plays exist
+[T4 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 2, debt 0)
+[T4 AI main] Axiom plays Grave Altar
+[T4 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T4 AI main] Grave Altar is destroyed
+[T4 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T4 AI main] PLAY Axiom: Aurastelar (R, cost 2, lume 5, debt 0)
+[T4 AI main] Axiom plays Aurastelar
+[T4 AI main2] AI ends its turn with 3 card(s) in hand and 3 Lume unspent: Aqualacum(2), Aqualacum(2), Mobil the flota(2)
+---- TURN 5: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 30  wasteland 4
+      hand: Grave Altar(2)
+      front: Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+      vault: -
+  AI  Axiom: life 6  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 31  wasteland 4
+      hand: Aqualacum(2), Aqualacum(2), Mobil the flota(2)
+      front: -
+      vault: Senatum Revisio, Aurastelar
+[T5 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T5 YOU bat] ATTACK DuneMaster declares: Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+[T5 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T5 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T5 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T5 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T5 YOU bat] BLOCKS (Axiom defends): Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked [Axiom life 6]
+[T5 YOU bat] Dune Skirmisher hits Axiom for 1
+[T5 YOU bat] Sahri Raider hits Axiom for 1
+[T5 YOU bat] Sahri Raider hits Axiom for 1
+[T5 YOU bat] Sahri Raider hits Axiom for 1
+[T5 YOU bat] Sahri Raider hits Axiom for 1
+[T5 YOU main2] Nothing left to play: moving to End
+---- TURN 6: Axiom (AI) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 30  wasteland 4
+      hand: Grave Altar(2)
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest)
+      vault: -
+  AI  Axiom: life 1  lume 4  debt 0  lumeVictory 0/3  hand 4  logistic 30  wasteland 4
+      hand: Aqualacum(2), Aqualacum(2), Mobil the flota(2), Vitagladium, The Lifeblade(2)
+      front: -
+      vault: Senatum Revisio, Aurastelar
+[T6 AI main] AI OBJECTIVE: primary Vitagladium, The Lifeblade (value 8.2, cost 2, Lume 4) -> it can be played now: plays it first
+[T6 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 1 -> safe plays exist
+[T6 AI main] PLAY Axiom: Vitagladium, The Lifeblade (U, cost 2, lume 4, debt 0)
+[T6 AI main] Axiom plays Vitagladium, The Lifeblade
+[T6 AI main] Aurastelar — Whenever you play another card: put 1 Politic counter on your Units
+[T6 AI main] PLAY Axiom: Mobil the flota (T, cost 2, lume 2, debt 0)
+[T6 AI main] Axiom plays Mobil the flota
+[T6 AI main] Aurastelar — Whenever you play another card: put 1 Politic counter on your Units
+[T6 AI main] ACTIVATE Axiom: Vitagladium, The Lifeblade ability #1
+[T6 AI main] Vitagladium, The Lifeblade — Activate: remove all Politic counters from your Units then gain X Life, where X is the number of counters removed
+[T6 AI main2] AI ends its turn with 2 card(s) in hand and 0 Lume unspent: Aqualacum(2), Aqualacum(2)
+---- TURN 7: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 2  debt 0  lumeVictory 0/3  hand 2  logistic 29  wasteland 4
+      hand: Grave Altar(2), Factory Reset(5 echo 4)
+      front: Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+      vault: -
+  AI  Axiom: life 5  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 30  wasteland 5
+      hand: Aqualacum(2), Aqualacum(2)
+      front: Vitagladium, The Lifeblade 1/4 (prep)
+      vault: Senatum Revisio, Aurastelar
+[T7 YOU main] PLAY DuneMaster: Grave Altar (R, cost 2, lume 2, debt 0)
+[T7 YOU main] DuneMaster plays Grave Altar
+[T7 YOU main] Senatum Revisio — Whenever the opponent plays a card: put 1 Politic counter on your Units
+[T7 YOU main] ACTIVATE DuneMaster: Grave Altar ability #1
+[T7 YOU main] Grave Altar is destroyed
+[T7 YOU main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T7 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T7 YOU bat] ATTACK DuneMaster declares: Dune Skirmisher 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1 | Sahri Raider 1/1
+[T7 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 YOU bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T7 YOU bat] Vitagladium, The Lifeblade is destroyed
+[T7 YOU bat] BLOCKS (Axiom defends): Dune Skirmisher <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked ; Sahri Raider <- unblocked [Axiom life 5]
+[T7 YOU bat] Dune Skirmisher hits Axiom for 1
+[T7 YOU bat] Sahri Raider hits Axiom for 1
+[T7 YOU bat] Sahri Raider hits Axiom for 1
+[T7 YOU bat] Sahri Raider hits Axiom for 1
+[T7 YOU bat] Sahri Raider hits Axiom for 1
+---- FINAL ----
+  YOU DuneMaster: life 14  lume 5  debt 0  lumeVictory 0/3  hand 1  logistic 29  wasteland 5
+      hand: Factory Reset(5 echo 4)
+      front: Dune Skirmisher 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest) | Sahri Raider 1/1 (rest)
+      vault: -
+  AI  Axiom: life 0  lume 0  debt 0  lumeVictory 0/3  hand 2  logistic 30  wasteland 6
+      hand: Aqualacum(2), Aqualacum(2)
+      front: -
+      vault: Senatum Revisio, Aurastelar

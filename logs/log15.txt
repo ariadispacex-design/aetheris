@@ -1,0 +1,254 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T10:05:40.245Z
+mode: SPECTATE (AI vs AI)
+seat 1 (S1): Axiom A / axiom (deck Alliance)   seat 2 (S2): Axiom B / axiom (deck Astronav)
+result: S1 wins  "Axiom A wins by Life."  turns 6  final life S1 7 / S2 -7
+
+==== BALANCE SUMMARY ====
+deck S1  Axiom A (40 cards): 3x Sahri Raider, 2x Oasiacustod, The Guard, 4x Reprieve, 2x Glasshide Brute, 3x Dune Skirmisher, 3x Senatum Revisio, 2x Sinner, 3x Solar Flare, 4x Veyr Beacon, 1x Thareq, Wormrider Elder, 2x Praetorum, Aurelion Titan, 3x Grave Altar, 3x Blood Siphon, 2x Burn Forward, 1x Rector Auresol, 2x Vitagladium, The Lifeblade
+deck S2  Axiom B (40 cards): 3x Gravity Lock, 4x Archive Core, 4x Reprieve, 3x Biofuel Recycle, 2x Overcharge, 4x Blood Siphon, 2x Omnix, Vector Sentinel, 2x Synthetic Lume, 3x Factory Reset, 1x Arkh, Lume Heart, 2x Synaxion, Path Navigator, 1x Ix, The Oracle Array, 3x Kry, The Calibrator, 2x Recalculate, 2x Ex-syn, The Recycler, 1x Theta, Prism Cutter, 1x Decommission
+result: S1 wins "Axiom A wins by Life." after 6 turns (3 seat 1, 3 seat 2)
+final life: S1 7 / S2 -7   final lume: S1 0 / S2 3   Lume Victory progress: S1 0/3 / S2 0/3
+what hurt the loser most: S2 Axiom B lost Life to: combat 13, Payday 10, Biofuel Recycle (ability) 5
+
+-- S1  Axiom A --
+  Lume gained 10 (Reprieve (cost) 4, turn income 3, Oasiacustod, The Guard (ability) 3)
+  Lume lost/spent 13 (Reprieve (cost) 3, Omnix, Vector Sentinel 2, Glasshide Brute (cost) 2, Senatum Revisio (cost) 2, Sahri Raider (cost) 1, Oasiacustod, The Guard (cost) 1)
+  Life gained 0 (-)
+  Life lost 13 (Payday 13)
+  Echo Debt taken 15 (Gravity Lock 6, Biofuel Recycle (ability) 6, Archive Core 2, Glasshide Brute (cost) 1)  repaid/moved away 15  payday: lost Life 2, skipped (first turn) 1
+  cards drawn 13, played 9 (Reprieve 3, Sahri Raider 1, Oasiacustod, The Guard 1, Dune Skirmisher 1, Glasshide Brute 1, Veyr Beacon 1, Senatum Revisio 1)
+  abilities activated: Oasiacustod, The Guard 3
+  attacked 8 times (Sahri Raider 3, Dune Skirmisher 2, Oasiacustod, The Guard 2, Glasshide Brute 1); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 2, lowest life 7, peak life 20, avg hand 7.0, avg units 2.0, turns with 0 units 1
+
+-- S2  Axiom B --
+  Lume gained 13 (Reprieve (cost) 6, turn income 3, Omnix, Vector Sentinel 2, Synthetic Lume 2)
+  Lume lost/spent 13 (Gravity Lock (cost) 4, Reprieve (cost) 3, Archive Core (cost) 2, Biofuel Recycle (cost) 2, Omnix, Vector Sentinel (cost) 1, Synthetic Lume (cost) 1)
+  Life gained 1 (Synthetic Lume 1)
+  Life lost 28 (combat 13, Payday 10, Biofuel Recycle (ability) 5)
+  Echo Debt taken 18 (Archive Core (cost) 8, Gravity Lock (cost) 4, Omnix, Vector Sentinel (cost) 2, Biofuel Recycle (cost) 2, Synthetic Lume (cost) 2)  repaid/moved away 18  payday: lost Life 1
+  cards drawn 13, played 10 (Reprieve 3, Archive Core 2, Gravity Lock 2, Omnix, Vector Sentinel 1, Biofuel Recycle 1, Synthetic Lume 1)
+  abilities activated: Biofuel Recycle 1
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 1 (Omnix, Vector Sentinel 1)
+  own turns: peak lume 4, lowest life 2, peak life 20, avg hand 5.0, avg units 0.0, turns with 0 units 3
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life S1/S2 | lume S1/S2 | debt S1/S2 | hand | units | ATK on board | HP on board | logistic
+   1 S2  | 20/20 | 3/4 | 0/0 | 7/8 | 0/0 | 0/0 | 0/0 | 33/32
+   2 S1  | 20/15 | 2/0 | 10/10 | 8/3 | 0/1 | 0/1 | 0/1 | 32/31
+   3 S2  | 20/4 | 1/1 | 10/0 | 6/4 | 2/0 | 2/0 | 3/0 | 32/30
+   4 S1  | 8/4 | 2/1 | 2/0 | 7/2 | 2/0 | 2/0 | 3/0 | 31/29
+   5 S2  | 8/2 | 0/2 | 1/0 | 5/3 | 4/0 | 5/0 | 6/0 | 29/28
+   6 S1  | 7/2 | 1/3 | 0/0 | 6/3 | 4/0 | 5/0 | 6/0 | 28/27
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 S1 -] match start
+---- OPENING HANDS ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sahri Raider(1), Oasiacustod, The Guard(1), Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Gravity Lock(4 echo 2), Archive Core(5 echo 4), Reprieve(1), Archive Core(5 echo 4), Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Blood Siphon(1)
+      front: -
+      vault: -
+[T0 S1 -] Axiom A plays Alliance, Axiom B plays Astronav
+[T0 S1 -] D20 roll: Axiom A 13, Axiom B 15
+---- TURN 1: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sahri Raider(1), Oasiacustod, The Guard(1), Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Gravity Lock(4 echo 2), Archive Core(5 echo 4), Reprieve(1), Archive Core(5 echo 4), Biofuel Recycle(4 echo 2), Overcharge(5 echo 4), Blood Siphon(1), Reprieve(1)
+      front: -
+      vault: -
+[T1 S2 main] AI DECK PLAN (Axiom B): reads its own Logistic. Engine cards: Arkh, Lume Heart 10, Archive Core 10, Gravity Lock 7, Decommission 7. Unit swap: 0.22 Units lost per turn (low).
+[T1 S2 main] Axiom B studies its Logistic. Main engine: Arkh, Lume Heart, Archive Core, Gravity Lock
+[T1 S2 main] AI OBJECTIVE: primary Gravity Lock (value 11.0, cost 2, Lume 4) -> it can be played now: plays it first
+[T1 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T1 S2 main] PLAY Axiom B: Reprieve (T, cost 1, lume 4, debt 0)
+[T1 S2 main] Axiom B plays Reprieve
+[T1 S2 main] AI OBJECTIVE: primary Omnix, Vector Sentinel (value 14.2, cost 1, Lume 5) -> it can be played now: plays it first
+[T1 S2 main] PLAY Axiom B: Omnix, Vector Sentinel (U, cost 3 echo 2, lume 5, debt 0)
+[T1 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T1 S2 main] Axiom B plays Omnix, Vector Sentinel
+[T1 S2 main] AI OBJECTIVE: primary Gravity Lock (value 17.7, cost 2, Lume 4) -> it can be played now: plays it first
+[T1 S2 main] PLAY Axiom B: Archive Core (R, cost 5 echo 4, lume 4, debt 2)
+[T1 S2 main] Axiom B takes 4 Echo Debt (Debt 6)
+[T1 S2 main] Axiom B plays Archive Core
+[T1 S2 main] Omnix, Vector Sentinel — Whenever you play another card using Echo: steal 2 Lume from the opponent
+[T1 S2 main] Axiom B steals 2 Lume from Axiom A
+[T1 S2 main] PLAY Axiom B: Archive Core (R, cost 5 echo 4, lume 5, debt 6)
+[T1 S2 main] Axiom B takes 4 Echo Debt (Debt 10)
+[T1 S2 main] Axiom B plays Archive Core
+[T1 S2 main] PLAY Axiom B: Gravity Lock (R, cost 4 echo 2, lume 4, debt 10)
+[T1 S2 main] Axiom B takes 2 Echo Debt (Debt 12)
+[T1 S2 main] Axiom B plays Gravity Lock
+[T1 S2 main] Gravity Lock — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T1 S2 main] 2 Echo Debt moves to Axiom A
+[T1 S2 main] AI OBJECTIVE: primary Biofuel Recycle (value 13.5, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T1 S2 main] PLAY Axiom B: Biofuel Recycle (R, cost 4 echo 2, lume 2, debt 10)
+[T1 S2 main] Axiom B takes 2 Echo Debt (Debt 12)
+[T1 S2 main] Axiom B plays Biofuel Recycle
+[T1 S2 main] Gravity Lock — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T1 S2 main] 2 Echo Debt moves to Axiom A
+[T1 S2 main] AI OBJECTIVE: primary Overcharge (value 6.6, cost 1, Lume 0) -> nothing funds it yet: saves; engine in play: loop focus
+[T1 S2 main] ACTIVATE Axiom B: Biofuel Recycle ability #1
+[T1 S2 main] Biofuel Recycle — Activate: lose X Life then give the opponent Y Echo Debt, where X is half of your Echo Debt, rounded down and Y is your Echo Debt
+[T1 S2 main] Axiom A is protected until their first turn: Echo Debt cannot go above 10
+[T1 S2 main] Axiom A takes 6 Echo Debt (Debt 10)
+[T1 S2 main2] Axiom B ends its turn with 3 card(s) in hand and 0 Lume unspent: Overcharge(5 echo 4), Blood Siphon(1), Reprieve(1)
+[T2 S1 main] Axiom A is protected on the first turn: no Payday, 10 Echo Debt waits for the next one
+---- TURN 2: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 20  lume 2  debt 10  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Sahri Raider(1), Oasiacustod, The Guard(1), Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2), Sinner(3)
+      front: -
+      vault: -
+  S2  Axiom B: life 15  lume 0  debt 10  lumeVictory 0/3  hand 3  logistic 31  wasteland 1
+      hand: Overcharge(5 echo 4), Blood Siphon(1), Reprieve(1)
+      front: Omnix, Vector Sentinel 1/1 (prep)
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle
+[T2 S1 main] AI DECK PLAN (Axiom A): reads its own Logistic. Engine cards: Grave Altar 27, Oasiacustod, The Guard 10, Sinner 7, Senatum Revisio 7. Chain: 7 counter makers + 5 cash-ins. Unit swap: 0.62 Units lost per turn (medium).
+[T2 S1 main] Axiom A studies its Logistic. Main engine: Grave Altar, Oasiacustod, The Guard, Sinner
+[T2 S1 main] AI OBJECTIVE: primary Sahri Raider (value 13.7, cost 1, Lume 2) -> it can be played now: plays it first
+[T2 S1 main] AI PAYDAY PLAN: own debt 10, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T2 S1 main] PLAY Axiom A: Sahri Raider (U, cost 1, lume 2, debt 10)
+[T2 S1 main] Axiom A plays Sahri Raider
+[T2 S1 main] AI OBJECTIVE: primary Oasiacustod, The Guard (value 7.2, cost 1, Lume 1) -> it can be played now: plays it first
+[T2 S1 main] PLAY Axiom A: Oasiacustod, The Guard (U, cost 1, lume 1, debt 10)
+[T2 S1 main] Axiom A plays Oasiacustod, The Guard
+[T2 S1 main] AI OBJECTIVE: primary Sinner (value 7.1, cost 3, Lume 0) -> nothing funds it yet: saves
+[T2 S1 main] ACTIVATE Axiom A: Oasiacustod, The Guard ability #1
+[T2 S1 main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T2 S1 main] AI SAVES Lume for Sinner (value 7.3, cost 3) instead of playing for 4.5
+[T2 S1 main] AI ATTACK PLAN: chose Sahri Raider (score 3.4); next best: Sahri Raider 3.4 ; none 0.0
+[T2 S1 bat] ATTACK Axiom A declares: Sahri Raider 1/1 politicx1
+[T2 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T2 S1 bat] Omnix, Vector Sentinel is destroyed
+[T2 S1 bat] BLOCKS (Axiom B defends): Sahri Raider <- unblocked [Axiom B life 15]
+[T2 S1 bat] Sahri Raider hits Axiom B for 1
+[T2 S1 main2] AI SAVES Lume for Sinner (value 7.3, cost 3) instead of playing for 4.5
+[T2 S1 main2] Axiom A ends its turn with 6 card(s) in hand and 1 Lume unspent: Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2), Sinner(3)
+[T3 S2 main] Payday! Axiom B loses 10 Life to Echo Debt
+---- TURN 3: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 20  lume 1  debt 10  lumeVictory 0/3  hand 6  logistic 32  wasteland 0
+      hand: Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2), Sinner(3)
+      front: Sahri Raider 1/1 (rest) politicx1 | Oasiacustod, The Guard 1/2 (prep) politicx1
+      vault: -
+  S2  Axiom B: life 4  lume 1  debt 0  lumeVictory 0/3  hand 4  logistic 30  wasteland 2
+      hand: Overcharge(5 echo 4), Blood Siphon(1), Reprieve(1), Gravity Lock(4 echo 2)
+      front: -
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle
+[T3 S2 main] AI OBJECTIVE: primary Gravity Lock (value 10.1, cost 2, Lume 1) -> nothing funds it yet: saves
+[T3 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 4 -> safe plays exist
+[T3 S2 main] PLAY Axiom B: Reprieve (T, cost 1, lume 1, debt 0)
+[T3 S2 main] Axiom B plays Reprieve
+[T3 S2 main] AI OBJECTIVE: primary Synthetic Lume (value 11.8, cost 1, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T3 S2 main] PLAY Axiom B: Synthetic Lume (R, cost 3 echo 2, lume 2, debt 0)
+[T3 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T3 S2 main] Axiom B plays Synthetic Lume
+[T3 S2 main] Gravity Lock — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T3 S2 main] 2 Echo Debt moves to Axiom A
+[T3 S2 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T3 S2 main] AI OBJECTIVE: primary Gravity Lock (value 11.7, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T3 S2 main] PLAY Axiom B: Gravity Lock (R, cost 4 echo 2, lume 2, debt 0)
+[T3 S2 main] Axiom B takes 2 Echo Debt (Debt 2)
+[T3 S2 main] Axiom B plays Gravity Lock
+[T3 S2 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T3 S2 main2] Axiom B ends its turn with 2 card(s) in hand and 1 Lume unspent: Overcharge(5 echo 4), Blood Siphon(1)
+[T4 S1 main] Payday! Axiom A loses 12 Life to Echo Debt
+[T4 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+[T4 S1 main] 2 Echo Debt moves to Axiom A
+[T4 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+---- TURN 4: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 8  lume 2  debt 2  lumeVictory 0/3  hand 7  logistic 31  wasteland 0
+      hand: Reprieve(1), Glasshide Brute(3 echo 1), Dune Skirmisher(1), Reprieve(1), Senatum Revisio(2), Sinner(3), Reprieve(1)
+      front: Sahri Raider 1/1 politicx1 | Oasiacustod, The Guard 1/2 politicx1
+      vault: -
+  S2  Axiom B: life 4  lume 1  debt 0  lumeVictory 0/3  hand 2  logistic 29  wasteland 3
+      hand: Overcharge(5 echo 4), Blood Siphon(1)
+      front: -
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle, Synthetic Lume, Gravity Lock
+[T4 S1 main] AI OBJECTIVE: primary Sinner (value 6.1, cost 3, Lume 2) -> nothing funds it yet: saves
+[T4 S1 main] AI PAYDAY PLAN: own debt 2, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 8 -> safe plays exist
+[T4 S1 main] PLAY Axiom A: Reprieve (T, cost 1, lume 2, debt 2)
+[T4 S1 main] Axiom A plays Reprieve
+[T4 S1 main] PLAY Axiom A: Dune Skirmisher (U, cost 1, lume 1, debt 0)
+[T4 S1 main] Axiom A plays Dune Skirmisher
+[T4 S1 main] AI OBJECTIVE: primary Glasshide Brute (value 6.5, cost 2, Lume 0) -> nothing funds it yet: saves
+[T4 S1 main] ACTIVATE Axiom A: Oasiacustod, The Guard ability #1
+[T4 S1 main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T4 S1 main] PLAY Axiom A: Reprieve (T, cost 1, lume 1, debt 0)
+[T4 S1 main] Axiom A plays Reprieve
+[T4 S1 main] AI OBJECTIVE: primary Glasshide Brute (value 6.5, cost 2, Lume 2) -> it can be played now: plays it first
+[T4 S1 main] PLAY Axiom A: Glasshide Brute (U, cost 3 echo 1, lume 2, debt 0)
+[T4 S1 main] Axiom A takes 1 Echo Debt (Debt 1)
+[T4 S1 main] Axiom A plays Glasshide Brute
+[T4 S1 main] Synthetic Lume — Whenever the opponent plays a card using Echo: gain 1 Life
+[T4 S1 main] AI OBJECTIVE: primary Sinner (value 6.8, cost 3, Lume 0) -> nothing funds it yet: saves
+[T4 S1 main] AI ATTACK PLAN: chose Sahri Raider + Dune Skirmisher + Oasiacustod, The Guard (score 12.9); next best: Sahri Raider+Dune Skirmisher+Oasiacustod, The Guard 12.9 ; Sahri Raider+Dune Skirmisher 7.6 ; Dune Skirmisher+Oasiacustod, The Guard 7.6 ; Sahri Raider+Oasiacustod, The Guard 7.6
+[T4 S1 bat] ATTACK Axiom A declares: Sahri Raider 1/1 politicx2 | Dune Skirmisher 1/1 politicx1 | Oasiacustod, The Guard 1/2 politicx2
+[T4 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T4 S1 bat] BLOCKS (Axiom B defends): Sahri Raider <- unblocked ; Dune Skirmisher <- unblocked ; Oasiacustod, The Guard <- unblocked [Axiom B life 5]
+[T4 S1 bat] Sahri Raider hits Axiom B for 1
+[T4 S1 bat] Oasiacustod, The Guard hits Axiom B for 1
+[T4 S1 bat] Dune Skirmisher hits Axiom B for 1
+[T4 S1 main2] Axiom A ends its turn with 5 card(s) in hand and 0 Lume unspent: Senatum Revisio(2), Sinner(3), Reprieve(1), Solar Flare(1), Veyr Beacon(1)
+---- TURN 5: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 8  lume 0  debt 1  lumeVictory 0/3  hand 5  logistic 29  wasteland 2
+      hand: Senatum Revisio(2), Sinner(3), Reprieve(1), Solar Flare(1), Veyr Beacon(1)
+      front: Sahri Raider 1/1 (rest) politicx2 | Oasiacustod, The Guard 1/2 (rest) politicx2 | Dune Skirmisher 1/1 (rest) politicx1 | Glasshide Brute 2/2 (prep)
+      vault: -
+  S2  Axiom B: life 2  lume 2  debt 0  lumeVictory 0/3  hand 3  logistic 28  wasteland 3
+      hand: Overcharge(5 echo 4), Blood Siphon(1), Reprieve(1)
+      front: -
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle, Synthetic Lume, Gravity Lock
+[T5 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 2 -> safe plays exist
+[T5 S2 main] PLAY Axiom B: Reprieve (T, cost 1, lume 2, debt 0)
+[T5 S2 main] Axiom B plays Reprieve
+[T5 S2 main2] Axiom B ends its turn with 3 card(s) in hand and 3 Lume unspent: Overcharge(5 echo 4), Blood Siphon(1), Biofuel Recycle(4 echo 2)
+[T6 S1 main] Payday! Axiom A loses 1 Life to Echo Debt
+[T6 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+[T6 S1 main] Archive Core — When the opponent's Echo Debt decreases: transfer up to 5 Echo Debt to the opponent
+---- TURN 6: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 7  lume 1  debt 0  lumeVictory 0/3  hand 6  logistic 28  wasteland 2
+      hand: Senatum Revisio(2), Sinner(3), Reprieve(1), Solar Flare(1), Veyr Beacon(1), Dune Skirmisher(1)
+      front: Sahri Raider 1/1 politicx2 | Oasiacustod, The Guard 1/2 politicx2 | Dune Skirmisher 1/1 politicx1 | Glasshide Brute 2/2
+      vault: -
+  S2  Axiom B: life 2  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 27  wasteland 4
+      hand: Overcharge(5 echo 4), Blood Siphon(1), Biofuel Recycle(4 echo 2)
+      front: -
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle, Synthetic Lume, Gravity Lock
+[T6 S1 main] AI OBJECTIVE: primary Sinner (value 6.7, cost 3, Lume 1) -> nothing funds it yet: saves
+[T6 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 7 -> safe plays exist
+[T6 S1 main] PLAY Axiom A: Veyr Beacon (R, cost 1, lume 1, debt 0)
+[T6 S1 main] Axiom A plays Veyr Beacon
+[T6 S1 main] ACTIVATE Axiom A: Oasiacustod, The Guard ability #1
+[T6 S1 main] Oasiacustod, The Guard — Activate: put 1 Politic counter on your Units then gain 1 Lume
+[T6 S1 main] PLAY Axiom A: Reprieve (T, cost 1, lume 1, debt 0)
+[T6 S1 main] Axiom A plays Reprieve
+[T6 S1 main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 15.7, cost 5, Lume 2) -> nothing funds it yet: saves
+[T6 S1 main] PLAY Axiom A: Senatum Revisio (R, cost 2, lume 2, debt 0)
+[T6 S1 main] Axiom A plays Senatum Revisio
+[T6 S1 bat] ATTACK Axiom A declares: Sahri Raider 1/1 politicx3 | Oasiacustod, The Guard 1/2 politicx3 | Dune Skirmisher 1/1 politicx2 | Glasshide Brute 2/2 politicx1
+[T6 S1 bat] Sahri Raider — When attacking: deal 1 damage to all enemy Units
+[T6 S1 bat] Glasshide Brute — When attacking: your Units get +1 ATK this turn
+[T6 S1 bat] BLOCKS (Axiom B defends): Sahri Raider <- unblocked ; Oasiacustod, The Guard <- unblocked ; Dune Skirmisher <- unblocked ; Glasshide Brute <- unblocked [Axiom B life 2]
+[T6 S1 bat] Sahri Raider hits Axiom B for 2
+[T6 S1 bat] Oasiacustod, The Guard hits Axiom B for 2
+[T6 S1 bat] Dune Skirmisher hits Axiom B for 2
+[T6 S1 bat] Glasshide Brute hits Axiom B for 3
+---- FINAL ----
+  S1  Axiom A: life 7  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 27  wasteland 3
+      hand: Sinner(3), Solar Flare(1), Dune Skirmisher(1), Thareq, Wormrider Elder(5)
+      front: Sahri Raider 2/1 (rest) politicx3 | Oasiacustod, The Guard 2/2 (rest) politicx3 | Dune Skirmisher 2/1 (rest) politicx2 | Glasshide Brute 3/2 (rest) politicx1
+      vault: Veyr Beacon, Senatum Revisio
+  S2  Axiom B: life -7  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 27  wasteland 4
+      hand: Overcharge(5 echo 4), Blood Siphon(1), Biofuel Recycle(4 echo 2)
+      front: -
+      vault: Archive Core, Archive Core, Gravity Lock, Biofuel Recycle, Synthetic Lume, Gravity Lock

@@ -1,0 +1,305 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-12T03:20:16.766Z
+you: DuneMaster (deck Astronav)   opponent: Axiom / axiom (deck Veyrani)
+result: win  "Victory! Your opponent has fallen."  turns 4  final life you 26 / opponent -22
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (40 cards): 4x Decommission, 2x Recalculate, 4x Reprieve, 2x Kry, The Calibrator, 4x Arkh, Lume Heart, 2x Omnix, Vector Sentinel, 4x Overcharge, 3x Gravity Lock, 4x Theta, Prism Cutter, 2x Synthetic Lume, 4x Ex-syn, The Recycler, 1x Ix, The Oracle Array, 2x Factory Reset, 1x Blood Siphon, 1x Archive Core
+deck AI  Axiom (40 cards): 4x Blood Siphon, 4x Sqietch Device, 4x Grave Altar, 4x Sqietch Reservoir, 4x Veyr Beacon, 4x Shaqari, Caravan Elder, 4x Qarseem, Sand Warden, 4x Thareq, Wormrider Elder, 4x Sqietch Resupply, 4x Veriel, Scout Leader
+result: win "Victory! Your opponent has fallen." after 4 turns (2 yours, 1 AI)
+final life: you 26 / AI -22   final lume: you 3 / AI 1   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: Payday 23, Overcharge 15, Blood Siphon (cost) 3
+
+-- YOU DuneMaster --
+  Lume gained 12 (Synthetic Lume (ability) 6, turn income 2, Archive Core 2, Reprieve (cost) 2)
+  Lume lost/spent 12 (Omnix, Vector Sentinel (cost) 2, Kry, The Calibrator (cost) 1, Recalculate (cost) 1, Synthetic Lume (cost) 1, Overcharge (cost) 1, Gravity Lock (cost) 1)
+  Life gained 15 (Overcharge 15)
+  Life lost 9 (Payday 9)
+  Echo Debt taken 32 (Arkh, Lume Heart (cost) 5, Overcharge (cost) 4, Omnix, Vector Sentinel (cost) 4, Archive Core (cost) 4, Kry, The Calibrator (cost) 3, Gravity Lock (cost) 3)  repaid/moved away 32  payday: lost Life 1
+  cards drawn 12, played 12 (Omnix, Vector Sentinel 2, Kry, The Calibrator 1, Recalculate 1, Synthetic Lume 1, Overcharge 1, Gravity Lock 1, Decommission 1, Archive Core 1, Arkh, Lume Heart 1, Ex-syn, The Recycler 1, Reprieve 1)
+  abilities activated: Synthetic Lume 6, Decommission 3, Ex-syn, The Recycler 3, Recalculate 2
+  attacked 2 times (Omnix, Vector Sentinel 1, Kry, The Calibrator 1); blocked 0 times (-)
+  units destroyed 1 (Omnix, Vector Sentinel 1)
+  own turns: peak lume 4, lowest life 14, peak life 22, avg hand 5.5, avg units 1.0, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 12 (Grave Altar (ability) 10, turn income 2)
+  Lume lost/spent 14 (Grave Altar (cost) 4, Sqietch Device (cost) 2, Shaqari, Caravan Elder (cost) 2, Sqietch Reservoir (cost) 2, Archive Core 2, Blood Siphon (cost) 1)
+  Life gained 0 (-)
+  Life lost 42 (Payday 23, Overcharge 15, Blood Siphon (cost) 3, combat 1)
+  Echo Debt taken 23 (Gravity Lock 11, Kry, The Calibrator 7, Decommission (ability) 3, Ex-syn, The Recycler (ability) 2)  repaid/moved away 23  payday: skipped (first turn) 1, lost Life 1
+  cards drawn 9, played 8 (Grave Altar 2, Sqietch Device 2, Blood Siphon 1, Veyr Beacon 1, Shaqari, Caravan Elder 1, Sqietch Reservoir 1)
+  abilities activated: Grave Altar 2
+  attacked 0 times (-); blocked 1 times (Shaqari, Caravan Elder 1)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 14, peak life 20, avg hand 8.0, avg units 0.0, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 AI  | 22/18 | 0/4 | 9/10 | 2/8 | 2/0 | 2/0 | 2/0 | 23/32
+   3 YOU | 14/14 | 1/2 | 0/10 | 3/0 | 2/1 | 2/2 | 2/3 | 23/32
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Decommission(4 echo 3), Recalculate(3 echo 2), Reprieve(1), Kry, The Calibrator(4 echo 3), Arkh, Lume Heart(6 echo 5), Omnix, Vector Sentinel(3 echo 2), Overcharge(5 echo 4)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Blood Siphon(1), Sqietch Device(1), Grave Altar(2), Sqietch Device(1), Sqietch Reservoir(2), Grave Altar(2), Veyr Beacon(1)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Veyrani
+[T0 YOU -] D20 roll: you 15, opponent 10
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Decommission(4 echo 3), Recalculate(3 echo 2), Reprieve(1), Kry, The Calibrator(4 echo 3), Arkh, Lume Heart(6 echo 5), Omnix, Vector Sentinel(3 echo 2), Overcharge(5 echo 4), Gravity Lock(4 echo 3)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Blood Siphon(1), Sqietch Device(1), Grave Altar(2), Sqietch Device(1), Sqietch Reservoir(2), Grave Altar(2), Veyr Beacon(1)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Kry, The Calibrator (U, cost 4 echo 3, lume 4, debt 0)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 3)
+[T1 YOU main] DuneMaster plays Kry, The Calibrator
+[T1 YOU main] PLAY DuneMaster: Recalculate (R, cost 3 echo 2, lume 3, debt 3)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 5)
+[T1 YOU main] DuneMaster plays Recalculate
+[T1 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T1 YOU main] PLAY DuneMaster: Synthetic Lume (R, cost 3 echo 2, lume 2, debt 4)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 6)
+[T1 YOU main] DuneMaster plays Synthetic Lume
+[T1 YOU main] PLAY DuneMaster: Overcharge (R, cost 5 echo 4, lume 1, debt 6)
+[T1 YOU main] DuneMaster takes 4 Echo Debt (Debt 10)
+[T1 YOU main] DuneMaster plays Overcharge
+[T1 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T1 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T1 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T1 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T1 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T1 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T1 YOU main] PLAY DuneMaster: Gravity Lock (R, cost 4 echo 3, lume 2, debt 10)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 13)
+[T1 YOU main] DuneMaster plays Gravity Lock
+[T1 YOU main] PLAY DuneMaster: Decommission (R, cost 4 echo 3, lume 1, debt 13)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 16)
+[T1 YOU main] DuneMaster plays Decommission
+[T1 YOU main] ACTIVATE DuneMaster: Decommission ability #1
+[T1 YOU main] 3 cards from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T1 YOU main] 2 Echo Debt moves to Axiom
+[T1 YOU main] Decommission — Send the top 3 cards of your Logistic to the Wasteland: transfer up to 3 Echo Debt to the opponent
+[T1 YOU main] 3 Echo Debt moves to Axiom
+[T1 YOU main] ACTIVATE DuneMaster: Decommission ability #1
+[T1 YOU main] 3 cards from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T1 YOU main] 2 Echo Debt moves to Axiom
+[T1 YOU main] Decommission — Send the top 3 cards of your Logistic to the Wasteland: transfer up to 3 Echo Debt to the opponent
+[T1 YOU main] Axiom is protected until their first turn: Echo Debt cannot go above 10
+[T1 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T1 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T1 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T1 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T1 YOU main] ACTIVATE DuneMaster: Decommission ability #1
+[T1 YOU main] 3 cards from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T1 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T1 YOU main] Decommission — Send the top 3 cards of your Logistic to the Wasteland: transfer up to 3 Echo Debt to the opponent
+[T1 YOU main] PLAY DuneMaster: Omnix, Vector Sentinel (U, cost 3 echo 2, lume 1, debt 7)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 9)
+[T1 YOU main] DuneMaster plays Omnix, Vector Sentinel
+[T1 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T2 AI main] Axiom is protected on the first turn: no Payday, 10 Echo Debt waits for the next one
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 22  lume 0  debt 9  lumeVictory 0/3  hand 2  logistic 23  wasteland 8
+      hand: Reprieve(1), Arkh, Lume Heart(6 echo 5)
+      front: Kry, The Calibrator 1/1 (prep) | Omnix, Vector Sentinel 1/1 (prep)
+      vault: Recalculate, Synthetic Lume, Overcharge, Gravity Lock, Decommission
+  AI  Axiom: life 18  lume 4  debt 10  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Blood Siphon(1), Sqietch Device(1), Grave Altar(2), Sqietch Device(1), Sqietch Reservoir(2), Grave Altar(2), Veyr Beacon(1), Shaqari, Caravan Elder(2)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Veriel, Scout Leader 6, Shaqari, Caravan Elder 5, Veyr Beacon 5. Unit swap: 1.09 Units lost per turn (high).
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 18.5, cost 2, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 10, opponent can push up to 3 (visible 3), Lume that can pay at Payday ~0, life 18 -> safe plays exist
+[T2 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 4, debt 10)
+[T2 AI main] Axiom plays Grave Altar
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 13.4, cost 2, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T2 AI main] PLAY Axiom: Blood Siphon (T, cost 1, lume 2, debt 10)
+[T2 AI main] Axiom plays Blood Siphon
+[T2 AI main] Decommission is destroyed
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 12.7, cost 2, Lume 1) -> nothing funds it yet: saves; engine in play: loop focus
+[T2 AI main] AI SAVES Lume for Grave Altar (value 12.7, cost 2) instead of playing for 3.5
+[T2 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T2 AI main] Grave Altar is destroyed
+[T2 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 AI main] AI OBJECTIVE: primary Grave Altar (value 20.4, cost 2, Lume 6) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Grave Altar (R, cost 2, lume 6, debt 10)
+[T2 AI main] Axiom plays Grave Altar
+[T2 AI main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.4, cost 2, Lume 4) -> it can be played now: plays it first; engine in play: loop focus
+[T2 AI main] PLAY Axiom: Veyr Beacon (R, cost 1, lume 4, debt 10)
+[T2 AI main] Axiom plays Veyr Beacon
+[T2 AI main] PLAY Axiom: Sqietch Device (R, cost 1, lume 3, debt 10)
+[T2 AI main] Axiom plays Sqietch Device
+[T2 AI main] PLAY Axiom: Shaqari, Caravan Elder (U, cost 2, lume 2, debt 10)
+[T2 AI main] Axiom plays Shaqari, Caravan Elder
+[T2 AI main] ACTIVATE Axiom: Grave Altar ability #1
+[T2 AI main] Grave Altar is destroyed
+[T2 AI main] Grave Altar — Destroy this Relic: gain 5 Lume
+[T2 AI main] PLAY Axiom: Sqietch Device (R, cost 1, lume 5, debt 10)
+[T2 AI main] Axiom plays Sqietch Device
+[T2 AI main] PLAY Axiom: Sqietch Reservoir (R, cost 2, lume 4, debt 10)
+[T2 AI main] Axiom plays Sqietch Reservoir
+[T2 AI main2] AI ends its turn with 0 card(s) in hand and 2 Lume unspent
+[T3 YOU main] Payday! DuneMaster loses 9 Life to Echo Debt
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 14  lume 1  debt 0  lumeVictory 0/3  hand 3  logistic 23  wasteland 8
+      hand: Reprieve(1), Arkh, Lume Heart(6 echo 5), Archive Core(5 echo 4)
+      front: Kry, The Calibrator 1/1 | Omnix, Vector Sentinel 1/1
+      vault: Recalculate, Synthetic Lume, Overcharge, Gravity Lock
+  AI  Axiom: life 14  lume 2  debt 10  lumeVictory 0/3  hand 0  logistic 32  wasteland 3
+      hand: -
+      front: Shaqari, Caravan Elder 2/3 (prep)
+      vault: Veyr Beacon, Sqietch Device, Sqietch Device, Sqietch Reservoir
+[T3 YOU main] PLAY DuneMaster: Archive Core (R, cost 5 echo 4, lume 1, debt 0)
+[T3 YOU main] DuneMaster takes 4 Echo Debt (Debt 4)
+[T3 YOU main] DuneMaster plays Archive Core
+[T3 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] DuneMaster steals 1 Lume from Axiom
+[T3 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T3 YOU main] PLAY DuneMaster: Arkh, Lume Heart (U, cost 6 echo 5, lume 2, debt 4)
+[T3 YOU main] DuneMaster takes 5 Echo Debt (Debt 9)
+[T3 YOU main] DuneMaster plays Arkh, Lume Heart
+[T3 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] DuneMaster steals 1 Lume from Axiom
+[T3 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T3 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T3 YOU main] 2 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] DuneMaster sends 2 cards from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T3 YOU main] PLAY DuneMaster: Ex-syn, The Recycler (U, cost 3 echo 2, lume 3, debt 6)
+[T3 YOU main] DuneMaster takes 2 Echo Debt (Debt 8)
+[T3 YOU main] DuneMaster plays Ex-syn, The Recycler
+[T3 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T3 YOU main] 2 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T3 YOU main] 2 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] PLAY DuneMaster: Reprieve (T, cost 1, lume 2, debt 0)
+[T3 YOU main] DuneMaster plays Reprieve
+[T3 YOU main] PLAY DuneMaster: Omnix, Vector Sentinel (U, cost 3 echo 2, lume 3, debt 0)
+[T3 YOU main] DuneMaster takes 2 Echo Debt (Debt 2)
+[T3 YOU main] DuneMaster plays Omnix, Vector Sentinel
+[T3 YOU main] ACTIVATE DuneMaster: Synthetic Lume ability #1
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Synthetic Lume — Send 1 card from your Wasteland to your Logistic and shuffle it: gain 1 Lume
+[T3 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Kry, The Calibrator — When cards of your Logistic are milled: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Gravity Lock — When cards of your Logistic are milled: transfer up to 2 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Archive Core — When cards return to your Logistic: steal 1 Lume from the opponent
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T3 YOU main] Omnix, Vector Sentinel — When your Echo Debt decreases: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T3 YOU bat] ATTACK DuneMaster declares: Omnix, Vector Sentinel 1/1 | Kry, The Calibrator 1/1
+[T3 YOU bat] BLOCKS (Axiom defends): Omnix, Vector Sentinel <- Shaqari, Caravan Elder 2/3 (prep) ; Kry, The Calibrator <- unblocked [Axiom life 2]
+[T3 YOU bat] Kry, The Calibrator hits Axiom for 1
+[T3 YOU bat] Omnix, Vector Sentinel clashes with Shaqari, Caravan Elder
+[T3 YOU bat] Omnix, Vector Sentinel is destroyed
+[T3 YOU main2] Nothing left to play: moving to End
+[T4 AI main] Payday! Axiom loses 23 Life to Echo Debt
+---- FINAL ----
+  YOU DuneMaster: life 26  lume 3  debt 0  lumeVictory 0/3  hand 0  logistic 30  wasteland 1
+      hand: -
+      front: Kry, The Calibrator 1/1 (rest) | Arkh, Lume Heart 1/1 (prep) | Ex-syn, The Recycler 1/1 (prep) | Omnix, Vector Sentinel 1/1 (prep)
+      vault: Recalculate, Synthetic Lume, Overcharge, Gravity Lock, Archive Core
+  AI  Axiom: life -22  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 31  wasteland 3
+      hand: Qarseem, Sand Warden(2)
+      front: Shaqari, Caravan Elder 2/2
+      vault: Veyr Beacon, Sqietch Device, Sqietch Device, Sqietch Reservoir

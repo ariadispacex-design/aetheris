@@ -1,0 +1,213 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-10T05:24:08.978Z
+mode: SPECTATE (AI vs AI)
+seat 1 (S1): Axiom A / axiom (deck Astronav)   seat 2 (S2): Axiom B / axiom (deck Veyrani)
+result: S1 wins  "Axiom A wins by Life."  turns 6  final life S1 9 / S2 -1
+
+==== BALANCE SUMMARY ====
+deck S1  Axiom A (40 cards): 2x Synthetic Lume, 4x Reprieve, 1x Decommission, 3x Biofuel Recycle, 4x Blood Siphon, 3x Kry, The Calibrator, 3x Factory Reset, 2x Omnix, Vector Sentinel, 3x Gravity Lock, 2x Ex-syn, The Recycler, 4x Archive Core, 2x Recalculate, 2x Synaxion, Path Navigator, 1x Theta, Prism Cutter, 2x Overcharge, 1x Arkh, Lume Heart, 1x Ix, The Oracle Array
+deck S2  Axiom B (40 cards): 4x Sqietch Reservoir, 4x Sqietch Device, 4x Sqietch Resupply, 4x Grave Altar, 4x Shaqari, Caravan Elder, 4x Thareq, Wormrider Elder, 4x Qarseem, Sand Warden, 4x Blood Siphon, 4x Veriel, Scout Leader, 4x Veyr Beacon
+result: S1 wins "Axiom A wins by Life." after 6 turns (3 seat 1, 2 seat 2)
+final life: S1 9 / S2 -1   final lume: S1 1 / S2 1   Lume Victory progress: S1 0/3 / S2 0/3
+what hurt the loser most: S2 Axiom B lost Life to: Payday 14, combat 4, Blood Siphon (cost) 3
+
+-- S1  Axiom A --
+  Lume gained 12 (Synthetic Lume 4, turn income 3, Omnix, Vector Sentinel 3, Reprieve (cost) 2)
+  Lume lost/spent 14 (Biofuel Recycle (cost) 4, Kry, The Calibrator (cost) 2, Gravity Lock (cost) 2, Decommission (cost) 1, Synthetic Lume (cost) 1, Reprieve (cost) 1)
+  Life gained 0 (-)
+  Life lost 11 (Decommission 7, Blood Siphon (cost) 3, Payday 1)
+  Echo Debt taken 17 (Biofuel Recycle (cost) 4, Decommission (cost) 3, Kry, The Calibrator (cost) 2, Synthetic Lume (cost) 2, Omnix, Vector Sentinel (cost) 2, Gravity Lock (cost) 2)  repaid/moved away 17  payday: lost Life 1
+  cards drawn 11, played 10 (Biofuel Recycle 2, Kry, The Calibrator 1, Decommission 1, Synthetic Lume 1, Reprieve 1, Omnix, Vector Sentinel 1, Gravity Lock 1, Blood Siphon 1, Ex-syn, The Recycler 1)
+  abilities activated: -
+  attacked 4 times (Kry, The Calibrator 2, Omnix, Vector Sentinel 2); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 13, peak life 20, avg hand 4.7, avg units 1.3, turns with 0 units 1
+
+-- S2  Axiom B --
+  Lume gained 3 (turn income 3)
+  Lume lost/spent 5 (Omnix, Vector Sentinel 3, Blood Siphon (cost) 1, Veriel, Scout Leader (cost) 1)
+  Life gained 0 (-)
+  Life lost 21 (Payday 14, combat 4, Blood Siphon (cost) 3)
+  Echo Debt taken 14 (Kry, The Calibrator 7, Decommission 7)  repaid/moved away 14  payday: lost Life 2, skipped (first turn) 1
+  cards drawn 10, played 2 (Blood Siphon 1, Veriel, Scout Leader 1)
+  abilities activated: -
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 1 (Veriel, Scout Leader 1)
+  own turns: peak lume 2, lowest life 3, peak life 20, avg hand 8.0, avg units 0.0, turns with 0 units 2
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life S1/S2 | lume S1/S2 | debt S1/S2 | hand | units | ATK on board | HP on board | logistic
+   1 S1  | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 32/33
+   2 S2  | 15/20 | 2/2 | 1/10 | 2/8 | 2/0 | 2/0 | 2/0 | 31/32
+   3 S1  | 14/17 | 3/1 | 0/10 | 3/7 | 2/0 | 2/0 | 2/0 | 30/32
+   4 S2  | 13/3 | 2/1 | 0/0 | 2/8 | 2/0 | 2/0 | 2/0 | 30/31
+   5 S1  | 13/3 | 3/0 | 0/0 | 3/7 | 2/1 | 2/1 | 2/2 | 29/31
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 S1 -] match start
+---- OPENING HANDS ----
+  S1  Axiom A: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Synthetic Lume(3 echo 2), Reprieve(1), Decommission(4 echo 3), Biofuel Recycle(4 echo 2), Blood Siphon(1), Kry, The Calibrator(4 echo 2), Factory Reset(5 echo 4)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+      front: -
+      vault: -
+[T0 S1 -] Axiom A plays Astronav, Axiom B plays Veyrani
+[T0 S1 -] D20 roll: Axiom A 9, Axiom B 6
+---- TURN 1: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Synthetic Lume(3 echo 2), Reprieve(1), Decommission(4 echo 3), Biofuel Recycle(4 echo 2), Blood Siphon(1), Kry, The Calibrator(4 echo 2), Factory Reset(5 echo 4), Biofuel Recycle(4 echo 2)
+      front: -
+      vault: -
+  S2  Axiom B: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+      front: -
+      vault: -
+[T1 S1 main] AI DECK PLAN (Axiom A): reads its own Logistic. Engine cards: Archive Core 10, Arkh, Lume Heart 10, Gravity Lock 7, Decommission 7. Unit swap: 0.22 Units lost per turn (low).
+[T1 S1 main] Axiom A studies its Logistic. Main engine: Archive Core, Arkh, Lume Heart, Gravity Lock
+[T1 S1 main] AI OBJECTIVE: primary Kry, The Calibrator (value 13.8, cost 2, Lume 4) -> it can be played now: plays it first
+[T1 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T1 S1 main] PLAY Axiom A: Kry, The Calibrator (U, cost 4 echo 2, lume 4, debt 0)
+[T1 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T1 S1 main] Axiom A plays Kry, The Calibrator
+[T1 S1 main] AI OBJECTIVE: primary Decommission (value 17.8, cost 1, Lume 2) -> it can be played now: plays it first
+[T1 S1 main] PLAY Axiom A: Decommission (R, cost 4 echo 3, lume 2, debt 2)
+[T1 S1 main] Axiom A takes 3 Echo Debt (Debt 5)
+[T1 S1 main] Axiom A plays Decommission
+[T1 S1 main] Kry, The Calibrator — Whenever you play another card using Echo: transfer up to 3 Echo Debt to the opponent
+[T1 S1 main] 3 Echo Debt moves to Axiom B
+[T1 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T1 S1 main] 2 Echo Debt moves to Axiom B
+[T1 S1 main] AI OBJECTIVE: primary Synthetic Lume (value 9.9, cost 1, Lume 1) -> it can be played now: plays it first
+[T1 S1 main] PLAY Axiom A: Synthetic Lume (R, cost 3 echo 2, lume 1, debt 0)
+[T1 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T1 S1 main] Axiom A plays Synthetic Lume
+[T1 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T1 S1 main] 2 Echo Debt moves to Axiom B
+[T1 S1 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T1 S1 main] PLAY Axiom A: Reprieve (T, cost 1, lume 1, debt 0)
+[T1 S1 main] Axiom A plays Reprieve
+[T1 S1 main] AI OBJECTIVE: primary Omnix, Vector Sentinel (value 12.8, cost 1, Lume 2) -> it can be played now: plays it first; engine in play: loop focus
+[T1 S1 main] PLAY Axiom A: Omnix, Vector Sentinel (U, cost 3 echo 2, lume 2, debt 0)
+[T1 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T1 S1 main] Axiom A plays Omnix, Vector Sentinel
+[T1 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T1 S1 main] 2 Echo Debt moves to Axiom B
+[T1 S1 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T1 S1 main] PLAY Axiom A: Biofuel Recycle (R, cost 4 echo 2, lume 2, debt 0)
+[T1 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T1 S1 main] Axiom A plays Biofuel Recycle
+[T1 S1 main] Omnix, Vector Sentinel — Whenever you play another card using Echo: steal 2 Lume from the opponent
+[T1 S1 main] Axiom A steals 2 Lume from Axiom B
+[T1 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T1 S1 main] Axiom B is protected until their first turn: Echo Debt cannot go above 10
+[T1 S1 main] 1 Echo Debt moves to Axiom B
+[T1 S1 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T1 S1 main] PLAY Axiom A: Biofuel Recycle (R, cost 4 echo 2, lume 3, debt 0)
+[T1 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T1 S1 main] Axiom A plays Biofuel Recycle
+[T1 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T1 S1 main] Synthetic Lume — When your Echo Debt increases: gain 1 Lume
+[T1 S1 main2] Axiom A ends its turn with 2 card(s) in hand and 2 Lume unspent: Blood Siphon(1), Factory Reset(5 echo 4)
+[T2 S2 main] Axiom B is protected on the first turn: no Payday, 10 Echo Debt waits for the next one
+---- TURN 2: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 15  lume 2  debt 1  lumeVictory 0/3  hand 2  logistic 31  wasteland 1
+      hand: Blood Siphon(1), Factory Reset(5 echo 4)
+      front: Kry, The Calibrator 1/1 (prep) | Omnix, Vector Sentinel 1/1 (prep)
+      vault: Decommission, Synthetic Lume, Biofuel Recycle, Biofuel Recycle
+  S2  Axiom B: life 20  lume 2  debt 10  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Blood Siphon(1)
+      front: -
+      vault: -
+[T2 S2 main] AI DECK PLAN (Axiom B): reads its own Logistic. Engine cards: Grave Altar 27, Veriel, Scout Leader 5, Shaqari, Caravan Elder 4, Veyr Beacon 4. Unit swap: 1.09 Units lost per turn (high).
+[T2 S2 main] Axiom B studies its Logistic. Main engine: Grave Altar, Veriel, Scout Leader, Shaqari, Caravan Elder
+[T2 S2 main] AI OBJECTIVE: primary Grave Altar (value 16.5, cost 2, Lume 2) -> it can be played now: plays it first
+[T2 S2 main] AI PAYDAY PLAN: own debt 10, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 20 -> safe plays exist
+[T2 S2 main] PLAY Axiom B: Blood Siphon (T, cost 1, lume 2, debt 10)
+[T2 S2 main] Axiom B plays Blood Siphon
+[T2 S2 main] Synthetic Lume is destroyed
+[T2 S2 main] AI OBJECTIVE: primary Grave Altar (value 15.6, cost 2, Lume 1) -> nothing funds it yet: saves
+[T2 S2 main] AI SAVES Lume for Grave Altar (value 15.6, cost 2) instead of playing for 3.5
+[T2 S2 main2] AI SAVES Lume for Grave Altar (value 15.6, cost 2) instead of playing for 3.5
+[T2 S2 main2] Axiom B ends its turn with 7 card(s) in hand and 1 Lume unspent: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+[T3 S1 main] Payday! Axiom A loses 1 Life to Echo Debt
+---- TURN 3: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 14  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 30  wasteland 2
+      hand: Blood Siphon(1), Factory Reset(5 echo 4), Gravity Lock(4 echo 2)
+      front: Kry, The Calibrator 1/1 | Omnix, Vector Sentinel 1/1
+      vault: Decommission, Biofuel Recycle, Biofuel Recycle
+  S2  Axiom B: life 17  lume 1  debt 10  lumeVictory 0/3  hand 7  logistic 32  wasteland 1
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+      front: -
+      vault: -
+[T3 S1 main] AI OBJECTIVE: primary Gravity Lock (value 11.0, cost 2, Lume 3) -> it can be played now: plays it first; engine in play: loop focus
+[T3 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 14 -> safe plays exist
+[T3 S1 main] PLAY Axiom A: Gravity Lock (R, cost 4 echo 2, lume 3, debt 0)
+[T3 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T3 S1 main] Axiom A plays Gravity Lock
+[T3 S1 main] Kry, The Calibrator — Whenever you play another card using Echo: transfer up to 3 Echo Debt to the opponent
+[T3 S1 main] 2 Echo Debt moves to Axiom B
+[T3 S1 main] Omnix, Vector Sentinel — Whenever you play another card using Echo: steal 2 Lume from the opponent
+[T3 S1 main] Axiom A steals 1 Lume from Axiom B
+[T3 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T3 S1 main] AI ATTACK PLAN: chose Kry, The Calibrator + Omnix, Vector Sentinel (score 1.5); next best: Kry, The Calibrator+Omnix, Vector Sentinel 1.5 ; Kry, The Calibrator 0.7 ; Omnix, Vector Sentinel 0.7 ; none 0.0
+[T3 S1 bat] ATTACK Axiom A declares: Kry, The Calibrator 1/1 | Omnix, Vector Sentinel 1/1
+[T3 S1 bat] BLOCKS (Axiom B defends): Kry, The Calibrator <- unblocked ; Omnix, Vector Sentinel <- unblocked [Axiom B life 17]
+[T3 S1 bat] Kry, The Calibrator hits Axiom B for 1
+[T3 S1 bat] Omnix, Vector Sentinel hits Axiom B for 1
+[T3 S1 main2] Axiom A ends its turn with 2 card(s) in hand and 2 Lume unspent: Blood Siphon(1), Factory Reset(5 echo 4)
+[T4 S2 main] Payday! Axiom B loses 12 Life to Echo Debt
+---- TURN 4: Axiom B (SEAT 2) starts ----
+  S1  Axiom A: life 13  lume 2  debt 0  lumeVictory 0/3  hand 2  logistic 30  wasteland 2
+      hand: Blood Siphon(1), Factory Reset(5 echo 4)
+      front: Kry, The Calibrator 1/1 (rest) | Omnix, Vector Sentinel 1/1 (rest)
+      vault: Decommission, Biofuel Recycle, Biofuel Recycle, Gravity Lock
+  S2  Axiom B: life 3  lume 1  debt 0  lumeVictory 0/3  hand 8  logistic 31  wasteland 1
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Veriel, Scout Leader(1)
+      front: -
+      vault: -
+[T4 S2 main] AI OBJECTIVE: primary Grave Altar (value 15.6, cost 2, Lume 1) -> nothing funds it yet: saves
+[T4 S2 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 3 -> safe plays exist
+[T4 S2 main] PLAY Axiom B: Veriel, Scout Leader (U, cost 1, lume 1, debt 0)
+[T4 S2 main] Axiom B plays Veriel, Scout Leader
+[T4 S2 main2] Axiom B ends its turn with 7 card(s) in hand and 0 Lume unspent: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+---- TURN 5: Axiom A (SEAT 1) starts ----
+  S1  Axiom A: life 13  lume 3  debt 0  lumeVictory 0/3  hand 3  logistic 29  wasteland 2
+      hand: Blood Siphon(1), Factory Reset(5 echo 4), Ex-syn, The Recycler(3 echo 2)
+      front: Kry, The Calibrator 1/1 | Omnix, Vector Sentinel 1/1
+      vault: Decommission, Biofuel Recycle, Biofuel Recycle, Gravity Lock
+  S2  Axiom B: life 3  lume 0  debt 0  lumeVictory 0/3  hand 7  logistic 31  wasteland 1
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2)
+      front: Veriel, Scout Leader 1/2 (prep)
+      vault: -
+[T5 S1 main] AI PAYDAY PLAN: own debt 0, opponent can push up to 0 (visible 0), Lume that can pay at Payday ~0, life 13 -> safe plays exist
+[T5 S1 main] PLAY Axiom A: Blood Siphon (T, cost 1, lume 3, debt 0)
+[T5 S1 main] Axiom A plays Blood Siphon
+[T5 S1 main] Veriel, Scout Leader is destroyed
+[T5 S1 main] PLAY Axiom A: Ex-syn, The Recycler (U, cost 3 echo 2, lume 2, debt 0)
+[T5 S1 main] Axiom A takes 2 Echo Debt (Debt 2)
+[T5 S1 main] Axiom A plays Ex-syn, The Recycler
+[T5 S1 main] Kry, The Calibrator — Whenever you play another card using Echo: transfer up to 3 Echo Debt to the opponent
+[T5 S1 main] 2 Echo Debt moves to Axiom B
+[T5 S1 main] Omnix, Vector Sentinel — Whenever you play another card using Echo: steal 2 Lume from the opponent
+[T5 S1 main] Decommission — When your Echo Debt increases: lose 1 Life then transfer up to 2 Echo Debt to the opponent then pay off 1 Echo Debt
+[T5 S1 main] Gravity Lock — When your Echo Debt increases: transfer up to 2 Echo Debt to the opponent
+[T5 S1 main] AI ATTACK PLAN: chose Kry, The Calibrator + Omnix, Vector Sentinel (score 12.8); next best: Kry, The Calibrator+Omnix, Vector Sentinel 12.8 ; Kry, The Calibrator 5.3 ; Omnix, Vector Sentinel 5.3 ; none 0.0
+[T5 S1 bat] ATTACK Axiom A declares: Kry, The Calibrator 1/1 | Omnix, Vector Sentinel 1/1
+[T5 S1 bat] BLOCKS (Axiom B defends): Kry, The Calibrator <- unblocked ; Omnix, Vector Sentinel <- unblocked [Axiom B life 3]
+[T5 S1 bat] Kry, The Calibrator hits Axiom B for 1
+[T5 S1 bat] Omnix, Vector Sentinel hits Axiom B for 1
+[T5 S1 main2] Axiom A ends its turn with 1 card(s) in hand and 1 Lume unspent: Factory Reset(5 echo 4)
+[T6 S2 main] Payday! Axiom B loses 2 Life to Echo Debt
+---- FINAL ----
+  S1  Axiom A: life 9  lume 1  debt 0  lumeVictory 0/3  hand 1  logistic 29  wasteland 3
+      hand: Factory Reset(5 echo 4)
+      front: Kry, The Calibrator 1/1 (rest) | Omnix, Vector Sentinel 1/1 (rest) | Ex-syn, The Recycler 1/1 (prep)
+      vault: Decommission, Biofuel Recycle, Biofuel Recycle, Gravity Lock
+  S2  Axiom B: life -1  lume 1  debt 0  lumeVictory 0/3  hand 8  logistic 30  wasteland 2
+      hand: Sqietch Reservoir(2), Sqietch Device(1), Sqietch Resupply(1), Grave Altar(2), Shaqari, Caravan Elder(2), Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Blood Siphon(1)
+      front: -
+      vault: -

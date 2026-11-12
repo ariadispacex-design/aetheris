@@ -1,0 +1,244 @@
+Aetheris Arena match log (format 2: header, BALANCE SUMMARY, then every event)
+date: 2026-11-12T04:18:56.014Z
+you: DuneMaster (deck Astronav)   opponent: Axiom / axiom (deck Veyrani)
+result: win  "Victory! Your opponent has fallen."  turns 5  final life you 15 / opponent -2
+
+==== BALANCE SUMMARY ====
+deck YOU DuneMaster (45 cards): 4x Ex-syn, The Recycler, 4x Reprieve, 3x Arkh, Lume Heart, 2x Decommission, 4x Theta, Prism Cutter, 2x Synthetic Lume, 4x Recalculate, 2x Ix, The Oracle Array, 4x Overcharge, 3x Synaxion, Path Navigator, 2x Biofuel Recycle, 2x Factory Reset, 2x Gravity Lock, 1x Blood Siphon, 2x Kry, The Calibrator, 3x Omnix, Vector Sentinel, 1x Archive Core
+deck AI  Axiom (40 cards): 4x Thareq, Wormrider Elder, 4x Veriel, Scout Leader, 4x Blood Siphon, 4x Qarseem, Sand Warden, 4x Shaqari, Caravan Elder, 4x Veyr Beacon, 4x Sqietch Resupply, 4x Grave Altar, 4x Sqietch Device, 4x Sqietch Reservoir
+result: win "Victory! Your opponent has fallen." after 5 turns (3 yours, 2 AI)
+final life: you 15 / AI -2   final lume: you 0 / AI 0   Lume Victory progress: you 0/3 / AI 0/3
+what hurt the loser most: AI lost Life to: Overcharge 10, Payday 9, Blood Siphon (cost) 3
+
+-- YOU DuneMaster --
+  Lume gained 8 (turn income 3, Synthetic Lume 3, Reprieve (cost) 2)
+  Lume lost/spent 11 (Reprieve (cost) 2, Overcharge (cost) 2, Recalculate (cost) 1, Synthetic Lume (cost) 1, Ix, The Oracle Array (cost) 1, Theta, Prism Cutter (cost) 1)
+  Life gained 10 (Overcharge 10)
+  Life lost 15 (Payday 15)
+  Echo Debt taken 31 (Overcharge (cost) 8, Theta, Prism Cutter (cost) 5, Arkh, Lume Heart (cost) 5, Ix, The Oracle Array (cost) 4, Decommission (cost) 3, Recalculate (cost) 2)  repaid/moved away 27  payday: lost Life 2
+  cards drawn 14, played 11 (Reprieve 2, Overcharge 2, Recalculate 1, Synthetic Lume 1, Ix, The Oracle Array 1, Theta, Prism Cutter 1, Ex-syn, The Recycler 1, Decommission 1, Arkh, Lume Heart 1)
+  abilities activated: Recalculate 2, Ex-syn, The Recycler 2
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 7, peak life 21, avg hand 5.0, avg units 2.0, turns with 0 units 1
+
+-- AI  Axiom --
+  Lume gained 4 (turn income 2, Shaqari, Caravan Elder 1, Qarseem, Sand Warden 1)
+  Lume lost/spent 7 (Shaqari, Caravan Elder (cost) 2, Qarseem, Sand Warden (cost) 2, Blood Siphon (cost) 1, Veriel, Scout Leader (cost) 1, Veyr Beacon (cost) 1)
+  Life gained 0 (-)
+  Life lost 22 (Overcharge 10, Payday 9, Blood Siphon (cost) 3)
+  Echo Debt taken 10 (Theta, Prism Cutter 8, Recalculate (ability) 2)  repaid/moved away 9  payday: skipped (first turn) 1, lost Life 1
+  cards drawn 9, played 5 (Blood Siphon 1, Veriel, Scout Leader 1, Shaqari, Caravan Elder 1, Qarseem, Sand Warden 1, Veyr Beacon 1)
+  abilities activated: Veriel, Scout Leader 1
+  attacked 0 times (-); blocked 0 times (-)
+  units destroyed 0 (-)
+  own turns: peak lume 4, lowest life 2, peak life 20, avg hand 7.0, avg units 1.0, turns with 0 units 1
+
+-- per turn (snapshot at the START of each turn, after income/Payday/draw) --
+  T  who | life you/AI | lume you/AI | debt you/AI | hand | units | ATK on board | HP on board | logistic
+   1 YOU | 20/20 | 4/3 | 0/0 | 8/7 | 0/0 | 0/0 | 0/0 | 37/33
+   2 AI  | 21/19 | 0/4 | 14/6 | 2/8 | 3/0 | 3/0 | 3/0 | 28/32
+   3 YOU | 7/16 | 1/0 | 0/6 | 3/5 | 3/2 | 3/3 | 3/5 | 27/32
+   4 AI  | 12/2 | 0/2 | 1/0 | 3/6 | 3/2 | 3/3 | 3/5 | 26/31
+   5 YOU | 11/2 | 1/0 | 0/0 | 4/4 | 3/4 | 3/6 | 3/9 | 25/31
+==== END SUMMARY ====
+
+==== EVENT LOG ====
+[T0 YOU -] match start
+---- OPENING HANDS ----
+  YOU DuneMaster: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 38  wasteland 0
+      hand: Ex-syn, The Recycler(3 echo 2), Reprieve(1), Arkh, Lume Heart(6 echo 5), Reprieve(1), Decommission(4 echo 3), Theta, Prism Cutter(6 echo 5), Synthetic Lume(3 echo 2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Veriel, Scout Leader(1), Blood Siphon(1), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Qarseem, Sand Warden(2), Veyr Beacon(1)
+      front: -
+      vault: -
+[T0 YOU -] Axiom plays Veyrani
+[T0 YOU -] D20 roll: you 16, opponent 3
+---- TURN 1: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 20  lume 4  debt 0  lumeVictory 0/3  hand 8  logistic 37  wasteland 0
+      hand: Ex-syn, The Recycler(3 echo 2), Reprieve(1), Arkh, Lume Heart(6 echo 5), Reprieve(1), Decommission(4 echo 3), Theta, Prism Cutter(6 echo 5), Synthetic Lume(3 echo 2), Recalculate(3 echo 2)
+      front: -
+      vault: -
+  AI  Axiom: life 20  lume 3  debt 0  lumeVictory 0/3  hand 7  logistic 33  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Veriel, Scout Leader(1), Blood Siphon(1), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Qarseem, Sand Warden(2), Veyr Beacon(1)
+      front: -
+      vault: -
+[T1 YOU main] PLAY DuneMaster: Reprieve (T, cost 1, lume 4, debt 0)
+[T1 YOU main] DuneMaster plays Reprieve
+[T1 YOU main] PLAY DuneMaster: Recalculate (R, cost 3 echo 2, lume 5, debt 0)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 2)
+[T1 YOU main] DuneMaster plays Recalculate
+[T1 YOU main] PLAY DuneMaster: Synthetic Lume (R, cost 3 echo 2, lume 4, debt 2)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 4)
+[T1 YOU main] DuneMaster plays Synthetic Lume
+[T1 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Synthetic Lume — When cards of your Logistic are milled: gain 3 Lume
+[T1 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] PLAY DuneMaster: Ix, The Oracle Array (U, cost 5 echo 4, lume 6, debt 3)
+[T1 YOU main] DuneMaster takes 4 Echo Debt (Debt 7)
+[T1 YOU main] DuneMaster plays Ix, The Oracle Array
+[T1 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] PLAY DuneMaster: Theta, Prism Cutter (U, cost 6 echo 5, lume 5, debt 7)
+[T1 YOU main] DuneMaster takes 5 Echo Debt (Debt 12)
+[T1 YOU main] DuneMaster plays Theta, Prism Cutter
+[T1 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] PLAY DuneMaster: Ex-syn, The Recycler (U, cost 3 echo 2, lume 4, debt 11)
+[T1 YOU main] DuneMaster takes 2 Echo Debt (Debt 13)
+[T1 YOU main] DuneMaster plays Ex-syn, The Recycler
+[T1 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T1 YOU main] PLAY DuneMaster: Overcharge (R, cost 5 echo 4, lume 3, debt 11)
+[T1 YOU main] DuneMaster takes 4 Echo Debt (Debt 15)
+[T1 YOU main] DuneMaster plays Overcharge
+[T1 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] PLAY DuneMaster: Decommission (R, cost 4 echo 3, lume 2, debt 14)
+[T1 YOU main] DuneMaster takes 3 Echo Debt (Debt 17)
+[T1 YOU main] DuneMaster plays Decommission
+[T1 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T1 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T1 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T1 YOU main] 1 Echo Debt moves to Axiom
+[T1 YOU main] Decommission — When cards of your Logistic are milled: send 1 card from your Wasteland to your Logistic and shuffle it
+[T1 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T1 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T1 YOU main] PLAY DuneMaster: Reprieve (T, cost 1, lume 1, debt 16)
+[T1 YOU main] DuneMaster plays Reprieve
+[T1 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T1 YOU bat] No Unit on Standby ready to attack: moving to Main 2
+[T1 YOU main2] Nothing left to play: moving to End
+[T2 AI main] Axiom is protected on the first turn: no Payday, 6 Echo Debt waits for the next one
+---- TURN 2: Axiom (AI) starts ----
+  YOU DuneMaster: life 21  lume 0  debt 14  lumeVictory 0/3  hand 2  logistic 28  wasteland 8
+      hand: Arkh, Lume Heart(6 echo 5), Overcharge(5 echo 4)
+      front: Ix, The Oracle Array 1/1 (prep) | Theta, Prism Cutter 1/1 (prep) | Ex-syn, The Recycler 1/1 (prep)
+      vault: Recalculate, Synthetic Lume, Overcharge, Decommission
+  AI  Axiom: life 19  lume 4  debt 6  lumeVictory 0/3  hand 8  logistic 32  wasteland 0
+      hand: Thareq, Wormrider Elder(5), Veriel, Scout Leader(1), Blood Siphon(1), Qarseem, Sand Warden(2), Shaqari, Caravan Elder(2), Qarseem, Sand Warden(2), Veyr Beacon(1), Sqietch Resupply(1)
+      front: -
+      vault: -
+[T2 AI main] AI DECK PLAN (Axiom): reads its own Logistic. Engine cards: Grave Altar 31, Veriel, Scout Leader 6, Shaqari, Caravan Elder 5, Veyr Beacon 5. Unit swap: 1.09 Units lost per turn (high).
+[T2 AI main] AI OBJECTIVE: primary Veriel, Scout Leader (value 9.9, cost 1, Lume 4) -> it can be played now: plays it first
+[T2 AI main] AI PAYDAY PLAN: own debt 6, opponent can push up to 1 (visible 1), Lume that can pay at Payday ~0, life 19 -> safe plays exist
+[T2 AI main] PLAY Axiom: Blood Siphon (T, cost 1, lume 4, debt 6)
+[T2 AI main] Axiom plays Blood Siphon
+[T2 AI main] Synthetic Lume is destroyed
+[T2 AI main] PLAY Axiom: Veriel, Scout Leader (U, cost 1, lume 3, debt 6)
+[T2 AI main] Axiom plays Veriel, Scout Leader
+[T2 AI main] AI OBJECTIVE: primary Shaqari, Caravan Elder (value 9.0, cost 2, Lume 2) -> it can be played now: plays it first
+[T2 AI main] PLAY Axiom: Shaqari, Caravan Elder (U, cost 2, lume 2, debt 6)
+[T2 AI main] Axiom plays Shaqari, Caravan Elder
+[T2 AI main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 10.3, cost 5, Lume 0) -> nothing funds it yet: saves
+[T2 AI main2] AI ends its turn with 5 card(s) in hand and 0 Lume unspent: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Qarseem, Sand Warden(2), Veyr Beacon(1), Sqietch Resupply(1)
+[T3 YOU main] Payday! DuneMaster loses 14 Life to Echo Debt
+---- TURN 3: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 7  lume 1  debt 0  lumeVictory 0/3  hand 3  logistic 27  wasteland 9
+      hand: Arkh, Lume Heart(6 echo 5), Overcharge(5 echo 4), Theta, Prism Cutter(6 echo 5)
+      front: Ix, The Oracle Array 1/1 | Theta, Prism Cutter 1/1 | Ex-syn, The Recycler 1/1
+      vault: Recalculate, Overcharge, Decommission
+  AI  Axiom: life 16  lume 0  debt 6  lumeVictory 0/3  hand 5  logistic 32  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Qarseem, Sand Warden(2), Veyr Beacon(1), Sqietch Resupply(1)
+      front: Veriel, Scout Leader 1/2 (prep) | Shaqari, Caravan Elder 2/3 (prep)
+      vault: -
+[T3 YOU main] ACTIVATE DuneMaster: Ex-syn, The Recycler ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T3 YOU main] Decommission — When cards of your Logistic are milled: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Ex-syn, The Recycler — Send the top 1 card of your Logistic to the Wasteland: draw 1
+[T3 YOU main] PLAY DuneMaster: Overcharge (R, cost 5 echo 4, lume 1, debt 0)
+[T3 YOU main] DuneMaster takes 4 Echo Debt (Debt 4)
+[T3 YOU main] DuneMaster plays Overcharge
+[T3 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Decommission — When cards of your Logistic are milled: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] ACTIVATE DuneMaster: Recalculate ability #1
+[T3 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T3 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] Decommission — When cards of your Logistic are milled: send 1 card from your Wasteland to your Logistic and shuffle it
+[T3 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T3 YOU main] Recalculate — Send the top 1 card of your Logistic to the Wasteland: transfer up to 1 Echo Debt to the opponent
+[T3 YOU main] 1 Echo Debt moves to Axiom
+[T3 YOU main] No playable card (Lume or trigger not met): moving to Battle
+[T4 AI main] Shaqari, Caravan Elder — At Extraction: gain 1 Lume
+[T4 AI main] Payday! Axiom loses 9 Life to Echo Debt
+---- TURN 4: Axiom (AI) starts ----
+  YOU DuneMaster: life 12  lume 0  debt 1  lumeVictory 0/3  hand 3  logistic 26  wasteland 9
+      hand: Arkh, Lume Heart(6 echo 5), Theta, Prism Cutter(6 echo 5), Blood Siphon(1)
+      front: Ix, The Oracle Array 1/1 | Theta, Prism Cutter 1/1 | Ex-syn, The Recycler 1/1
+      vault: Recalculate, Overcharge, Decommission, Overcharge
+  AI  Axiom: life 2  lume 2  debt 0  lumeVictory 0/3  hand 6  logistic 31  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Qarseem, Sand Warden(2), Veyr Beacon(1), Sqietch Resupply(1), Thareq, Wormrider Elder(5)
+      front: Veriel, Scout Leader 1/2 | Shaqari, Caravan Elder 2/3
+      vault: -
+[T4 AI main] AI OBJECTIVE: primary Thareq, Wormrider Elder (value 12.3, cost 5, Lume 2) -> nothing funds it yet: saves
+[T4 AI main] AI PAYDAY PLAN: own debt 0, opponent can push up to 1 (visible 1), Lume that can pay at Payday ~0, life 2 -> safe plays exist
+[T4 AI main] PLAY Axiom: Qarseem, Sand Warden (U, cost 2, lume 2, debt 0)
+[T4 AI main] Axiom plays Qarseem, Sand Warden
+[T4 AI main] AI ATTACK PLAN: chose no attack (score 0.0); next best: none 0.0 ; Shaqari, Caravan Elder -6.3 ; Veriel, Scout Leader -11.4 ; Veriel, Scout Leader+Shaqari, Caravan Elder -8042.1
+[T4 AI main2] ACTIVATE Axiom: Veriel, Scout Leader ability #1
+[T4 AI main2] Veriel, Scout Leader — Set this Unit to Rest: recruit a 1/1 Veyrani Scout Veyr Walker with Swift
+[T4 AI main2] Qarseem, Sand Warden — When another of your Units enters: gain 1 Lume
+[T4 AI main2] PLAY Axiom: Veyr Beacon (R, cost 1, lume 1, debt 0)
+[T4 AI main2] Axiom plays Veyr Beacon
+[T4 AI main2] AI ends its turn with 4 card(s) in hand and 0 Lume unspent: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5)
+[T5 YOU main] Payday! DuneMaster loses 1 Life to Echo Debt
+---- TURN 5: DuneMaster (YOU) starts ----
+  YOU DuneMaster: life 11  lume 1  debt 0  lumeVictory 0/3  hand 4  logistic 25  wasteland 9
+      hand: Arkh, Lume Heart(6 echo 5), Theta, Prism Cutter(6 echo 5), Blood Siphon(1), Arkh, Lume Heart(6 echo 5)
+      front: Ix, The Oracle Array 1/1 | Theta, Prism Cutter 1/1 | Ex-syn, The Recycler 1/1
+      vault: Recalculate, Overcharge, Decommission, Overcharge
+  AI  Axiom: life 2  lume 0  debt 0  lumeVictory 0/3  hand 4  logistic 31  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5)
+      front: Veriel, Scout Leader 1/2 (rest) | Shaqari, Caravan Elder 2/3 | Qarseem, Sand Warden 2/3 (prep) | Veyr Walker 1/1 token
+      vault: Veyr Beacon
+[T5 YOU main] PLAY DuneMaster: Arkh, Lume Heart (U, cost 6 echo 5, lume 1, debt 0)
+[T5 YOU main] DuneMaster takes 5 Echo Debt (Debt 5)
+[T5 YOU main] DuneMaster plays Arkh, Lume Heart
+[T5 YOU main] Ix, The Oracle Array — When your Echo Debt increases: send the top 1 card of your Logistic to the Wasteland
+[T5 YOU main] 1 card from DuneMaster's Logistic go to the Wasteland
+[T5 YOU main] Theta, Prism Cutter — When cards of your Logistic are milled: transfer up to X Echo Debt to the opponent, where X is the number of cards milled
+[T5 YOU main] 1 Echo Debt moves to Axiom
+[T5 YOU main] Decommission — When cards of your Logistic are milled: send 1 card from your Wasteland to your Logistic and shuffle it
+[T5 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T5 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T5 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T5 YOU main] Arkh, Lume Heart — When your Echo Debt decreases: send X cards from your Wasteland to your Logistic and shuffle it, where X is the amount it changed by
+[T5 YOU main] DuneMaster sends 1 card from the Wasteland to the Logistic and shuffles it
+[T5 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+[T5 YOU main] Overcharge — When cards return to your Logistic: drain 1 from the opponent
+---- FINAL ----
+  YOU DuneMaster: life 15  lume 0  debt 4  lumeVictory 0/3  hand 3  logistic 26  wasteland 8
+      hand: Arkh, Lume Heart(6 echo 5), Theta, Prism Cutter(6 echo 5), Blood Siphon(1)
+      front: Ix, The Oracle Array 1/1 | Theta, Prism Cutter 1/1 | Ex-syn, The Recycler 1/1 | Arkh, Lume Heart 1/1 (prep)
+      vault: Recalculate, Overcharge, Decommission, Overcharge
+  AI  Axiom: life -2  lume 0  debt 1  lumeVictory 0/3  hand 4  logistic 31  wasteland 1
+      hand: Thareq, Wormrider Elder(5), Qarseem, Sand Warden(2), Sqietch Resupply(1), Thareq, Wormrider Elder(5)
+      front: Veriel, Scout Leader 1/2 (rest) | Shaqari, Caravan Elder 2/3 | Qarseem, Sand Warden 2/3 (prep) | Veyr Walker 1/1 token
+      vault: Veyr Beacon
